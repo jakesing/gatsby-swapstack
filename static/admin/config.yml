@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: jakesing/gatsby-swapstack
+  name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "content/uploads" # Media files will be stored in the repo under images/uploads
 collections:
