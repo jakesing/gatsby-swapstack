@@ -10,6 +10,8 @@
   "dependencies": {
     "@headlessui/react": "^1.2.0",
     "@heroicons/react": "^1.0.1",
+    "@loadable/server": "^5.15.0",
+    "@tailwindcss/typography": "^0.4.0",
     "gatsby": "^3.4.1",
     "gatsby-plugin-feed": "^3.4.0",
     "gatsby-plugin-gatsby-cloud": "^2.4.1",
@@ -36,6 +38,8 @@
     "typeface-montserrat": "0.0.75"
   },
   "devDependencies": {
+    "@loadable/babel-plugin": "^5.13.2",
+    "@loadable/webpack-plugin": "^5.15.0",
     "autoprefixer": "^10.2.5",
     "gatsby-plugin-postcss": "^4.5.0",
     "postcss": "^8.2.15",
