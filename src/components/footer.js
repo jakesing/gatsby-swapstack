@@ -6,7 +6,7 @@ const navigation = {
     { name: "About", href: "/about" },
     { name: "Blog", href: "/about" },
     // { name: "Jobs", href: "#" },
-    { name: "Press", href: "#" },
+    { name: "Press", href: "#press" },
   ],
   social: [
     {

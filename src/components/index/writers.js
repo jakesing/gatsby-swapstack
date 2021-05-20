@@ -1,6 +1,5 @@
 import React from "react"
 import { Fragment } from "react"
-import { ChevronDownIcon } from "@heroicons/react/solid"
 
 /*
   This example requires Tailwind CSS v2.0+ 
@@ -20,29 +19,30 @@ import { ChevronDownIcon } from "@heroicons/react/solid"
 */
 
 import {
-  GlobeAltIcon,
-  LightningBoltIcon,
-  ScaleIcon,
-} from "@heroicons/react/outline"
+  SwitchHorizontalIcon,
+  PlayIcon,
+  ChatAlt2Icon,
+} from "@heroicons/react/solid"
+import { Link } from "gatsby"
 
 const features = [
   {
-    name: "Competitive exchange rates",
+    name: "1-to-1 Matches with Brands",
     description:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.",
-    icon: GlobeAltIcon,
+      "Send and receive introduction requests to 200+ brands on the Swapstack platform. After a double opt-in, we introduce you to arrange the terms of your adverting.",
+    icon: SwitchHorizontalIcon,
   },
   {
-    name: "No hidden fees",
+    name: "Plug & Play",
     description:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.",
-    icon: ScaleIcon,
+      "Run your first ad instantly. Swapstack works with brands to pre-approve newsletters to run afilliate ads.",
+    icon: PlayIcon,
   },
   {
-    name: "Transfers are instant",
+    name: "Slack Community",
     description:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.",
-    icon: LightningBoltIcon,
+      "We offer a community for writers with over 1,000 subscribers. Meet other writers, learn from one another, and swap cross-promotions.",
+    icon: ChatAlt2Icon,
   },
 ]
 
@@ -54,44 +54,13 @@ export default function Writers() {
         <div className="max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8 lg:flex lg:justify-between">
           <div className="max-w-xl">
             <h2 className="text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl">
-              Pricing Plans
+              Newsletter Writers
             </h2>
             <p className="mt-5 text-xl text-gray-500">
-              Start building for free, then add a site plan to go live. Account
-              plans unlock additional features.
+              You've worked hard to build an amazing, engaged audience.
+              Swapstack introduces you to brands who are eager to reach your
+              readers.
             </p>
-          </div>
-          <div className="mt-10 w-full max-w-xs">
-            <label
-              htmlFor="currency"
-              className="block text-base font-medium text-gray-500"
-            >
-              Currency
-            </label>
-            <div className="mt-1.5 relative">
-              <select
-                id="currency"
-                name="currency"
-                className="appearance-none block w-full bg-none bg-white border border-gray-300 rounded-md pl-3 pr-10 py-2 text-base text-gray-900 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
-                defaultValue="United States (USD)"
-              >
-                <option>Argentina (ARS)</option>
-                <option>Australia (AUD)</option>
-                <option>United States (USD)</option>
-                <option>Canada (CAD)</option>
-                <option>France (EUR)</option>
-                <option>Japan (JPY)</option>
-                <option>Nigeria (NGN)</option>
-                <option>Switzerland (CHF)</option>
-                <option>United Kingdom (GBP)</option>
-              </select>
-              <div className="pointer-events-none absolute inset-y-0 right-0 px-2 flex items-center">
-                <ChevronDownIcon
-                  className="h-4 w-4 text-gray-400"
-                  aria-hidden="true"
-                />
-              </div>
-            </div>
           </div>
         </div>
       </div>
@@ -122,25 +91,27 @@ export default function Writers() {
       <div className="bg-white">
         <div className="max-w-7xl mx-auto text-center py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
           <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-            <span className="block">Ready to dive in?</span>
-            <span className="block">Start your free trial today.</span>
+            <span className="block">Ready to start earning?</span>
+            <span className="block text-indigo-600">
+              Sign up for Swapstack today.
+            </span>
           </h2>
           <div className="mt-8 flex justify-center">
             <div className="inline-flex rounded-md shadow">
-              <a
-                href="#"
+              <Link
+                to="https://app.swapstack.co/login?key=signup"
                 className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700"
               >
-                Get started
-              </a>
+                Sign up for free
+              </Link>
             </div>
             <div className="ml-3 inline-flex">
-              <a
-                href="#"
+              <Link
+                to="/writers"
                 className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-indigo-700 bg-indigo-100 hover:bg-indigo-200"
               >
                 Learn more
-              </a>
+              </Link>
             </div>
           </div>
         </div>
@@ -149,7 +120,7 @@ export default function Writers() {
       <div className="bg-white">
         <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
           <p className="text-center text-base font-semibold uppercase text-gray-600 tracking-wider">
-            Trusted by over 5 very average small businesses
+            A small sampling of our fantastic writers
           </p>
           <div className="mt-6 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-8">
             <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50">

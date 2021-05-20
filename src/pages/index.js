@@ -5,11 +5,13 @@ import Logos from "../components/index/logos"
 import Brands from "../components/index/brands"
 import Writers from "../components/index/writers"
 import Press from "../components/index/press"
+import Seo from "../components/seo"
 
 export default function Index() {
   return (
     <div>
       <Layout>
+        <Seo title="Swapstack" description="testing" />
         <Hero />
         <Logos />
         <Brands />
