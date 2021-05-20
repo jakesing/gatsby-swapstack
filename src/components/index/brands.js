@@ -14,7 +14,7 @@ const supportLinks = [
     icon: UserGroupIcon,
   },
   {
-    name: "Engaged Audiences",
+    name: "Engaged Readers",
     description:
       "Readers spend minutes with each piece of content, and our writers charge per thousand opens. Compared to a momentary scroll, each engagement is much longer in a newsletter.",
     icon: CurrencyDollarIcon,
