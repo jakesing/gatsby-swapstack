@@ -2,7 +2,7 @@ import React from "react"
 import MorningBrew from "../../images/morning-brew.png"
 import FelixGray from "../../images/felixgray.png"
 import OnDeck from "../../images/ondeck.svg"
-import SecureFrame from "../../images/secureframe.png"
+import SecureFrame from "../../images/SecureFrame.png"
 
 /* This example requires Tailwind CSS v2.0+ */
 export default function Logos() {
