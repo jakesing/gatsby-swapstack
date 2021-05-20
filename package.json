@@ -11,6 +11,7 @@
     "@headlessui/react": "^1.2.0",
     "@heroicons/react": "^1.0.1",
     "@loadable/server": "^5.15.0",
+    "@tailwindcss/aspect-ratio": "^0.2.0",
     "@tailwindcss/typography": "^0.4.0",
     "gatsby": "^3.4.1",
     "gatsby-plugin-feed": "^3.4.0",
