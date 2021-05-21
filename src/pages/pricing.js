@@ -2,10 +2,12 @@ import Layout from "../components/layout"
 import React from "react"
 import Pricing from "../components/brands/pricing"
 import Invoice from "../images/invoice.png"
+import Seo from "../components/seo"
 
 export default function PricingPage() {
   return (
     <Layout>
+      <Seo title={`Pricing | Swapstack`} />
       <Pricing />
       <div className="relative bg-gray-50 pt-16 overflow-hidden sm:pt-24 lg:pt-0">
         <div className="mx-auto max-w-md px-4 text-center sm:px-6 sm:max-w-3xl lg:px-8 lg:max-w-7xl">

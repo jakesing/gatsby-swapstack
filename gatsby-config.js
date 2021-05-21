@@ -1,15 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
-    },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    title: `Swastack`,
+    description: `The premiere newsletter advertising marketplace.`,
+    siteUrl: `https://swapstack.co/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `@swapstackHQ`,
     },
+    keywords: `newsletters, advertising, sponsorship, Substack, Swapstack, creators, brands, affiliate`,
+    image: `src/images/swapstack_logo.png`,
   },
   plugins: [
     `gatsby-plugin-image`,

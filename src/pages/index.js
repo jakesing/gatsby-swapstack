@@ -11,7 +11,7 @@ export default function Index() {
   return (
     <div>
       <Layout>
-        <Seo title="Swapstack" description="testing" />
+        <Seo />
         <Hero />
         <Logos />
         <Brands />

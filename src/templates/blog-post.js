@@ -12,8 +12,9 @@ const BlogPostTemplate = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo
-        title={post.frontmatter.title}
+        title={`${post.frontmatter.title} | Swapstack Blog`}
         description={post.frontmatter.description || post.excerpt}
+        thumbnail={post.frontmatter.thumbnail}
       />
       {/* <article
         className="blog-post"
@@ -176,6 +177,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        thumbnail
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
