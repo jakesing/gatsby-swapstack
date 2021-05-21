@@ -10,19 +10,19 @@ const supportLinks = [
   {
     name: "Specific Audiences",
     description:
-      "At Swapstack you'll find hundreds of writers covering dozens of topics. From business to parenting and everything in between, we can (almost) guarantee that you'll find the perfect audience for your brand.",
+      "At Swapstack you'll find hundreds of writers covering dozens of topics. From business to parenting and everything in between, you'll find the perfect audience for your brand.",
     icon: UserGroupIcon,
   },
   {
     name: "Engaged Readers",
     description:
-      "Readers spend minutes with each piece of content, and our writers charge per thousand opens. Compared to a momentary scroll, each engagement is much longer in a newsletter.",
+      "Readers spend minutes with each piece of content. Compared to a momentary scroll, each engagement is much longer in a newsletter.",
     icon: CurrencyDollarIcon,
   },
   {
     name: "Straightforward Payments",
     description:
-      "Swapstack charges 10% + payment fees to the brand and is always free for writers. Brands can pay via credit card or ACH, all through Stripe.",
+      "Writers determine their own pricing, and Swapstack charges 10% + payment fees on top of that. Brands can pay via credit card or ACH, all through Stripe.",
     icon: CreditCardIcon,
   },
 ]
@@ -48,9 +48,9 @@ export default function Brands() {
             Brands
           </h1>
           <p className="mt-6 max-w-3xl text-xl text-gray-300">
-            Find the perfect audience for your brand. With over 400 newsletter
-            writers on the Swapstack network, virtually any audience is within
-            reach.
+            Find the perfect audience for your brand. With hundreds of
+            newsletters on the Swapstack network, virtually any audience is
+            within reach.
           </p>
         </div>
       </div>
@@ -85,20 +85,20 @@ export default function Brands() {
         </div>
       </section>
       <div className="bg-white">
-        <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 md:py-16 lg:px-8 lg:py-20">
+        <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 md:py-16 lg:px-8 text-center lg:py-20">
           <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">
             <span className="block">Ready to get started?</span>
             <span className="block text-indigo-600">
-              Sign up for Swapstack today.
+              Check out our newsletters.
             </span>
           </h2>
-          <div className="mt-8 flex">
+          <div className="mt-8 flex justify-center">
             <div className="inline-flex rounded-md shadow">
               <Link
-                to="https://app.swapstack.co/login?key=signup"
+                to="https://app.swapstack.co/newsletter-gallery"
                 className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700"
               >
-                Sign up for free
+                Browse our newsletters
               </Link>
             </div>
             <div className="ml-3 inline-flex">

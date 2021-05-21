@@ -54,12 +54,12 @@ export default function Writers() {
         <div className="max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8 lg:flex lg:justify-between">
           <div className="max-w-xl">
             <h2 className="text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl">
-              Newsletter Writers
+              Newsletter Writers Make Money with Swapstack
             </h2>
             <p className="mt-5 text-xl text-gray-500">
               You've worked hard to build an amazing, engaged audience.
-              Swapstack introduces you to brands who are eager to reach your
-              readers.
+              Swapstack does the heavy lifting to fill your sponsorship pipeline
+              so you can focus on writing and engaging your readers.
             </p>
           </div>
         </div>
@@ -102,7 +102,7 @@ export default function Writers() {
                 to="https://app.swapstack.co/login?key=signup"
                 className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700"
               >
-                Sign up for free
+                Sign up and start earning
               </Link>
             </div>
             <div className="ml-3 inline-flex">
@@ -120,7 +120,7 @@ export default function Writers() {
       <div className="bg-white">
         <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
           <p className="text-center text-base font-semibold uppercase text-gray-600 tracking-wider">
-            A small sampling of our fantastic writers
+            A small sampling of our fantastic newsletters
           </p>
           <div className="mt-6 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-8">
             <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50">
