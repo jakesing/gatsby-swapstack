@@ -7,7 +7,7 @@ module.exports = {
       twitter: `@swapstackHQ`,
     },
     keywords: `newsletters, advertising, sponsorship, Substack, Swapstack, creators, brands, affiliate`,
-    image: `src/images/swapstack_logo.png`,
+    image: `https://github.com/jakesing/gatsby-swapstack/blob/main/src/images/swapstacktwitter.png?raw=true`,
   },
   plugins: [
     `gatsby-plugin-image`,
