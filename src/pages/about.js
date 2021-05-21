@@ -4,33 +4,33 @@ import Layout from "../components/layout"
 const people = [
   {
     name: "Jake Singer",
-    role: "Co-Founder / CEO",
+    role: "Co-Founder",
     imageUrl:
-      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80",
+      "https://media-exp1.licdn.com/dms/image/C5603AQFOGsrXrOtZDA/profile-displayphoto-shrink_800_800/0/1605146549298?e=1626912000&v=beta&t=8pEK6Aw-MuXq_LuizaVCHhrTM1wld78o1JpBqEBwWL8",
     bio:
       "Ultricies massa malesuada viverra cras lobortis. Tempor orci hac ligula dapibus mauris sit ut eu. Eget turpis urna maecenas cras. Nisl dictum.",
-    twitterUrl: "#",
-    linkedinUrl: "#",
+    twitterUrl: "https://twitter.com/jakesing_",
+    linkedinUrl: "https://www.linkedin.com/in/jakesing/",
   },
   {
     name: "Jake Schonberger",
-    role: "Co-Founder / CEO",
+    role: "Co-Founder",
     imageUrl:
-      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80",
+      "https://media-exp1.licdn.com/dms/image/C4E03AQFxtGTz0U_W4g/profile-displayphoto-shrink_800_800/0/1572205192089?e=1626912000&v=beta&t=glcN42dGbtJwCco1ZXRTuMZMjugvRmm33nYZorYbEX0",
     bio:
       "Ultricies massa malesuada viverra cras lobortis. Tempor orci hac ligula dapibus mauris sit ut eu. Eget turpis urna maecenas cras. Nisl dictum.",
-    twitterUrl: "#",
-    linkedinUrl: "#",
+    twitterUrl: "https://twitter.com/SchonbergerJake",
+    linkedinUrl: "https://www.linkedin.com/in/jakeschonberger/",
   },
   {
     name: "Nico Ordonez",
-    role: "Co-Founder / CEO",
+    role: "Developer",
     imageUrl:
-      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80",
+      "https://media-exp1.licdn.com/dms/image/C5603AQHhazaI49BuSA/profile-displayphoto-shrink_800_800/0/1610141959046?e=1626912000&v=beta&t=ebeTWqZC9PFJbtCoIvuWc2wPXXAJl2gSOEmcAOyFgoE",
     bio:
       "Ultricies massa malesuada viverra cras lobortis. Tempor orci hac ligula dapibus mauris sit ut eu. Eget turpis urna maecenas cras. Nisl dictum.",
-    twitterUrl: "#",
-    linkedinUrl: "#",
+    twitterUrl: "https://www.linkedin.com/in/nicolas-ordonez-756812a5/",
+    linkedinUrl: "https://twitter.com/NicolasOrdonez_",
   },
   // More people...
 ]
@@ -46,9 +46,11 @@ export default function About() {
                 About Us
               </h2>
               <p className="text-xl text-gray-500">
-                Nulla quam felis, enim faucibus proin velit, ornare id pretium.
-                Augue ultrices sed arcu condimentum vestibulum suspendisse.
-                Volutpat eu faucibus vivamus eget bibendum cras.
+                We built Swapstack to scratch our own itch. As newsletter
+                writers, we believed it was harder than it should be for people
+                to find and connect with sponsors. Our goal is to serve as every
+                creator's sales team, so they can spend time doing what they
+                love.
               </p>
             </div>
             <div className="lg:col-span-2">
