@@ -2,7 +2,7 @@
 title: Newsletter Ad Units 101
 date: 2021-04-16T14:57:30.621Z
 description: Everything you need to know about creating the ad units for your newsletter
-thumbnail: https://images.unsplash.com/photo-1594968973184-9040a5a79963?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
+thumbnail: https://github.com/jakesing/gatsby-swapstack/blob/main/src/images/ad%20units.png?raw=true
 ---
 
 There are many ways that advertisers integrate ads into their newsletters. We see writers get very creative to ensure their readers get the best experience from their ads. Below we outlined three general types of ad units that you can use the base your approach off of.
