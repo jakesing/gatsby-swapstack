@@ -141,9 +141,9 @@ export default function Header() {
                 <Link to="/" className="flex">
                   <span className="sr-only">Workflow</span>
                   <img
-                    className="h-8 w-auto sm:h-10"
+                    className="h-6 w-auto sm:h-6"
                     src={SwapstackLogo}
-                    alt=""
+                    alt="SwapstackLogo"
                   />
                 </Link>
               </div>
