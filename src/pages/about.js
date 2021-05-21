@@ -1,13 +1,15 @@
 import React from "react"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Singer from "../images/singer.jpeg"
+import Schonberger from "../images/schonberger.jpeg"
+import Nico from "../images/nico.jpeg"
 
 const people = [
   {
     name: "Jake Singer",
     role: "Co-Founder",
-    imageUrl:
-      "https://media-exp1.licdn.com/dms/image/C5603AQFOGsrXrOtZDA/profile-displayphoto-shrink_800_800/0/1605146549298?e=1626912000&v=beta&t=8pEK6Aw-MuXq_LuizaVCHhrTM1wld78o1JpBqEBwWL8",
+    imageUrl: Singer,
     bio:
       "Ultricies massa malesuada viverra cras lobortis. Tempor orci hac ligula dapibus mauris sit ut eu. Eget turpis urna maecenas cras. Nisl dictum.",
     twitterUrl: "https://twitter.com/jakesing_",
@@ -16,8 +18,7 @@ const people = [
   {
     name: "Jake Schonberger",
     role: "Co-Founder",
-    imageUrl:
-      "https://media-exp1.licdn.com/dms/image/C4E03AQFxtGTz0U_W4g/profile-displayphoto-shrink_800_800/0/1572205192089?e=1626912000&v=beta&t=glcN42dGbtJwCco1ZXRTuMZMjugvRmm33nYZorYbEX0",
+    imageUrl: Schonberger,
     bio:
       "Ultricies massa malesuada viverra cras lobortis. Tempor orci hac ligula dapibus mauris sit ut eu. Eget turpis urna maecenas cras. Nisl dictum.",
     twitterUrl: "https://twitter.com/SchonbergerJake",
@@ -26,8 +27,7 @@ const people = [
   {
     name: "Nico Ordonez",
     role: "Developer",
-    imageUrl:
-      "https://media-exp1.licdn.com/dms/image/C5603AQHhazaI49BuSA/profile-displayphoto-shrink_800_800/0/1610141959046?e=1626912000&v=beta&t=ebeTWqZC9PFJbtCoIvuWc2wPXXAJl2gSOEmcAOyFgoE",
+    imageUrl: Nico,
     bio:
       "Ultricies massa malesuada viverra cras lobortis. Tempor orci hac ligula dapibus mauris sit ut eu. Eget turpis urna maecenas cras. Nisl dictum.",
     twitterUrl: "https://www.linkedin.com/in/nicolas-ordonez-756812a5/",

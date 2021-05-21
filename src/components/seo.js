@@ -30,7 +30,9 @@ const Seo = ({ description, lang, meta, title, thumbnail }) => {
   )
 
   const metaDescription = description || site.siteMetadata.description
-  const defaultTitle = `${site.siteMetadata?.title} | ${site.siteMetadata.description}`
+  const defaultTitle = title
+    ? title
+    : `${site.siteMetadata?.title} | ${site.siteMetadata.description}`
   const keywords = site.siteMetadata.keywords
   const image = thumbnail ? thumbnail : site.siteMetadata.image
 
@@ -40,7 +42,7 @@ const Seo = ({ description, lang, meta, title, thumbnail }) => {
       htmlAttributes={{
         lang,
       }}
-      title={title ? title : defaultTitle}
+      title={defaultTitle}
       meta={[
         { name: `keywords`, content: keywords },
         {
@@ -49,7 +51,7 @@ const Seo = ({ description, lang, meta, title, thumbnail }) => {
         },
         {
           property: `og:title`,
-          content: title,
+          content: defaultTitle,
         },
         {
           property: `og:description`,
@@ -77,7 +79,7 @@ const Seo = ({ description, lang, meta, title, thumbnail }) => {
         },
         {
           name: `twitter:title`,
-          content: title,
+          content: defaultTitle,
         },
         {
           name: `twitter:description`,
