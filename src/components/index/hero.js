@@ -84,7 +84,7 @@ export default function Hero() {
       <div className="relative pt-2 pb-4 lg:pt-36 lg:pb-24 md:py-16">
         <main className="mt-2 mx-auto max-w-7xl px-4 sm:mt-2">
           <div className="text-center">
-            <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-3xl md:text-6xl">
+            <h1 className="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-3xl md:text-6xl">
               <span className="block inline">The Premier Newsletter</span>{" "}
               <br></br>
               <span className="block text-indigo-600 inline">
@@ -95,8 +95,8 @@ export default function Hero() {
               Connecting brands to newsletter audiences for relevant
               sponsorships.
             </p>
-            <div className="my-5 max-w-2xl mx-auto flex justify-between sm:justify-center">
-              <div className="rounded-md mx-6 w-full">
+            <div className="flex-col mt-8 mb-4 justify-center sm:flex sm:flex-row sm:justify-center">
+              <div className="rounded-md w-9/12 m-auto sm:mx-6 sm:w-3/12">
                 <button
                   onClick={() => scrollTo("#brands")}
                   className="shadow w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10"
@@ -107,7 +107,7 @@ export default function Hero() {
                   Reach your customers
                 </div>
               </div>
-              <div className="rounded-md mx-6 w-full">
+              <div className="rounded-md w-9/12 m-auto sm:mx-6 sm:w-3/12">
                 <button
                   onClick={() => scrollTo("#writers")}
                   className="sm:bg-blue shadow w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-gray-50 md:py-4 md:text-lg md:px-10"
@@ -119,6 +119,7 @@ export default function Hero() {
                 </div>
               </div>
             </div>
+            <div className="my-5 max-w-xs md:max-w-2xl md:mx-auto"></div>
           </div>
         </main>
       </div>
