@@ -401,6 +401,7 @@ export default function Header() {
                     <Link
                       className="text-base font-medium text-gray-500 hover:text-gray-900"
                       to={item.to}
+                      activeClassName="text-base font-bold text-gray-900 hover:text-gray-900"
                     >
                       {item.name}
                     </Link>
