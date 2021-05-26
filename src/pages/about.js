@@ -4,14 +4,23 @@ import Seo from "../components/seo"
 import Singer from "../images/singer.jpeg"
 import Schonberger from "../images/schonberger.jpeg"
 import Nico from "../images/nico.jpeg"
+import { Link } from "gatsby"
 
 const people = [
   {
     name: "Jake Singer",
     role: "Co-Founder",
     imageUrl: Singer,
-    bio:
-      "Ultricies massa malesuada viverra cras lobortis. Tempor orci hac ligula dapibus mauris sit ut eu. Eget turpis urna maecenas cras. Nisl dictum.",
+    bio: (
+      <p>
+        Author of{" "}
+        <a className="hover:underline" href="theflywheel.substack.com">
+          The Flywheel
+        </a>
+        , cold brew aficoanado and major fan of Liverpool Football Club. Based
+        in Washington, DC.
+      </p>
+    ),
     twitterUrl: "https://twitter.com/jakesing_",
     linkedinUrl: "https://www.linkedin.com/in/jakesing/",
   },
@@ -19,8 +28,16 @@ const people = [
     name: "Jake Schonberger",
     role: "Co-Founder",
     imageUrl: Schonberger,
-    bio:
-      "Ultricies massa malesuada viverra cras lobortis. Tempor orci hac ligula dapibus mauris sit ut eu. Eget turpis urna maecenas cras. Nisl dictum.",
+    bio: (
+      <p>
+        Jake writes{" "}
+        <a className="hover:underline" href="premoney.substack.com">
+          The Premoney List
+        </a>
+        , loves the outdoors and is a dog-dad to a black-lab named Johnny
+        Tsunami. Currently living in Boston, come and visit!
+      </p>
+    ),
     twitterUrl: "https://twitter.com/SchonbergerJake",
     linkedinUrl: "https://www.linkedin.com/in/jakeschonberger/",
   },
@@ -29,9 +46,9 @@ const people = [
     role: "Developer",
     imageUrl: Nico,
     bio:
-      "Ultricies massa malesuada viverra cras lobortis. Tempor orci hac ligula dapibus mauris sit ut eu. Eget turpis urna maecenas cras. Nisl dictum.",
-    twitterUrl: "https://www.linkedin.com/in/nicolas-ordonez-756812a5/",
-    linkedinUrl: "https://twitter.com/NicolasOrdonez_",
+      "Before falling for No Code, Nico worked in Asset Management and co-founded a lending fintech in Colombia. He is also a huge tennis fan and proud dad.",
+    twitterUrl: "https://twitter.com/NicolasOrdonez_",
+    linkedinUrl: "https://www.linkedin.com/in/nicolas-ordonez-756812a5/",
   },
   // More people...
 ]
