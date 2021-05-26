@@ -3,6 +3,7 @@ import MorningBrew from "../../images/morning-brew.png"
 import FelixGray from "../../images/felixgray.png"
 import OnDeck from "../../images/ondeck.svg"
 import SecureFrame from "../../images/SecureFrame.png"
+import Cometeer from "../../images/cometeer.png"
 
 /* This example requires Tailwind CSS v2.0+ */
 export default function Logos() {
@@ -13,29 +14,29 @@ export default function Logos() {
           <div className="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
             <img
               className="h-12 filter grayscale"
-              src={MorningBrew}
-              alt="Tuple"
+              src={Cometeer}
+              alt="Cometeer Logo"
             />
           </div>
           <div className="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
             <img
               className="h-12 filter grayscale"
               src={FelixGray}
-              alt="Mirage"
+              alt="Felix Gray Logo"
             />
           </div>
           <div className="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
             <img
               className="h-12 filter grayscale"
               src={OnDeck}
-              alt="StaticKit"
+              alt="On Deck Logo"
             />
           </div>
           <div className="col-span-1 flex justify-center md:col-span-3 lg:col-span-1">
             <img
               className="h-12 filter grayscale"
               src={SecureFrame}
-              alt="Transistor"
+              alt="SecureFrame Logo"
             />
           </div>
         </div>

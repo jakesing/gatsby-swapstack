@@ -35,17 +35,16 @@ export default function Features() {
                   Hundreds of writers at your fingertips
                 </h2>
                 <p className="mt-4 text-lg text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Pariatur minima sequi recusandae, porro maiores officia
-                  assumenda aliquam laborum ab aliquid veritatis impedit odit
-                  adipisci optio iste blanditiis facere. Totam, velit.
+                  With hundreds of writers covering topics like business to
+                  parenting and everything in between, you'll find the perfect
+                  audience for your brand.
                 </p>
                 <div className="mt-6">
                   <a
-                    href="https://app.swapstack.co/brand-gallery"
+                    href="https://app.swapstack.co/newsletter-gallery"
                     className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700"
                   >
-                    Check out our brands
+                    Check out our newsletters
                   </a>
                 </div>
               </div>
