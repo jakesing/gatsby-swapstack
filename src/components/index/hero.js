@@ -8,7 +8,7 @@ function classNames(...classes) {
 
 export default function Hero() {
   return (
-    <div className="relative bg-gray-50 overflow-hidden pt-16 pb-10">
+    <div className="relative bg-gray-50 overflow-hidden pt-16 pb-10 sm:pt-0 sm:mt-0">
       <div
         className="hidden sm:block sm:absolute sm:inset-y-0 sm:h-full sm:w-full"
         aria-hidden="true"
@@ -81,10 +81,10 @@ export default function Hero() {
         </div>
       </div>
 
-      <div className="relative pt-6 pb-16 sm:pb-24">
-        <main className="mt-16 mx-auto max-w-7xl px-4 sm:mt-24">
+      <div className="relative pt-2 pb-4 lg:pt-36 lg:pb-24 md:py-16">
+        <main className="mt-2 mx-auto max-w-7xl px-4 sm:mt-2">
           <div className="text-center">
-            <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
+            <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-3xl md:text-6xl">
               <span className="block inline">The Premier Newsletter</span>{" "}
               <br></br>
               <span className="block text-indigo-600 inline">
@@ -95,8 +95,8 @@ export default function Hero() {
               Connecting brands to newsletter audiences for relevant
               sponsorships.
             </p>
-            <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
-              <div className="rounded-md mx-6">
+            <div className="my-5 max-w-2xl mx-auto flex justify-between sm:justify-center">
+              <div className="rounded-md mx-6 w-full">
                 <button
                   onClick={() => scrollTo("#brands")}
                   className="shadow w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10"
@@ -107,10 +107,10 @@ export default function Hero() {
                   Reach your customers
                 </div>
               </div>
-              <div className="mt-3 rounded-md sm:mt-0 sm:ml-3">
+              <div className="rounded-md mx-6 w-full">
                 <button
                   onClick={() => scrollTo("#writers")}
-                  className="shadow w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-gray-50 md:py-4 md:text-lg md:px-10"
+                  className="sm:bg-blue shadow w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-gray-50 md:py-4 md:text-lg md:px-10"
                 >
                   Newsletters
                 </button>
