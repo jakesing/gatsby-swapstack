@@ -21,17 +21,18 @@ export default function Features() {
               </div>
               <div className="mt-6">
                 <h2 className="text-3xl font-extrabold tracking-tight text-gray-900">
-                  Meet hundreds of brands
+                  Sell brand sponorships in your newsletter
                 </h2>
                 <p className="mt-4 text-lg text-gray-500">
+                  Connect with hundreds of brands through our marketplace.
                   Publishing high quality content on a consistent schedule is
                   hard enough. The last thing you want is to have to fill a
                   sponsorship pipeline.
                 </p>
                 <p className="mt-4 text-lg text-gray-500">
                   {" "}
-                  That's where Swapstack comes in. We have over 200 brands and
-                  counting, ready to connect with you.
+                  That's where Swapstack comes in. We have hundreds of brands
+                  ready to connect with you.
                 </p>
                 <div className="mt-6">
                   <a

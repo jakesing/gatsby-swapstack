@@ -1,5 +1,6 @@
 import { Link } from "gatsby"
 import React from "react"
+import scrollTo from "gatsby-plugin-smoothscroll"
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(" ")
@@ -84,9 +85,9 @@ export default function Hero() {
         <main className="mt-16 mx-auto max-w-7xl px-4 sm:mt-24">
           <div className="text-center">
             <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
-              <span className="block xl:inline">The Premier Newsletter</span>{" "}
+              <span className="block inline">The Premier Newsletter</span>{" "}
               <br></br>
-              <span className="block text-indigo-600 xl:inline">
+              <span className="block text-indigo-600 inline">
                 Advertising Marketplace
               </span>
             </h1>
@@ -95,21 +96,27 @@ export default function Hero() {
               sponsorships.
             </p>
             <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
-              <div className="rounded-md shadow">
-                <a
-                  href="#"
-                  className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10"
+              <div className="rounded-md mx-6">
+                <button
+                  onClick={() => scrollTo("#brands")}
+                  className="shadow w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10"
                 >
-                  Brands - Find Your Audience
-                </a>
+                  Brands
+                </button>
+                <div className="my-2 italic text-gray-500 text-md">
+                  Reach your customers
+                </div>
               </div>
-              <div className="mt-3 rounded-md shadow sm:mt-0 sm:ml-3">
-                <a
-                  href="#"
-                  className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-gray-50 md:py-4 md:text-lg md:px-10"
+              <div className="mt-3 rounded-md sm:mt-0 sm:ml-3">
+                <button
+                  onClick={() => scrollTo("#writers")}
+                  className="shadow w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-gray-50 md:py-4 md:text-lg md:px-10"
                 >
-                  Newsletters - Start Earning
-                </a>
+                  Newsletters
+                </button>
+                <div className="my-2 italic text-gray-500 text-md">
+                  Start monetizing
+                </div>
               </div>
             </div>
           </div>

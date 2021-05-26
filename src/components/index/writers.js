@@ -1,108 +1,102 @@
-import React from "react"
-import { Fragment } from "react"
-
-/*
-  This example requires Tailwind CSS v2.0+ 
-  
-  This example requires some changes to your config:
-  
-  ```
-  // tailwind.config.js
-  module.exports = {
-    // ...
-    plugins: [
-      // ...
-      require('@tailwindcss/aspect-ratio'),
-    ]
-  }
-  ```
-*/
-
 import {
   SwitchHorizontalIcon,
-  PlayIcon,
+  CurrencyDollarIcon,
   ChatAlt2Icon,
 } from "@heroicons/react/solid"
 import { Link } from "gatsby"
+import React from "react"
 
-const features = [
+const supportLinks = [
   {
-    name: "1-to-1 Matches with Brands",
+    name: "Match with active brands",
     description:
-      "Send and receive introduction requests to 200+ brands on the Swapstack platform. After a double opt-in, we introduce you to arrange the terms of your adverting.",
+      "Set your prices, send and receive intro requests with 200+ brands, run high value sponsorships.",
     icon: SwitchHorizontalIcon,
   },
   {
-    name: "Plug & Play",
+    name: "No Fees",
     description:
-      "Run your first ad instantly. Swapstack works with brands to pre-approve newsletters to run afilliate ads.",
-    icon: PlayIcon,
+      "We charge platform fees to brands so you keep 100% of what you charge.",
+    icon: CurrencyDollarIcon,
   },
   {
     name: "Slack Community",
     description:
-      "We offer a community for writers with over 1,000 subscribers. Meet other writers, learn from one another, and swap cross-promotions.",
+      "We offer a community for writers with over 1,000 subscribers to meet, learn from each other and swap cross-promotions.",
     icon: ChatAlt2Icon,
   },
 ]
 
 export default function Writers() {
   return (
-    <Fragment>
+    <div className="bg-white" id="writers">
       {/* Header */}
-      <div className="bg-white">
-        <div className="max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8 lg:flex lg:justify-between">
-          <div className="max-w-xl">
-            <h2 className="text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl">
-              Newsletter Writers Make Money with Swapstack
-            </h2>
-            <p className="mt-5 text-xl text-gray-500">
-              You've worked hard to build an amazing, engaged audience.
-              Swapstack does the heavy lifting to fill your sponsorship pipeline
-              so you can focus on writing and engaging your readers.
-            </p>
-          </div>
+      <div className="relative pb-32 bg-gray-100">
+        <div className="absolute inset-0">
+          <img
+            className="w-full h-full object-cover"
+            src="https://images.unsplash.com/photo-1550592704-6c76defa9985?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+            alt=""
+          />
+          <div
+            className="absolute inset-0 bg-blue-900 mix-blend-multiply"
+            aria-hidden="true"
+          />
+        </div>
+        <div className="relative max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
+          <h1 className="text-4xl font-extrabold tracking-tight text-white md:text-5xl lg:text-6xl">
+            Newsletter Writers
+          </h1>
+          <p className="mt-6 max-w-3xl text-xl text-gray-300">
+            <b>Make money with Swapstack.</b> <br></br>Swapstack does the heavy
+            lifting to fill your sponsorship pipeline so you can focus on
+            writing and engaging your readers.
+          </p>
         </div>
       </div>
-      {/* Features */}
-      <div className="py-12 bg-white">
-        <div className="max-w-xl mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
-          <h2 className="sr-only">A better way to send money.</h2>
-          <dl className="space-y-10 lg:space-y-0 lg:grid lg:grid-cols-3 lg:gap-8">
-            {features.map(feature => (
-              <div key={feature.name}>
-                <dt>
-                  <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
-                    <feature.icon className="h-6 w-6" aria-hidden="true" />
-                  </div>
-                  <p className="mt-5 text-lg leading-6 font-medium text-gray-900">
-                    {feature.name}
-                  </p>
-                </dt>
-                <dd className="mt-2 text-base text-gray-500">
-                  {feature.description}
-                </dd>
+
+      {/* Overlapping cards */}
+      <section
+        className="-mt-32 max-w-7xl mx-auto relative z-10 pb-8 px-4 sm:px-6 lg:px-8"
+        aria-labelledby="contact-heading"
+      >
+        <div className="grid grid-cols-1 gap-y-20 lg:grid-cols-3 lg:gap-y-0 lg:gap-x-8">
+          {supportLinks.map(link => (
+            <div
+              key={link.name}
+              className="flex flex-col bg-white rounded-2xl shadow-xl"
+            >
+              <div className="flex-1 relative pt-16 px-6 pb-8 md:px-8">
+                <div className="absolute top-0 p-5 inline-block bg-indigo-600 rounded-xl shadow-lg transform -translate-y-1/2">
+                  <link.icon
+                    className="h-6 w-6 text-white"
+                    aria-hidden="true"
+                  />
+                </div>
+                <h3 className="text-xl font-medium text-gray-900">
+                  {link.name}
+                </h3>
+                <p className="mt-4 text-base text-gray-500">
+                  {link.description}
+                </p>
               </div>
-            ))}
-          </dl>
+            </div>
+          ))}
         </div>
-      </div>{" "}
-      {/* CTA */}
+      </section>
       <div className="bg-white">
-        <div className="max-w-7xl mx-auto text-center py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
+        <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 md:py-16 lg:px-8 text-center lg:py-20">
           <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">
             <span className="block">Ready to start earning?</span>
-            <span className="block text-indigo-600">
-              Sign up for Swapstack today.
-            </span>
+            <span className="block text-indigo-600">Check out our brands.</span>
           </h2>
           <div className="mt-8 flex justify-center">
             <div className="inline-flex rounded-md shadow">
               <Link
-                to="https://app.swapstack.co/login?key=signup"
+                to="https://app.swapstack.co/brand-gallery"
                 className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700"
               >
-                Sign up and start earning
+                Browse our brands
               </Link>
             </div>
             <div className="ml-3 inline-flex">
@@ -116,58 +110,6 @@ export default function Writers() {
           </div>
         </div>
       </div>
-      {/* Logos */}
-      <div className="bg-white">
-        <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
-          <p className="text-center text-base font-semibold uppercase text-gray-600 tracking-wider">
-            A small sampling of our fantastic newsletters
-          </p>
-          <div className="mt-6 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-8">
-            <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50">
-              <img
-                className="max-h-12"
-                src="https://tailwindui.com/img/logos/transistor-logo-gray-400.svg"
-                alt="Workcation"
-              />
-            </div>
-            <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50">
-              <img
-                className="max-h-12"
-                src="https://tailwindui.com/img/logos/mirage-logo-gray-400.svg"
-                alt="Mirage"
-              />
-            </div>
-            <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50">
-              <img
-                className="max-h-12"
-                src="https://tailwindui.com/img/logos/tuple-logo-gray-400.svg"
-                alt="Tuple"
-              />
-            </div>
-            <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50">
-              <img
-                className="max-h-12"
-                src="https://tailwindui.com/img/logos/laravel-logo-gray-400.svg"
-                alt="Laravel"
-              />
-            </div>
-            <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50">
-              <img
-                className="max-h-12"
-                src="https://tailwindui.com/img/logos/statickit-logo-gray-400.svg"
-                alt="StaticKit"
-              />
-            </div>
-            <div className="col-span-1 flex justify-center py-8 px-8 bg-gray-50">
-              <img
-                className="max-h-12"
-                src="https://tailwindui.com/img/logos/statamic-logo-gray-400.svg"
-                alt="Statamic"
-              />
-            </div>
-          </div>
-        </div>
-      </div>
-    </Fragment>
+    </div>
   )
 }

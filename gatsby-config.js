@@ -10,6 +10,7 @@ module.exports = {
     image: `https://github.com/jakesing/gatsby-swapstack/blob/main/src/images/swapstacktwitter.png?raw=true`,
   },
   plugins: [
+    `gatsby-plugin-smoothscroll`,
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-plugin-google-fonts`,

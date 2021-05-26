@@ -8,28 +8,28 @@ import { Link } from "gatsby"
 import React from "react"
 const supportLinks = [
   {
-    name: "Specific Audiences",
+    name: "Readers on all topics",
     description:
-      "At Swapstack you'll find hundreds of writers covering dozens of topics. From business to parenting and everything in between, you'll find the perfect audience for your brand.",
+      "With hundreds of writers covering topics like business to parenting and everything in between, you'll find the perfect audience for your brand.",
     icon: UserGroupIcon,
   },
   {
     name: "Engaged Readers",
     description:
-      "Readers spend minutes with each piece of content. Compared to a momentary scroll, each engagement is much longer in a newsletter.",
+      "Doom scrolling? You can do better. Newsletter readers spend minutes with content, vs. seconds.",
     icon: CurrencyDollarIcon,
   },
   {
-    name: "Straightforward Payments",
+    name: "Simple Pricing",
     description:
-      "Writers determine their own pricing, and Swapstack charges 10% + payment fees on top of that. Brands can pay via credit card or ACH, all through Stripe.",
+      "Writers determine their own pricing, and Swapstack charges 10% + Stripe fees on top of that.",
     icon: CreditCardIcon,
   },
 ]
 
 export default function Brands() {
   return (
-    <div className="bg-white">
+    <div className="bg-white" id="brands">
       {/* Header */}
       <div className="relative pb-32 bg-gray-800">
         <div className="absolute inset-0">
@@ -39,7 +39,7 @@ export default function Brands() {
             alt=""
           />
           <div
-            className="absolute inset-0 bg-gray-800 mix-blend-multiply"
+            className="absolute inset-0 bg-gray-700 mix-blend-multiply"
             aria-hidden="true"
           />
         </div>
@@ -48,9 +48,9 @@ export default function Brands() {
             Brands
           </h1>
           <p className="mt-6 max-w-3xl text-xl text-gray-300">
-            Find the perfect audience for your brand. With hundreds of
-            newsletters on the Swapstack network, virtually any audience is
-            within reach.
+            <b>Drive efficient business results.</b>
+            <br></br>Sponsor newsletters who speak to the perfect audience for
+            your brand.
           </p>
         </div>
       </div>
