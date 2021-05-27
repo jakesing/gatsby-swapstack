@@ -5,6 +5,7 @@ backend:
 
 media_folder: static/img # Media files will be stored in the repo under images/uploads
 public_folder: /img
+publish_mode: editorial_workflow
 
 collections:
   - name: "blog"
