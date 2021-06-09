@@ -4,7 +4,7 @@ title: No Matter Where You Are in Your Journey as a Writer, You Need a
 date: 2021-06-09T20:21:27.101Z
 description: Tips on how to build, grow, and monetize an email list for writers
   of all genres and formats.
-thumbnail: https://github.com/jakesing/gatsby-swapstack/blob/main/content/blog/no-matter-where-you-are-in-your-journey-as-a-writer-you-need-a-newsletter-heres%C2%A0why/newsletter-101-why-every-writer-needs-a-newsleter.png
+thumbnail: https://github.com/jakesing/gatsby-swapstack/blob/main/content/blog/no-matter-where-you-are-in-your-journey-as-a-writer-you-need-a-newsletter-heres%C2%A0why/newsletter-101-why-every-writer-needs-a-newsleter.png?raw=true
 ---
 
 As a writer, do you need an email list?
