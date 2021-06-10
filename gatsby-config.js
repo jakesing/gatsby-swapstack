@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Swaptack`,
+    title: `Swapstack`,
     description: `Where newsletter writers and brands connect for sponsorships.`,
     siteUrl: `https://swapstack.co/`,
     social: {
