@@ -4,7 +4,7 @@ import React from "react"
 const navigation = {
   main: [
     { name: "About", href: "/about" },
-    { name: "Blog", href: "/about" },
+    { name: "Blog", href: "/blog" },
     // { name: "Jobs", href: "#" },
     { name: "Press", href: "/#press" },
   ],
