@@ -33,7 +33,7 @@ A platform where you can find potential brand collaborations is **[Swapstack](ht
 
 Here’s what [JR Raphael](https://www.jrstart.com/about-jr-raphael/), the veteran Android journalist who writes [Android Intelligence](https://www.androidintel.net/), a newsletter offering practical tips, personal recommendations, and plain-English perspective on the news that matters, has to say on sponsored brand collaborations using Swapstack:
 
-> *“As a completely independent, single-person publisher, finding the right brands to partner with has been a huge step on my path to making the newsletter sustainable. It’s been absolutely awesome to see the positive feedback on both sides of the equation — from sponsors, who are finding eager new folks to try out their products and services, and from readers, who are discovering relevant and interesting new things they wouldn’t have otherwise encountered. It’s really turned out to be a win-win-win situation, with everyone involved benefitting and coming out ahead in the end.”*
+> *As a completely independent, single-person publisher, finding the right brands to partner with has been a huge step on my path to making the newsletter sustainable. It’s been absolutely awesome to see the positive feedback on both sides of the equation — from sponsors, who are finding eager new folks to try out their products and services, and from readers, who are discovering relevant and interesting new things they wouldn’t have otherwise encountered. It’s really turned out to be a win-win-win situation, with everyone involved benefitting and coming out ahead in the end.*
 
 - - -
 
@@ -69,7 +69,7 @@ If you aren’t confident about what to sell, you can run a survey or ask your s
 
 [Dipanshu Rawal](https://medium.com/u/70cf065e64f1), who runs [\#TGIF](dipanshurawal.com/emails), a weekly newsletter that shares valuable bits of wisdom around emotional mastery, confidence, and growth mindset, thinks this is a powerful strategy. He uses his email list as a resource for generating clients for his coaching business. According to him, it’s important to also provide value and focus on building relationships with your subscribers instead of only asking them to buy what you’re offering. In his own words-
 
-> *“Your email family (list) is so much more than a sales-message-dump zone. When you build connections with your family members (subscribers), they engage with you and build a long-term relationship with YOU. This means, instead of looking at my email list as an on-off sales channel, I treat it as my close circle for long-term relationship (and eventually revenue) activit*y.”
+> *Your email family (list) is so much more than a sales-message-dump zone. When you build connections with your family members (subscribers), they engage with you and build a long-term relationship with YOU. This means, instead of looking at my email list as an on-off sales channel, I treat it as my close circle for long-term relationship (and eventually revenue) activit*y.
 
 - - -
 
@@ -89,9 +89,9 @@ If browsing through hundreds of brands, asking for an introduction, and negotiat
 
 [Brett Chang](https://www.linkedin.com/in/brett-chang-0747121a/), the co-founder of [The Peak](https://www.readthepeak.com/), a daily newsletter covering the latest Canadian and global business, finance, and tech news, suggests treating brand collaborations like partnerships, and not ads.
 
-> *“When we started The Peak, brand collaborations were going to be the core of our business. But newsletters are still a relatively new medium for advertisers so we struggled to land our first few clients. We knew we had a great and highly engaged audience but couldn’t find a brand that valued it. That’s why Swapstack’s been such an incredible resource. It’s connected us to a number of new brands and we’ve been able to close thousands of dollars worth of sales through the platform. It’s an incredible resource for publishers and I can’t recommend it enough!* \
+> *When we started The Peak, brand collaborations were going to be the core of our business. But newsletters are still a relatively new medium for advertisers so we struggled to land our first few clients. We knew we had a great and highly engaged audience but couldn’t find a brand that valued it. That’s why Swapstack’s been such an incredible resource. It’s connected us to a number of new brands and we’ve been able to close thousands of dollars worth of sales through the platform. It’s an incredible resource for publishers and I can’t recommend it enough!* \
 > \
-> *When The Peak does brand collabs, we treat them far more as partnerships than ads. We work with our clients to develop content that matches the format and voice of the newsletter.”* 
+> *When The Peak does brand collabs, we treat them far more as partnerships than ads. We work with our clients to develop content that matches the format and voice of the newsletter.*
 
 - - -
 
