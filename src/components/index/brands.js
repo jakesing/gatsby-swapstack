@@ -87,18 +87,21 @@ export default function Brands() {
       <div className="bg-white">
         <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 md:py-16 lg:px-8 text-center lg:py-20">
           <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-            <span className="block">Ready to get started?</span>
-            <span className="block text-indigo-600">
-              Check out our newsletters.
+            <span className="block">
+              Ready to reach your{" "}
+              <span className="text-indigo-600">perfect</span> audience?
+            </span>
+            <span className="mt-4 text-2xl block font-normal">
+              Start working with top writers today.
             </span>
           </h2>
           <div className="mt-8 flex justify-center">
             <div className="inline-flex rounded-md shadow">
               <Link
-                to="https://app.swapstack.co/newsletter-gallery"
+                to="https://app.swapstack.co/login?key=signup"
                 className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700"
               >
-                Browse our newsletters
+                Join Swapstack
               </Link>
             </div>
             <div className="ml-3 inline-flex">

@@ -12,6 +12,15 @@ export default function Header() {
             Identify incredible sponsors & affiliate deals for your newsletter.
             <br></br>Always 100% free for writers
           </p>
+          {/* button here */}{" "}
+          <div className="mt-6">
+            <a
+              href="https://app.swapstack.co/login?key=signup"
+              className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700"
+            >
+              Sign up for Swapstack
+            </a>
+          </div>
         </div>
       </div>
     </div>

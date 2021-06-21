@@ -18,7 +18,15 @@ export default function Pricing() {
             <p className="mt-4 text-xl text-gray-600">
               Swapstack is free for creators! We add a transaction fee for
               brands.
-              <br></br>
+              <br></br>{" "}
+              <div className="mt-6">
+                <a
+                  href="https://app.swapstack.co/login?key=signup"
+                  className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700"
+                >
+                  Sign up for Swapstack
+                </a>
+              </div>
               <br></br>
               Writers invoice brands over the platform, Swapstack adds a
               platform fee to each invoice.
@@ -58,7 +66,7 @@ export default function Pricing() {
                   href="https://app.swapstack.co/login?key=signup"
                   className="flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-800 hover:bg-gray-900"
                 >
-                  Get Started for Free
+                  Get Started Now
                 </a>
               </div>
             </div>

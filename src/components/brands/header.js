@@ -12,7 +12,15 @@ export default function Header() {
             Newsletter readers spend minutes, not seconds, reading sponsorship
             copy. Swapstack connects you with relevant newsletters so you can
             reach their high engagement, high specificity audiences.
-          </p>
+          </p>{" "}
+          <div className="mt-6">
+            <a
+              href="https://app.swapstack.co/login?key=signup"
+              className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700"
+            >
+              Sign up for Swapstack
+            </a>
+          </div>
         </div>
       </div>
     </div>
