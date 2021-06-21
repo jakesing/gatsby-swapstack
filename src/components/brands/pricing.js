@@ -16,8 +16,12 @@ export default function Pricing() {
               Simple, transparent Pricing
             </h2>
             <p className="mt-4 text-xl text-gray-600">
-              Swapstack is free for creators, and simple & transparent for
+              Swapstack is free for creators! We add a transaction fee for
               brands.
+              <br></br>
+              <br></br>
+              Writers invoice brands over the platform, Swapstack adds a
+              platform fee to each invoice.
             </p>
           </div>
         </div>
@@ -30,17 +34,20 @@ export default function Pricing() {
             <div className="max-w-lg mx-auto rounded-lg shadow-lg overflow-hidden lg:max-w-none lg:flex lg:justify-center text-center">
               <div className="flex-1 bg-white px-6 py-8 lg:p-12">
                 <div>Writers</div>
-                <h3 className="mt-4 flex items-center justify-center text-5xl font-extrabold text-gray-900">
-                  Free for writers
-                </h3>
+                <p className="mt-4 flex items-center justify-center text-5xl font-extrabold text-gray-900">
+                  Free
+                </p>
               </div>
               <div className="py-8 px-6 text-center bg-gray-50 lg:flex-shrink-0 lg:flex lg:flex-col lg:justify-center lg:p-12">
                 <div>Brands</div>
                 <div className="mt-4 flex items-center justify-center text-5xl font-extrabold text-gray-900">
-                  <span>10% + Stripe Fees</span>
-                  <span className="ml-3 text-base font-medium text-gray-500">
-                    (approximately 3%)
-                  </span>
+                  <p>
+                    10% Platform Fee
+                    <br></br>
+                    <span className="ml-3 text-base font-medium text-gray-500">
+                      (+ payment processing fees, ~3%)
+                    </span>
+                  </p>
                 </div>
               </div>
             </div>
