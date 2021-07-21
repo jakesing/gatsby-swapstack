@@ -3,7 +3,7 @@ title: "The Ultimate Newsletter Guide: How to set up Paid Sponsorships with Bra
 date: 2021-07-19T18:27:09.431Z
 description: How to execute meaningful brand collaborations for your newsletter
   and build a solid income stream.
-thumbnail: https://unsplash.com/photos/NDoVgcS_lZM
+thumbnail: https://images.unsplash.com/photo-1614213856752-baad428e008f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2754&q=80
 ---
 If you’re a writer looking to build a stable income, setting up paid sponsorships on your newsletter could be a perfect fit.
 
