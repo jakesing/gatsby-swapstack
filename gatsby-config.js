@@ -19,6 +19,7 @@ module.exports = {
           // "AW-CONVERSION_ID", // Google Ads / Adwords / AW
           // "DC-FLOODIGHT_ID", // Marketing Platform advertising products (Display & Video 360, Search Ads 360, and Campaign Manager)
         ],
+        pluginConfig: { head: true },
       },
     },
     `gatsby-plugin-smoothscroll`,
