@@ -11,12 +11,19 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: `gatsby-plugin-intercom-spa`,
+      options: {
+        appId: "ohlfzivf",
+        include_in_development: true,
+        delay_timeout: 0,
+      },
+    },
+    {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
         trackingIds: [
           "UA-181112024-1", // Google Analytics / GA
-          "GTM-TT2P7FD", //gtag
           // "AW-CONVERSION_ID", // Google Ads / Adwords / AW
           // "DC-FLOODIGHT_ID", // Marketing Platform advertising products (Display & Video 360, Search Ads 360, and Campaign Manager)
         ],
