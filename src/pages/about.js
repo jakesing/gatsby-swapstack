@@ -17,8 +17,8 @@ const people = [
         <a className="hover:underline" href="theflywheel.substack.com">
           The Flywheel
         </a>
-        , cold brew aficoanado and major fan of Liverpool Football Club. Based
-        in Washington, DC.
+        , cold brew coffee aficionado, and major fan of Liverpool Football Club.
+        Based in Washington, DC.
       </p>
     ),
     twitterUrl: "https://twitter.com/jakesing_",
