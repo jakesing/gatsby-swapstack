@@ -13,7 +13,7 @@ One of the most exciting parts of newsletter advertising as a writer, is selling
 * **Writers:** How should I price my newsletter? Where do I start?
 * **Brands:** What is a good, or average, cost per newsletter ad?
 
-Note that the below assumes a standard “Shout out Ad” which includes an image, a link or two, and 150-200 words. See [Newsletter Ad Listings](http://www.swapstack.co/newsletter-ad-units-101) for more details on Ad Types.
+Note that the below assumes a standard “Shout out Ad” which includes an image, a link or two, and 150-200 words. See Newsletter Ad Listings for more details on Ad Types.
 
 ‍Also note, for a more in-depth analysis of pricing, please see the write-up our friends at StackedMarketer put together on [newsletter pricing.](https://www.stackedmarketer.com/how-we-think-about-buying-and-selling-ads-in-newsletters/)
 
