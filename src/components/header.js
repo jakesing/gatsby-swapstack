@@ -117,6 +117,10 @@ const navButtons = [
     to: "/brands",
   },
   {
+    name: "Plug & Play",
+    to: "/plug-and-play",
+  },
+  {
     name: "Pricing",
     to: "/pricing",
   },
