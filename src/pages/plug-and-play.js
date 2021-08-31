@@ -4,6 +4,7 @@ import Layout from "../components/layout"
 import React from "react"
 import Header from "../components/plug-and-play/header"
 import Features from "../components/plug-and-play/features"
+import CTA from "../components/plug-and-play/cta"
 
 import Seo from "../components/seo"
 
