@@ -15,7 +15,6 @@ export default function Writers() {
 
       <Header />
       <Features />
-      <FAQ />
       <CTA />
     </Layout>
   )

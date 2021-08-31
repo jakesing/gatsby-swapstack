@@ -3,6 +3,9 @@ import React from "react"
 import BrandGallery from "../../images/brandgallery.png"
 import Arielle from "../../images/arielle.png"
 import Dashboard from "../../images/dashboard.png"
+import Writers1 from "../../images/writers1.png"
+import pnp1 from "../../images/pnp1.png"
+import { Link } from "gatsby"
 
 export default function Features() {
   return (
@@ -74,7 +77,7 @@ export default function Features() {
             <div className="pl-4 -mr-48 sm:pl-6 md:-mr-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
               <img
                 className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
-                src={BrandGallery}
+                src={Writers1}
                 alt="Inbox user interface"
               />
             </div>
@@ -103,12 +106,12 @@ export default function Features() {
                   paid for any conversions you drive.
                 </p>
                 <div className="mt-6">
-                  <a
-                    href="https://app.swapstack.co/login?key=signup"
+                  <Link
+                    to="/plug-and-play"
                     className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700"
                   >
-                    Sign up now. Always free.
-                  </a>
+                    Learn more about Plug & Play
+                  </Link>
                 </div>
               </div>
             </div>
@@ -117,7 +120,7 @@ export default function Features() {
             <div className="pr-4 -ml-48 sm:pr-6 md:-ml-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
               <img
                 className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-none"
-                src={Dashboard}
+                src={pnp1}
                 alt="Customer profile user interface"
               />
             </div>
