@@ -1,21 +1,10 @@
+import { SearchIcon, SparklesIcon } from "@heroicons/react/outline"
 import React from "react"
-import Chris from "../../images/chris.png"
-import NewsletterGallery from "../../images/newslettergallery.png"
+import BrandGallery from "../../images/brandgallery.png"
+import Arielle from "../../images/arielle.png"
 import Dashboard from "../../images/dashboard.png"
-import brands1 from "../../images/brands1.png"
-import pnp1 from "../../images/pnp1.png"
-
-import {
-  AnnotationIcon,
-  GlobeAltIcon,
-  LightningBoltIcon,
-  MailIcon,
-  ScaleIcon,
-  SearchIcon,
-  SparklesIcon,
-  PencilIcon,
-  CheckCircleIcon,
-} from "@heroicons/react/outline"
+import Pnp1 from "../../images/pnp1.png"
+import Pnp2 from "../../images/pnp2.png"
 
 export default function Features() {
   return (
@@ -26,7 +15,7 @@ export default function Features() {
             <div>
               <div>
                 <span className="h-12 w-12 rounded-md flex items-center justify-center bg-indigo-600">
-                  <PencilIcon
+                  <SearchIcon
                     className="h-6 w-6 text-white"
                     aria-hidden="true"
                   />
@@ -34,19 +23,24 @@ export default function Features() {
               </div>
               <div className="mt-6">
                 <h2 className="text-3xl font-extrabold tracking-tight text-gray-900">
-                  Hundreds of writers at your fingertips
+                  Always fill your ad inventory with high quality sponsors.{" "}
                 </h2>
                 <p className="mt-4 text-lg text-gray-500">
-                  With hundreds of writers covering topics like business to
-                  parenting and everything in between, you'll find the perfect
-                  audience for your brand.
+                  Plug & Play preapproved deals ensure that you never have to
+                  run a newsletter without filling all of your ad units.
+                </p>
+                <p className="mt-4 text-lg text-gray-500">
+                  {" "}
+                  We negotiate high paying affiliate deals with a curated list
+                  of brands, and pre-approve Swapstack writers to ensure you can
+                  run one of these deals at any moment.
                 </p>
                 <div className="mt-6">
                   <a
-                    href="https://app.swapstack.co/newsletter-gallery"
+                    href="https://app.swapstack.co/login?key=signup"
                     className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700"
                   >
-                    Check out our newsletters
+                    Create an account to get started
                   </a>
                 </div>
               </div>
@@ -55,26 +49,11 @@ export default function Features() {
               <blockquote>
                 <div>
                   <p className="text-base text-gray-500">
-                    "We've been looking for easy ways to connect witth fantastic
-                    writers and newsletters to showcase our natural foods brand,
-                    in our first week with SwapStack we've had a dozen strong
-                    matches that we'll be running campaigns with"
+                    Alex Cervasio, Founder of The Daily Coach, has earned over
+                    $1,200 by running multiple Plug & Play deals on his
+                    newsletter.
                   </p>
                 </div>
-                <footer className="mt-3">
-                  <div className="flex items-center space-x-3">
-                    <div className="flex-shrink-0">
-                      <img
-                        className="h-6 w-6 rounded-full"
-                        src={Chris}
-                        alt=""
-                      />
-                    </div>
-                    <div className="text-base font-medium text-gray-700">
-                      Chris Jane, Founder of Proper Good
-                    </div>
-                  </div>
-                </footer>
               </blockquote>
             </div>
           </div>
@@ -82,7 +61,7 @@ export default function Features() {
             <div className="pl-4 -mr-48 sm:pl-6 md:-mr-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
               <img
                 className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
-                src={brands1}
+                src={Pnp1}
                 alt="Inbox user interface"
               />
             </div>
@@ -95,7 +74,7 @@ export default function Features() {
             <div>
               <div>
                 <span className="h-12 w-12 rounded-md flex items-center justify-center bg-indigo-600">
-                  <CheckCircleIcon
+                  <SparklesIcon
                     className="h-6 w-6 text-white"
                     aria-hidden="true"
                   />
@@ -103,19 +82,29 @@ export default function Features() {
               </div>
               <div className="mt-6">
                 <h2 className="text-3xl font-extrabold tracking-tight text-gray-900">
-                  Auto approve hundreds of newsletters for affiliate marketing
+                  Run your first Plug & Play ad immediately
                 </h2>
                 <p className="mt-4 text-lg text-gray-500">
-                  Swapstack's affiliate program enables you to work with more
-                  writers with less effort. Only pay for conversions writers
-                  drive to your brand.
+                  All deals are pre-approved, meaning you can run an ad as soon
+                  as you want.
                 </p>
+                <ul className="mt-4 text-lg text-gray-500 list-disc">
+                  <li display="list-item">Copy your personalized link. </li>
+                  <li display="list-item">
+                    Use some of the suggested creative.
+                  </li>
+                  <li display="list-item">Publish the newsletter.</li>
+                  <li display="list-item">
+                    Get paid for any conversions you drive!
+                  </li>
+                </ul>
+
                 <div className="mt-6">
                   <a
                     href="https://app.swapstack.co/login?key=signup"
                     className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700"
                   >
-                    Apply to join Plug & Play on Swapstack
+                    Sign up now. Always free.
                   </a>
                 </div>
               </div>
@@ -125,7 +114,7 @@ export default function Features() {
             <div className="pr-4 -ml-48 sm:pr-6 md:-ml-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
               <img
                 className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-none"
-                src={pnp1}
+                src={Pnp2}
                 alt="Customer profile user interface"
               />
             </div>
