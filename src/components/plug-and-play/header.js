@@ -12,7 +12,7 @@ export default function Header() {
             src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=310465&theme=light"
             alt="Plug & Play by Swapstack - Pre-approved affiliate deals for all newsletter creators. | Product Hunt"
             style={{ width: "250px", height: "54px" }}
-            className="mt-4 mb-8"
+            className="mt-4 mb-8 mx-auto"
           />
         </a>
         <div className="text-center">

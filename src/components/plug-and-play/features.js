@@ -88,7 +88,7 @@ export default function Features() {
                   All deals are pre-approved, meaning you can run an ad as soon
                   as you want.
                 </p>
-                <ul className="mt-4 text-lg text-gray-500 list-disc">
+                <ul className="mt-4 text-lg text-gray-500 list-disc ml-8">
                   <li display="list-item">Copy your personalized link. </li>
                   <li display="list-item">
                     Use some of the suggested creative.
@@ -111,7 +111,7 @@ export default function Features() {
             </div>
           </div>
           <div className="mt-12 sm:mt-16 lg:mt-0 lg:col-start-1">
-            <div className="pr-4 -ml-48 sm:pr-6 md:-ml-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
+            <div className="pr-4 -ml-48 sm:pr-6 md:-ml-16 lg:px-0 lg:ml-0 lg:relative lg:h-full">
               <img
                 className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-none"
                 src={Pnp2}
