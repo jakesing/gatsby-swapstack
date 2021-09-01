@@ -4,6 +4,17 @@ export default function Header() {
   return (
     <div className="bg-white">
       <div className="max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8">
+        <a
+          href="https://www.producthunt.com/posts/plug-play-by-swapstack?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-plug-play-by-swapstack"
+          target="_blank"
+        >
+          <img
+            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=310465&theme=light"
+            alt="Plug & Play by Swapstack - Pre-approved affiliate deals for all newsletter creators. | Product Hunt"
+            style={{ width: "250px", height: "54px" }}
+            className="mt-4 mb-8"
+          />
+        </a>
         <div className="text-center">
           <p className="mt-1 text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl">
             Never send your newsletter without a sponsor!
@@ -20,7 +31,7 @@ export default function Header() {
             >
               Sign up for Swapstack to get started
             </a>
-          </div>
+          </div>{" "}
         </div>
       </div>
     </div>

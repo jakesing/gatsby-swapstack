@@ -83,8 +83,20 @@ export default function Hero() {
 
       <div className="relative pt-2 pb-4 lg:pt-36 lg:pb-24 md:py-16">
         <main className="mt-2 mx-auto max-w-7xl px-4 sm:mt-2">
+          {" "}
           <div className="text-center">
             <h1 className="text-3xl tracking-tight font-extrabold text-gray-900 sm:text-3xl md:text-6xl">
+              <a
+                href="https://www.producthunt.com/posts/plug-play-by-swapstack?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-plug-play-by-swapstack"
+                target="_blank"
+              >
+                <img
+                  src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=310465&theme=light"
+                  alt="Plug & Play by Swapstack - Pre-approved affiliate deals for all newsletter creators. | Product Hunt"
+                  style={{ width: "250px", height: "54px" }}
+                  className="mt-4 mb-8"
+                />
+              </a>
               <span className="block inline">The Premier Newsletter</span>{" "}
               <br></br>
               <span className="block text-indigo-600 inline">
