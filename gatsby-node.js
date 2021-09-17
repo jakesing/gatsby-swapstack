@@ -102,10 +102,11 @@ exports.createSchemaCustomization = ({ actions }) => {
       fields: Fields
     }
 
-    type Frontmatter {
-      title: String
-      description: String
-      date: Date @dateformat
+    type Frontmatter @infer {
+      title: String!
+      date: Date! @dateformat
+      description: String!
+      authorFull: AuthorsJson @link(by: "email", from: "author")
     }
 
     type Fields {

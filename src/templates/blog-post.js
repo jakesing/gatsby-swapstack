@@ -16,50 +16,7 @@ const BlogPostTemplate = ({ data, location }) => {
         description={post.frontmatter.description || post.excerpt}
         thumbnail={post.frontmatter.thumbnail}
       />
-      {/* <article
-        className="blog-post"
-        itemScope
-        itemType="http://schema.org/Article"
-      >
-        <header>
-          <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
-        </header>
-        <section
-          dangerouslySetInnerHTML={{ __html: post.html }}
-          itemProp="articleBody"
-        />
-        <hr />
-        <footer>
-          <Bio />
-        </footer>
-      </article>
-      <nav className="blog-post-nav">
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
-          <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
-      </nav> */}
+
       <div className="relative py-16 bg-white overflow-hidden">
         <div className="hidden lg:block lg:absolute lg:inset-y-0 lg:h-full lg:w-full">
           <div
@@ -142,6 +99,31 @@ const BlogPostTemplate = ({ data, location }) => {
                 {post.frontmatter.title}
               </span>
             </h1>
+            <div className="mt-6 flex items-center">
+              <div className="flex-shrink-0">
+                <a href="google.com">
+                  <span className="sr-only">Anangsha</span>
+                  <img
+                    className="h-10 w-10 rounded-full"
+                    src="https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80"
+                    alt=""
+                  />
+                </a>
+              </div>
+              <div className="ml-3">
+                <p className="text-sm font-medium text-gray-900">
+                  <a href="google.com" className="hover:underline">
+                    {post.frontmatter.author}
+                  </a>
+                </p>
+                <div className="flex space-x-1 text-sm text-gray-500">
+                  {/* <span>5/2/2021</span> */}
+                  <time dateTime={post.frontmatter.date}>
+                    {post.frontmatter.date}
+                  </time>
+                </div>
+              </div>
+            </div>
           </div>
           <div className="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
             <section
@@ -178,6 +160,19 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         description
         thumbnail
+        authorFull {
+          email
+          name
+          shortbio
+          title
+          authorimage {
+            childImageSharp {
+              fixed(width: 100) {
+                ...GatsbyImageSharpFixed
+              }
+            }
+          }
+        }
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
@@ -198,20 +193,3 @@ export const pageQuery = graphql`
     }
   }
 `
-
-/*
-  This example requires Tailwind CSS v2.0+ 
-  
-  This example requires some changes to your config:
-  
-  ```
-  // tailwind.config.js
-  module.exports = {
-    // ...
-    plugins: [
-      // ...
-      require('@tailwindcss/typography'),
-    ]
-  }
-  ```
-*/
