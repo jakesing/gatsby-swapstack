@@ -1,5 +1,6 @@
 ---
 title: 5 Ways To Convert Your Newsletter to A Powerful Income Stream
+author: anangsha@swapstack.co
 date: 2021-06-17T15:54:19.162Z
 description: You have an email list and want to start earning? Here's how to go
   about monetizing your newsletter.
