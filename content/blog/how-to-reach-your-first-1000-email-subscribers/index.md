@@ -1,5 +1,6 @@
 ---
 title: How to Reach Your First 1000 Email Subscribers
+author: anangsha@swapstack.co
 date: 2021-08-24T19:24:51.619Z
 description: Build your own tribe, have fun, and earn money along the way!
 thumbnail: https://miro.medium.com/max/875/0*SE3JzShF3S1jtqgI
