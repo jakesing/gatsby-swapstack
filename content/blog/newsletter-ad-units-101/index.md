@@ -1,5 +1,6 @@
 ---
 title: Newsletter Ad Units 101
+author: anangsha@swapstack.co
 date: 2021-04-16T14:57:30.621Z
 description: Everything you need to know about creating the ad units for your newsletter
 thumbnail: https://github.com/jakesing/gatsby-swapstack/blob/main/src/images/ad%20units.png?raw=true
