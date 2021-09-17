@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -8,6 +9,45 @@ const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
+  const authorImage = post.frontmatter.authorFull
+    ? getImage(post.frontmatter.authorFull.authorimage)
+    : ""
+
+  function AuthorWidget() {
+    if (post.frontmatter.authorFull) {
+      return (
+        <div className="mt-6 flex items-center justify-center">
+          <div className="flex-shrink-0">
+            <a href="google.com">
+              <span className="sr-only">
+                {post.frontmatter.authorFull.name}
+              </span>
+              <GatsbyImage
+                className="h-10 w-10 rounded-full"
+                image={authorImage}
+                alt={post.frontmatter.authorFull.name}
+              />
+            </a>
+          </div>
+          <div className="ml-3">
+            <p className="text-sm font-medium text-gray-900">
+              <a href="google.com" className="hover:underline">
+                {post.frontmatter.authorFull.name}
+              </a>
+            </p>
+            <div className="flex space-x-1 text-sm text-gray-500">
+              {/* <span>5/2/2021</span> */}
+              <time dateTime={post.frontmatter.date}>
+                {post.frontmatter.date}
+              </time>
+            </div>
+          </div>
+        </div>
+      )
+    } else {
+      return <span></span>
+    }
+  }
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -99,31 +139,7 @@ const BlogPostTemplate = ({ data, location }) => {
                 {post.frontmatter.title}
               </span>
             </h1>
-            <div className="mt-6 flex items-center">
-              <div className="flex-shrink-0">
-                <a href="google.com">
-                  <span className="sr-only">Anangsha</span>
-                  <img
-                    className="h-10 w-10 rounded-full"
-                    src="https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80"
-                    alt=""
-                  />
-                </a>
-              </div>
-              <div className="ml-3">
-                <p className="text-sm font-medium text-gray-900">
-                  <a href="google.com" className="hover:underline">
-                    {post.frontmatter.author}
-                  </a>
-                </p>
-                <div className="flex space-x-1 text-sm text-gray-500">
-                  {/* <span>5/2/2021</span> */}
-                  <time dateTime={post.frontmatter.date}>
-                    {post.frontmatter.date}
-                  </time>
-                </div>
-              </div>
-            </div>
+            <AuthorWidget />
           </div>
           <div className="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
             <section
@@ -166,10 +182,14 @@ export const pageQuery = graphql`
           shortbio
           title
           authorimage {
+            absolutePath
+            relativePath
             childImageSharp {
-              fixed(width: 100) {
-                ...GatsbyImageSharpFixed
-              }
+              gatsbyImageData(
+                width: 200
+                placeholder: BLURRED
+                formats: [AUTO, WEBP, AVIF]
+              )
             }
           }
         }

@@ -107,6 +107,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       date: Date! @dateformat
       description: String!
       authorFull: AuthorsJson @link(by: "email", from: "author")
+
     }
 
     type Fields {

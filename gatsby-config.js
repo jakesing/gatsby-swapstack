@@ -20,6 +20,13 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: "authors",
+        path: `src/pages/blog/_authors/`,
+      },
+    },
+    {
       resolve: `gatsby-plugin-intercom-spa`,
       options: {
         appId: "ohlfzivf",
