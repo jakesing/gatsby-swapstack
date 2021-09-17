@@ -18,7 +18,7 @@ const BlogPostTemplate = ({ data, location }) => {
       return (
         <div className="mt-6 flex items-center justify-center">
           <div className="flex-shrink-0">
-            <a href="google.com">
+            <a href={post.frontmatter.authorFull.url}>
               <span className="sr-only">
                 {post.frontmatter.authorFull.name}
               </span>
@@ -31,7 +31,10 @@ const BlogPostTemplate = ({ data, location }) => {
           </div>
           <div className="ml-3">
             <p className="text-sm font-medium text-gray-900">
-              <a href="google.com" className="hover:underline">
+              <a
+                href={post.frontmatter.authorFull.url}
+                className="hover:underline"
+              >
                 {post.frontmatter.authorFull.name}
               </a>
             </p>
@@ -179,6 +182,7 @@ export const pageQuery = graphql`
         authorFull {
           email
           name
+          url
           shortbio
           title
           authorimage {
