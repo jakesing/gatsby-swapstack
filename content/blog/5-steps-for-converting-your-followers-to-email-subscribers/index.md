@@ -1,5 +1,6 @@
 ---
 title: 5 Steps For Converting Your Followers to Email Subscribers
+author: anangsha@swapstack.co
 date: 2021-06-22T16:24:47.775Z
 description: Let's turn your social media following into a valuable asset!
 thumbnail: https://images.unsplash.com/photo-1531547255897-f400dc1b7de2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80
