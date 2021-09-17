@@ -11,6 +11,15 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: "gatsby-transformer-json",
+      options: {
+        path: `./src/pages/blog`,
+      },
+    },
+    {
+      resolve: "gatsby-transformer-remark",
+    },
+    {
       resolve: `gatsby-plugin-intercom-spa`,
       options: {
         appId: "ohlfzivf",
