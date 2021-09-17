@@ -49,5 +49,4 @@ collections:
       - { label: Email, name: email, widget: string }
       - { label: Shortbio, name: shortbio, widget: text }
       - { label: Image, name: authorimage, widget: image }
-            - { label: URL, name: url, widget: text }
-
+      - { label: URL, name: url, widget: text }
