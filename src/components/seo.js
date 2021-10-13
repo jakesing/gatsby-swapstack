@@ -42,7 +42,10 @@ const Seo = ({ description, lang, meta, title, thumbnail }) => {
       htmlAttributes={{
         lang,
       }}
-      title={defaultTitle}
+      title={
+        defaultTitle ??
+        `Swapstack: the world's best newsletter advertising platform`
+      }
       meta={[
         { name: `keywords`, content: keywords },
         {

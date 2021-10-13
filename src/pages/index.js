@@ -10,6 +10,7 @@ import Seo from "../components/seo"
 export default function Index() {
   return (
     <div>
+      {" "}
       <Layout>
         <Seo />
         <Hero />
@@ -17,7 +18,7 @@ export default function Index() {
         <Brands />
         <Writers />
         <Press />
-      </Layout>
+      </Layout>{" "}
     </div>
   )
 }

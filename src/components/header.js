@@ -131,13 +131,6 @@ const navButtons = [
 ]
 
 export default function Header() {
-  if (typeof window !== `undefined`) {
-    window.Intercom("boot", {
-      app_id: "ohlfzivf",
-      // other settings you'd like to use to initialize Intercom
-    })
-  }
-
   return (
     <Popover className="relative bg-white">
       {({ open }) => (
@@ -413,6 +406,7 @@ export default function Header() {
                       className="text-base font-medium text-gray-500 hover:text-gray-900"
                       to={item.to}
                       activeClassName="text-base font-bold text-gray-900 hover:text-gray-900"
+                      key={item.name}
                     >
                       {item.name}
                     </Link>
@@ -476,6 +470,7 @@ export default function Header() {
                           <Link
                             to={item.to}
                             className="-m-3 flex items-center p-3 rounded-lg hover:bg-gray-50"
+                            key={item.name}
                           >
                             {item.name}
                           </Link>

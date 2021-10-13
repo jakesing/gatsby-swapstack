@@ -27,14 +27,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-intercom-spa`,
-      options: {
-        appId: "ohlfzivf",
-        include_in_development: true,
-        delay_timeout: 0,
-      },
-    },
-    {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
