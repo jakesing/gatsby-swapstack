@@ -131,10 +131,12 @@ const navButtons = [
 ]
 
 export default function Header() {
-  window.Intercom("boot", {
-    app_id: "ohlfzivf",
-    // other settings you'd like to use to initialize Intercom
-  })
+  if (typeof window !== `undefined`) {
+    window.Intercom("boot", {
+      app_id: "ohlfzivf",
+      // other settings you'd like to use to initialize Intercom
+    })
+  }
 
   return (
     <Popover className="relative bg-white">
