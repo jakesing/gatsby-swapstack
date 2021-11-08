@@ -3,9 +3,11 @@ title: Introducing No Fee November!
 author: jake@swapstack.co
 date: 2021-11-08T01:33:50.285Z
 description: Swapstack's holiday present to brands this year is a month free of fees!
-thumbnail: screen-shot-2021-11-07-at-6.38.18-pm.png
+thumbnail: https://github.com/jakesing/gatsby-swapstack/blob/main/src/pages/blog/article_images/nfn.png?raw=true
 ---
 ## **What's happening in November?**
+
+![welcome to No Fee November](https://github.com/jakesing/gatsby-swapstack/blob/main/src/pages/blog/article_images/nfn2.png?raw=true "welcome to No Fee November")
 
 It's November, and you know what that means! Tons of mustaches, Black Friday & Holiday campaigns, fall weather (for those on the US-East Coast) and....***no fees for brands on Swapstack*.**
 
