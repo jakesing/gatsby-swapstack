@@ -1,5 +1,6 @@
 ---
 title: "The Ultimate Newsletter Guide: How to set up Paid Sponsorships with Brands"
+author: anangsha@swapstack.co
 date: 2021-07-19T18:27:09.431Z
 description: How to execute meaningful brand collaborations for your newsletter
   and build a solid income stream.
