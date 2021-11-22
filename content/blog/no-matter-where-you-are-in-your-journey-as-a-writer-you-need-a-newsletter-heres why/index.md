@@ -1,6 +1,7 @@
 ---
 title: No Matter Where You Are in Your Journey as a Writer, You Need a
   Newsletter. Here's Why.
+author: anangsha@swapstack.co
 date: 2021-06-09T20:21:27.101Z
 description: Tips on how to build, grow, and monetize an email list for writers
   of all genres and formats.
