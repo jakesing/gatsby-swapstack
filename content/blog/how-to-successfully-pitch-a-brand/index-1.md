@@ -1,5 +1,6 @@
 ---
 title: How to Successfully Pitch A Brand
+author: anangsha@swapstack.co
 date: 2021-08-21T13:57:29.939Z
 description: 4 step to design a mututally-beneficial collaboration with your dream brand.
 thumbnail: https://cdn-images-1.medium.com/max/1000/1*D7CHHSEf58skmzGeAxxIYg.jpeg
