@@ -1,5 +1,6 @@
 ---
 title: Newsletter Swaps, A Powerful Way To Grow Your Audience
+author: anangsha@swapstack.co
 date: 2021-09-11T15:54:07.851Z
 description: Collaborate with amazing writers and grow your email list with this
   cool technique.
