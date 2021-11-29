@@ -8,7 +8,7 @@ thumbnail: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f7ef121d-
 ---
 In this post, you'll understand the important elements you need as a creator to land sponsorship deals for your newsletter.
 
-![Newsletter Advertising 101. Elements of a clever pitch to a brand.](green-professional-gradients-specialized-courses-education-linkedin-video-ad-1-.jpg "Important elements of a clever pitch to a brand.")
+![Newsletter Advertising 101. Elements of a clever pitch to a brand.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f7ef121d-63ba-4b87-98ed-b6c399a05bd5/Green_Professional_Gradients_Specialized_Courses_Education_LinkedIn_Video_Ad_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211129%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211129T154740Z&X-Amz-Expires=86400&X-Amz-Signature=618b5e5fd2e3fa90ee7789d3cb3e22d41eab0815013d4b4840d9e7abe403d590&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Green%2520Professional%2520Gradients%2520Specialized%2520Courses%2520Education%2520LinkedIn%2520Video%2520Ad%2520%281%29.jpg%22&x-id=GetObject "Important elements of a clever pitch to a brand.")
 
 **Anangsha:** So Justin, I'd like to know what are some elements of a clever pitch to a brand.
 
