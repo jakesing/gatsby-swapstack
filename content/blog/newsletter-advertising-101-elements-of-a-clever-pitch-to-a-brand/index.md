@@ -31,11 +31,11 @@ How much more powerful do you think a pitch will be when you can:
 * Understand what they're trying to accomplish
 * AND already speak to the types of customers that they're trying to reach.
 
-**\[A]** **Jake Schonberger:** Yeah, so generally I agree with everything Justin said. A couple of things that I would add are: when you reach out to a brand, and we help with a lot of this on Swapstack through the outreach mechanism:
+**\[A]** **Jake Schonberger:** Yeah, so generally I agree with everything Justin said. A couple of things that I would add are, when you reach out to a brand, and we help with a lot of this on Swapstack through the outreach mechanism:
 
-* Availability: make sure that the brand knows about your availability. Meaning when they can go live with an ad, if they want to.
+* **Availability**: make sure that the brand knows about your availability. Meaning when they can go live with an ad, if they want to.
 * [Newsletter Pricing](https://swapstack.co/newsletter-pricing-101/) is very important. Brands want to know how much it costs to actually work with you and what kind of ROI they're going to see. So we also help with this through Swapstack. You can create [Newsletter Ad listings](https://swapstack.co/newsletter-ad-units-101/) to show your pricing, but make sure that whenever you pitch out to send a pitch to a brand, even if you're doing a cold call or a cold outreach, include your pricing.
-* Performance: Include examples of how the ad might work, and include examples of previous ads that have driven good ROI.
+* **Performance**: Include examples of how the ad might work, and include examples of previous ads that have driven good ROI.
 
 Overall, you want to give them all the tools that they need to be able to make a decision on if they want to work with you. And most of the time, the brand wants to be able to drive or understand their ROI. The easier it is for a brand to visualize a successful relationship, to quicker they'll be to say, "Yes, let's do it!"
 
