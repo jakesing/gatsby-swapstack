@@ -4,7 +4,7 @@ author: vidya@swapstack.co
 date: 2021-11-29T15:36:56.180Z
 description: "Important elements you need to keep in mind as a creator to land
   sponsorship deals for your newsletter. "
-thumbnail: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f7ef121d-63ba-4b87-98ed-b6c399a05bd5/Green_Professional_Gradients_Specialized_Courses_Education_LinkedIn_Video_Ad_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211129%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211129T154740Z&X-Amz-Expires=86400&X-Amz-Signature=618b5e5fd2e3fa90ee7789d3cb3e22d41eab0815013d4b4840d9e7abe403d590&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Green%2520Professional%2520Gradients%2520Specialized%2520Courses%2520Education%2520LinkedIn%2520Video%2520Ad%2520%281%29.jpg%22&x-id=GetObject
+thumbnail: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dac8c21d-12bd-4ada-be39-569ed8fe6b28/Newsletter_Advertising_101_Elements_of_a_clever_pitch.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211129%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211129T163955Z&X-Amz-Expires=86400&X-Amz-Signature=06284c720e3e6fb8c63842c55d0b611988619fd79900360f8cf3ec00f4adf3a8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Newsletter%2520Advertising%2520101%2520Elements%2520of%2520a%2520clever%2520pitch.jpg%22&x-id=GetObject
 ---
 In this post, you'll understand the important elements you need as a creator to land sponsorship deals for your newsletter.
 
