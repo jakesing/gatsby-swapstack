@@ -6,15 +6,17 @@ description: "Important elements you need to keep in mind as a creator to land
   sponsorship deals for your newsletter. "
 thumbnail: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dac8c21d-12bd-4ada-be39-569ed8fe6b28/Newsletter_Advertising_101_Elements_of_a_clever_pitch.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211129%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211129T163955Z&X-Amz-Expires=86400&X-Amz-Signature=06284c720e3e6fb8c63842c55d0b611988619fd79900360f8cf3ec00f4adf3a8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Newsletter%2520Advertising%2520101%2520Elements%2520of%2520a%2520clever%2520pitch.jpg%22&x-id=GetObject
 ---
-In this post, you'll understand the important elements you need as a creator to land sponsorship deals for your newsletter.
+In this post, we'll talk through the important elements of building an initial relationship with a potential sponsor.
+
+This article is transcribed from our video interview with Justin Moore and Jake Schonberger, which can be found [here](https://www.notion.so/Episode-1-Elements-of-a-clever-pitch-to-a-brand-3fbaa56c5f7a42b394b821ce6c864c91).
 
 ![Newsletter Advertising 101. Elements of a clever pitch to a brand.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f7ef121d-63ba-4b87-98ed-b6c399a05bd5/Green_Professional_Gradients_Specialized_Courses_Education_LinkedIn_Video_Ad_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211129%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211129T154740Z&X-Amz-Expires=86400&X-Amz-Signature=618b5e5fd2e3fa90ee7789d3cb3e22d41eab0815013d4b4840d9e7abe403d590&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Green%2520Professional%2520Gradients%2520Specialized%2520Courses%2520Education%2520LinkedIn%2520Video%2520Ad%2520%281%29.jpg%22&x-id=GetObject "Important elements of a clever pitch to a brand.")
 
-**Anangsha:** So Justin, I'd like to know what are some elements of a clever pitch to a brand.
+**\[Q] Anangsha:** So Justin & Jake, I'd like to know what are some of the most important elements of a clever pitch to a brand.
 
-**Justin Moore:** Sure. So when we're talking about clever pitches to brands, the number one thing not to do is to just contact the brand or the person responsible for the marketing spend and saying, "Hey, I love your brand. Let's collaborate."
+**\[A]** **Justin Moore:** Sure. So when we're talking about clever pitches to brands, the number one thing not to do is to just contact the brand or the person responsible for the marketing spend and say, "Hey, I love your brand. Let's collaborate."
 
-You know, you, you might think, "Well, duh!", right? It's not, that's not compelling. But in my experience, this is what 97% of creators do when they reach out to brands. And yes, there are important principles when pitching a potential sponsor. I've created a framework called the ROPE method, which I have used for years extremely successfully.
+You know, you might think, "Well, duh!", right? That's not compelling. But in my experience, this is what 97% of creators do when they reach out to brands. So yes, there are important principles when pitching a potential sponsor. I've created a framework called the ROPE method, which I have used for years extremely successfully.
 
 And it stands for Relevant, Organic, Persistent, and Easy to execute.:
 
@@ -23,9 +25,13 @@ And it stands for Relevant, Organic, Persistent, and Easy to execute.:
 3. Persistent is that you don't give up after one email.
 4. And, Easy to execute when they say, "Yes!"
 
-How much more powerful do you think a pitch will be when you can illustrate to a brand that you've actually done your homework on them and understand what they're trying to accomplish and the types of customers that they're trying to reach.
+How much more powerful do you think a pitch will be when you can:
 
-**Jake Schonberger:** Yeah, so generally I agree with everything. Justin said, a couple of things that I would add are, when you reach out to a brand, and we help with a lot of this on Swapstack through the outreach mechanisms.
+* Illustrate to a brand that you've actually done your homework on them
+* Understand what they're trying to accomplish
+* AND already speak to the types of customers that they're trying to reach.
+
+**\[A] Jake Schonberger:** Yeah, so generally I agree with everything. Justin said, a couple of things that I would add are, when you reach out to a brand, and we help with a lot of this on Swapstack through the outreach mechanisms.
 
 We'll make sure that the brand knows about your availability. Like when they can go live with an ad, if they want to. [Newsletter Pricing](https://swapstack.co/newsletter-pricing-101/) is very important. Brands want to know how much it costs to actually work with you and what kind of ROI they're going to see. So we also help with this through [Swapstack](https://swapstack.co/).
 
