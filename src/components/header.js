@@ -505,7 +505,7 @@ export default function Header() {
           </>
         )}
       </Popover>{" "}
-      <Banner />
+      {/* <Banner /> */}
     </div>
   )
 }
