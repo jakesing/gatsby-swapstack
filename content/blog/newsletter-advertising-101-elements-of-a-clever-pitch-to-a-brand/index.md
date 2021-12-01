@@ -4,13 +4,13 @@ author: vidya@swapstack.co
 date: 2021-11-29T15:36:56.180Z
 description: Important elements of building an initial relationship with a
   potential sponsor for your newsletter.
-thumbnail: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ccf29d30-72aa-4e13-9752-44ea7745af67/Newsletter_Advertising_101_Elements_of_a_clever_pitch_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211129%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211129T164918Z&X-Amz-Expires=86400&X-Amz-Signature=6ccb4d2d14a55814890f22bf7a1287e346e82a93db6f1f3ac7178a312bd71df4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Newsletter%2520Advertising%2520101%2520Elements%2520of%2520a%2520clever%2520pitch%2520%281%29.jpg%22&x-id=GetObject
+thumbnail: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ccf29d30-72aa-4e13-9752-44ea7745af67/Newsletter_Advertising_101_Elements_of_a_clever_pitch_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211201%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211201T164417Z&X-Amz-Expires=86400&X-Amz-Signature=622e963482b4c4293036c3be2b6a99ea0b3638637bc53338a5e9a4ac90d7a6d1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Newsletter%2520Advertising%2520101%2520Elements%2520of%2520a%2520clever%2520pitch%2520%281%29.jpg%22&x-id=GetObject
 ---
 In this post, we'll talk through the important elements of building an initial relationship with a potential sponsor.
 
 This article is transcribed from our video interview with Justin Moore and Jake Schonberger, which can be found [here](https://www.notion.so/Episode-1-Elements-of-a-clever-pitch-to-a-brand-3fbaa56c5f7a42b394b821ce6c864c91).
 
-![Newsletter Advertising 101. Elements of a clever pitch to a brand.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f7ef121d-63ba-4b87-98ed-b6c399a05bd5/Green_Professional_Gradients_Specialized_Courses_Education_LinkedIn_Video_Ad_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211129%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211129T154740Z&X-Amz-Expires=86400&X-Amz-Signature=618b5e5fd2e3fa90ee7789d3cb3e22d41eab0815013d4b4840d9e7abe403d590&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Green%2520Professional%2520Gradients%2520Specialized%2520Courses%2520Education%2520LinkedIn%2520Video%2520Ad%2520%281%29.jpg%22&x-id=GetObject "Important elements of a clever pitch to a brand.")
+![Newsletter Advertising 101. Elements of a clever pitch to a brand.](green-professional-gradients-specialized-courses-education-linkedin-video-ad-1-.jpg "Important elements of a clever pitch to a brand.")
 
 **\[Q] Anangsha:** So Justin & Jake, I'd like to know what are some of the most important elements of a clever pitch to a brand.
 
