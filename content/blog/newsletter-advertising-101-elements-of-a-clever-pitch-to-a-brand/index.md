@@ -8,9 +8,9 @@ thumbnail: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ccf29d30-
 ---
 In this post, we'll talk through the important elements of building an initial relationship with a potential sponsor.
 
-This article is transcribed from our video interview with Justin Moore and Jake Schonberger, which can be found [here](https://www.notion.so/Episode-1-Elements-of-a-clever-pitch-to-a-brand-3fbaa56c5f7a42b394b821ce6c864c91).
+This article is transcribed from our video interview with Justin Moore and Jake Schonberger, which can be found [here](https://youtu.be/0L9nYwercfg).
 
-![Newsletter Advertising 101. Elements of a clever pitch to a brand.](green-professional-gradients-specialized-courses-education-linkedin-video-ad-1-.jpg "Important elements of a clever pitch to a brand.")
+![Newsletter Advertising 101. Elements of a clever pitch to a brand.](newsletter-advertising-101-elements-of-a-clever-pitch-1-.jpg "Important elements of a clever pitch to a brand.")
 
 **\[Q] Anangsha:** So Justin & Jake, I'd like to know what are some of the most important elements of a clever pitch to a brand.
 
