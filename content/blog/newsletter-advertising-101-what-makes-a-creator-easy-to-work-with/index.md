@@ -9,7 +9,7 @@ In this post, we'll talk through the aspects that makes a creator "easy to work 
 
 This article is transcribed from our video interview with [Justin Moore](https://www.youtube.com/c/CreatorWizard) and [Jake Schonberger](https://www.linkedin.com/in/jakeschonberger/), which can be found [here](https://www.youtube.com/watch?v=0L9nYwercfg).
 
-![Newsletter Advertising](newsletter-advertising-101-1-.jpg "Important aspects that makes a creator \\\\"easy to work with\\\\".")
+![Newsletter Advertising](newsletter-advertising-101.jpg "Important aspects that makes a creator \\\\\"easy to work with\\\\\".")
 
 **\[Q]** **Anangsha:** What makes a creator "easy to work with"? What aspects are covered under this?
 
