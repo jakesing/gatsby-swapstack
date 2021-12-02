@@ -1,5 +1,6 @@
 ---
-title: 'Newsletter Advertising 101: What makes a creator "easy to work with"?'
+title: 'Newsletter Advertising 101 Episode 2: What makes a creator "easy to work
+  with"?'
 author: vidya@swapstack.co
 date: 2021-12-02T15:00:30.362Z
 description: Important aspects that makes a creator "easy to work with" for the brands.
