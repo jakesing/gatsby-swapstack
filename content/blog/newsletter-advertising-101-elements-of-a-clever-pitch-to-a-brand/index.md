@@ -44,3 +44,7 @@ Overall, you want to give them all the tools that they need to be able to make a
 Watch the full video below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0L9nYwercfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+\--
+
+[Join Swapstack today](https://app.swapstack.co/) and start monetizing your newsletter! 💌
