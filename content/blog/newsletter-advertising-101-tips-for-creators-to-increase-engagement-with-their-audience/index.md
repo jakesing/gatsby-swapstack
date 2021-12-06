@@ -14,8 +14,6 @@ This article is transcribed from our video interview with [Justin Moore](https:/
 
 **\[Q] Anangsha:** So Justin, what are some tips for creators to increase engagement with their audience?
 
-
-
 ## 1. Reply to Emails & Comments
 
 **\[A] Justin Moore:** The best tip that I have to increase engagement with your audience is to reply to every single comment and email until it's impossible. **Engagement is built one to one rather than one to many** in my experience.
@@ -36,12 +34,12 @@ If you don't want to implement feedback that you were given, make sure you reply
 
 **Make your readers feel part of the journey** that you're creating for them and they'll love you for it. And they'll keep interacting and engaging and more and more followers will do the same. "People feel ownership over that which they help create."
 
-
-
 **Anangsha:** That is very valuable to me. And I'm sure it would be valuable to all the other writers and creators who are watching this video right now.
-
-
 
 Watch the full video below:
 
-<iframe width="560" height="315" src="[](https://www.youtube.com/embed/0L9nYwercfg)<https://www.youtube.com/embed/0L9nYwercfg>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="\[](https://www.youtube.com/embed/0L9nYwercfg)<https://www.youtube.com/embed/0L9nYwercfg>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+\--[](https://app.swapstack.co/)
+
+[Join Swapstack today](https://app.swapstack.co/) and start monetizing your newsletter! 💌
