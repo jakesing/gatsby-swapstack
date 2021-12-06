@@ -12,13 +12,11 @@ This article is transcribed from our video interview with [Justin Moore](https:/
 
 ![Newsletter Advertising](newsletter-advertising-101.png "Tips for creators to increase engagement")
 
-
-
 **\[Q] Anangsha:** So Justin, what are some tips for creators to increase engagement with their audience?
 
+
+
 ## 1. Reply to Emails & Comments
-
-
 
 **\[A] Justin Moore:** The best tip that I have to increase engagement with your audience is to reply to every single comment and email until it's impossible. **Engagement is built one to one rather than one to many** in my experience.
 
@@ -26,24 +24,26 @@ So it's really critical to slow down and figure out how you can have an impact i
 
 ## 2. Ask Users for Feedback
 
+**\[A] Jake Schonberger:** So I totally agree with Justin. I'm going to add a couple of thoughts from specifically the newsletter perspective.
 
-
-**\[A] Jake Schonberger:** So I totally agree with Justin. I'm going to add a couple of thoughts from specifically the newsletter perspective. So definitely you have to react to every comment that is made.
-
-If it's through email, try to react to all emails as possible. In your newsletter, you should definitely ask users for feedback. So either ask them, "Hey, do you like my writing?" Or, "Would you adjust any of what I'm doing?"
+You definitely have to react to every comment that is made. In your newsletter, you should also ask users for feedback. So either ask them, "Hey, do you like my writing?" Or, "Would you adjust any of what I'm doing?" Feedback IS a gift, recognize that even critical comments come from a place where your readers want you to create better content, so use that feedback & test out a couple of suggestions (in your style, of course).
 
 ## 3. Invite Users To Participate
 
+**\[A] Jake Schonberger:** You can also invite \[your readers] to get involved and participate. So you can ask them, what should I write about next, or tell them what you're going to write about next and ask them if they have any thoughts or quotes that you might want to include. And again, implement the feedback that you think is good.
 
+If you don't want to implement feedback that you were given, make sure you reply and tell them why, or just acknowledge that you might take it into account in the future.
 
-**\[A] Jake Schonberger:** You can also invite them to get involved and participate. So you can ask them, what should I write about next, or tell them what you're going to write about next and ask them if they have any thoughts or quotes that you might want to include. And again, implement the feedback that you think is good.
-
-If you don't want to implement feedback that you were given, make sure you reply and tell them why, or just acknowledge that, you might take it into account in the future. **Make those users feel part of the journey** that you're creating for them and they'll love you for it. And they'll keep interacting and engaging and more and more followers will do the same.
+**Make your readers feel part of the journey** that you're creating for them and they'll love you for it. And they'll keep interacting and engaging and more and more followers will do the same. "People feel ownership over that which they help create."
 
 
 
 **Anangsha:** That is very valuable to me. And I'm sure it would be valuable to all the other writers and creators who are watching this video right now.
 
+
+
 Watch the full video below:
 
 <iframe width="560" height="315" src="[](https://www.youtube.com/embed/0L9nYwercfg)<https://www.youtube.com/embed/0L9nYwercfg>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--EndFragment-->
