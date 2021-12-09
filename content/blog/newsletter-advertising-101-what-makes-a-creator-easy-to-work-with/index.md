@@ -3,13 +3,13 @@ title: 'Newsletter Advertising 101: What makes a creator "easy to work with"?'
 author: vidya@swapstack.co
 date: 2021-12-02T15:00:30.362Z
 description: Important aspects that makes a creator "easy to work with" for the brands.
-thumbnail: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e817ff6b-cdc9-4c6b-9593-fbbd47cedf15/Newsletter_Advertising_101_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211202%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211202T150006Z&X-Amz-Expires=86400&X-Amz-Signature=365b1897447c963ef4a7beed30dba14a90ca61d96b7d2d0610075946941cac74&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Newsletter%2520Advertising%2520101%2520%281%29.jpg%22&x-id=GetObject
+thumbnail: https://i.ibb.co/3NDWTJ5/Newsletter-Advertising-101.jpg
 ---
 In this post, we'll talk through the aspects that makes a creator "easy to work with" for the brands.
 
 This article is transcribed from our video interview with [Justin Moore](https://www.youtube.com/c/CreatorWizard) and [Jake Schonberger](https://www.linkedin.com/in/jakeschonberger/), which can be found [here](https://www.youtube.com/watch?v=0L9nYwercfg).
 
-![Newsletter Advertising](newsletter-advertising-101.jpg "Important aspects that makes a creator \\\\\\"easy to work with\\\\\\".")
+![Newsletter Advertising](https://i.ibb.co/3NDWTJ5/Newsletter-Advertising-101.jpg "Important aspects that makes a creator \\\\\\\"easy to work with\\\\\\\".")
 
 **\[Q]** **Anangsha:** What makes a creator "easy to work with"? What aspects are covered under this?
 
@@ -57,10 +57,10 @@ If you have all that information on hand, send it to the brand, they don't have 
 
 **Anangsha:** Yeah, that definitely makes a lot of sense. We need to show our previous proof, the ROI of previous brands, and reduce friction as much as possible as Jake very valuably added to it.
 
-Watch the full video below:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0L9nYwercfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 \--
 
 [Join Swapstack today](https://app.swapstack.co/) and start monetizing your newsletter! 💌
+
+Watch the full video below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0L9nYwercfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
