@@ -11,13 +11,9 @@ This article is transcribed from our video interview with [Justin Moore](https:/
 
 ![Newsletter Advertising](https://i.ibb.co/jgj79HP/Newsletter-Advertising-101-2.jpg "How should creators make sure they don't get taken advantage of?")
 
-
-
 **\[Q] Anangsha:** Whenever creators are working with a brand, what are some steps that the creators should take to make sure that they are not being taken advantage of by the brand?
 
 **\[A] Justin Moore:** Creators are absolutely getting taken advantage of. And, I have 3 mindset shifts that I think are really critical.
-
-
 
 ## 1. You Deserve to Be Compensated and Paid What You're Due
 
@@ -29,8 +25,6 @@ But most importantly, they're getting to access your audience that you've painst
 
 So **don't ever let a brand gaslight you** and make you feel like you're crazy for wanting to be paid for your work. And if they do that, just move on. That's not a partner that's going to value you in the long run.
 
-
-
 ## 2. There Is No One Else Like You!
 
 Mindset shift number two is that, there is no one else like you! A lot of creators forget that, when a brand reaches out to them, there's a reason that they're doing that. **Something about you resonated with them.** Your personality, your connection with your audience, the quality of your content.
@@ -38,8 +32,6 @@ Mindset shift number two is that, there is no one else like you! A lot of creato
 Yes, of course there are going to be brands that only care about your reach and what types of results you can drive for them. But, I think there are a lot more brands who are very selective about the types of creators that they partner with.
 
 So, just keep that mindset going into the negotiation that they want to work with you.
-
-
 
 ## 3. Be Willing to Walk Away
 
@@ -57,8 +49,6 @@ Once you embrace the fact that you are in control and that it won't be the end o
 
 And in general, the best advice that we can give is that from our perspective, a newsletter writer can very easily understand the value that they create.
 
-
-
 ## 4. Learn Newsletter Pricing
 
 So for example, on Swapstack, you can set your price for different Ad placements.
@@ -70,8 +60,6 @@ So as a newsletter, starting to monetize, test out what a **Cost Per Thousand Op
 Speak to some brands, pitch that pricing. And, if you're not getting any good reactions, it might mean that your pricing is a little bit too high. If you are getting way too many people just saying, "Yep, we're good to go", it might mean that you can raise your pricing.
 
 But once you've done a couple of iterations to understand what your pricing is, **try not to falter from there** because you know that that's a sweet spot and you know that that's the value that you're driving.
-
-
 
 ## 5. Show Your Value
 
@@ -85,8 +73,10 @@ If a brand isn't open to working with you on your numbers, maybe they're not the
 
 **Anangsha:** That is so valuable. I mean, even I have felt the same way. Whenever I'm approaching to a brand, I always worry that what if they do all these things through me, through my audience, and then what if they don't pay anything in return? So, whatever you said really, really helps a lot. Thank you so much for that.
 
+—
 
+[Join Swapstack today](https://app.swapstack.co/) and start monetizing your newsletter! 💌
 
 Watch the full video below:
 
-<iframe width="560" height="315" src="[](https://www.youtube.com/embed/0L9nYwercfg)<https://www.youtube.com/embed/0L9nYwercfg>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0L9nYwercfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
