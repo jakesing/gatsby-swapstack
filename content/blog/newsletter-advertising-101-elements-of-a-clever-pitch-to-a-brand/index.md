@@ -4,13 +4,13 @@ author: vidya@swapstack.co
 date: 2021-11-29T15:36:56.180Z
 description: Important elements of building an initial relationship with a
   potential sponsor for your newsletter.
-thumbnail: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ccf29d30-72aa-4e13-9752-44ea7745af67/Newsletter_Advertising_101_Elements_of_a_clever_pitch_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211201%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211201T164417Z&X-Amz-Expires=86400&X-Amz-Signature=622e963482b4c4293036c3be2b6a99ea0b3638637bc53338a5e9a4ac90d7a6d1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Newsletter%2520Advertising%2520101%2520Elements%2520of%2520a%2520clever%2520pitch%2520%281%29.jpg%22&x-id=GetObject
+thumbnail: https://i.ibb.co/f2BjwLS/Newsletter-Advertising-101-Elements-of-a-clever-pitch-1.jpg
 ---
 In this post, we'll talk through the important elements of building an initial relationship with a potential sponsor.
 
 This article is transcribed from our video interview with Justin Moore and Jake Schonberger, which can be found [here](https://youtu.be/0L9nYwercfg).
 
-![Newsletter Advertising 101. Elements of a clever pitch to a brand.](newsletter-advertising-101-elements-of-a-clever-pitch-1-.jpg "Important elements of a clever pitch to a brand.")
+![Newsletter Advertising 101. Elements of a clever pitch to a brand.](https://i.ibb.co/f2BjwLS/Newsletter-Advertising-101-Elements-of-a-clever-pitch-1.jpg "Important elements of a clever pitch to a brand.")
 
 **\[Q] Anangsha:** So Justin & Jake, I'd like to know what are some of the most important elements of a clever pitch to a brand.
 
@@ -41,10 +41,10 @@ Overall, you want to give them all the tools that they need to be able to make a
 
 **Anangsha:** Those are such valuable insights. Thank you, Jake and Justin for sharing them.
 
-Watch the full video below:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0L9nYwercfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 \--
 
 [Join Swapstack today](https://app.swapstack.co/) and start monetizing your newsletter! 💌
+
+Watch the full video below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0L9nYwercfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
