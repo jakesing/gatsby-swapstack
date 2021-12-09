@@ -4,13 +4,13 @@ title: "Newsletter Advertising 101: Tips for creators to increase engagement
 author: vidya@swapstack.co
 date: 2021-12-06T05:25:01.129Z
 description: 3 tips for creators to increase engagement with their audience.
-thumbnail: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/20f4adb9-746a-404f-9f93-b0acef637905/Newsletter_Advertising_101.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211206%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211206T052724Z&X-Amz-Expires=86400&X-Amz-Signature=e295e05f5a07b486f0451a8e7d1e54766264b0d47a8c9535d01730d8784f35df&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Newsletter%2520Advertising%2520101.png%22&x-id=GetObject
+thumbnail: https://i.ibb.co/tPpDfmP/Newsletter-Advertising-101.png
 ---
 In this post, we'll share 3 tips for creators to increase engagement with their audience.
 
 This article is transcribed from our video interview with [Justin Moore](https://www.youtube.com/c/CreatorWizard) and [Jake Schonberger](https://www.linkedin.com/in/jakeschonberger/), which can be found **[here](https://www.youtube.com/watch?v=0L9nYwercfg)**.
 
-![Newsletter Advertising](newsletter-advertising-101.png "Tips for creators to increase engagement")
+![Newsletter Advertising](https://i.ibb.co/tPpDfmP/Newsletter-Advertising-101.png "Tips for creators to increase engagement")
 
 **\[Q] Anangsha:** So Justin, what are some tips for creators to increase engagement with their audience?
 
@@ -36,10 +36,12 @@ If you don't want to implement feedback that you were given, make sure you reply
 
 **Anangsha:** That is very valuable to me. And I'm sure it would be valuable to all the other writers and creators who are watching this video right now.
 
-Watch the full video below:
-
-<iframe width="560" height="315" src="\[](https://www.youtube.com/embed/0L9nYwercfg)<https://www.youtube.com/embed/0L9nYwercfg>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-\--[](https://app.swapstack.co/)
+\--
 
 [Join Swapstack today](https://app.swapstack.co/) and start monetizing your newsletter! 💌
+
+
+
+Watch the full video below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0L9nYwercfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
