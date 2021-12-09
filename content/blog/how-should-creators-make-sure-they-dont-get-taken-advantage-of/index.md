@@ -13,31 +13,35 @@ This article is transcribed from our video interview with [Justin Moore](https:/
 
 **\[Q] Anangsha:** Whenever creators are working with a brand, what are some steps that the creators should take to make sure that they are not being taken advantage of by the brand?
 
-**\[A] Justin Moore:** Creators are absolutely getting taken advantage of. And, I have 3 mindset shifts that I think are really critical.
+**\[A] Justin Moore:** Creators are often get taken advantage of. I have 3 mindset shifts that I think are really critical for creators to protect themselves.
 
-## 1. You Deserve to Be Compensated and Paid What You're Due
 
-So mindset shift number one is that, you deserve to be compensated and paid what you're due.
 
-Whenever I ask creators who are struggling with this, if they would work a 9-5 job for free, they all answer, "Well, of course not". So I say, **"Why should creating content in partnership with the brand, be any different?"** Remember, they're getting tremendous value from working with you. Whether it's like reposting your content on their social media or potentially using it for paid advertising.
+## 1. "You deserve to be compensated and paid what you're due"
 
-But most importantly, they're getting to access your audience that you've painstakingly built an intimate relationship with over the years and they trust you!
+So mindset shift number one is that, you need to think & know that you deserve to be compensated and paid what you're due.
 
-So **don't ever let a brand gaslight you** and make you feel like you're crazy for wanting to be paid for your work. And if they do that, just move on. That's not a partner that's going to value you in the long run.
+Whenever I ask creators who are struggling with this, if they would work a 9-5 job for free, they all answer, "Well, of course not". So I say, **"Why should creating content in partnership with the brand, be any different?"** Remember, they're getting tremendous value from working with you. Whether it's reposting your content on their social media or potentially using it for paid advertising, you're creating that value for them. But most importantly, they're getting to access your audience that you've painstakingly built an intimate relationship with over the years, and they trust you!
 
-## 2. There Is No One Else Like You!
+**Don't ever let a brand gaslight you** and make you feel like you're crazy for wanting to be paid for your work. If they do that, just move on, that's not a partner that's going to value you in the long run.
 
-Mindset shift number two is that, there is no one else like you! A lot of creators forget that, when a brand reaches out to them, there's a reason that they're doing that. **Something about you resonated with them.** Your personality, your connection with your audience, the quality of your content.
+
+
+## 2. "There is no one else like you!"
+
+Mindset shift number two is that, there is no one else like you! A lot of creators forget that. Remember that when a brand reaches out, there's a reason that they're doing that. **Something about you resonated with them.** Your personality, your connection with your audience, the quality of your content.
 
 Yes, of course there are going to be brands that only care about your reach and what types of results you can drive for them. But, I think there are a lot more brands who are very selective about the types of creators that they partner with.
 
 So, just keep that mindset going into the negotiation that they want to work with you.
 
-## 3. Be Willing to Walk Away
 
-Mindset shift number three is that, you need to be willing to walk away from this brand partnership.
 
-Just because they wanna work with you, doesn't mean that you have to. It's just like a job interview. You should be asking questions and getting to know them to determine whether they would be a good fit for you and your audience.
+## 3. "Be willing to walk away"
+
+Mindset shift number three is that, you need to be willing to walk away from any brand partnership.
+
+Just because they want to work with you, doesn't mean that you have to. It's just like a job interview. You should be asking questions and getting to know them to determine whether they would be a good fit for you and your audience.
 
 Remember, **it's your platform and YOU are the one who ultimately gets to make the decision** of whether you want to partner with them.
 
@@ -49,17 +53,21 @@ Once you embrace the fact that you are in control and that it won't be the end o
 
 And in general, the best advice that we can give is that from our perspective, a newsletter writer can very easily understand the value that they create.
 
+
+
 ## 4. Learn Newsletter Pricing
 
 So for example, on Swapstack, you can set your price for different Ad placements.
 
 If you're just starting out, we give you some guidance on our Blog on [how to actually start pricing](https://swapstack.co/newsletter-pricing-101/) out your different ad placements and test those out.
 
-So as a newsletter, starting to monetize, test out what a **Cost Per Thousand Open (CPM)** is. We typically ask people or tell people to start around $30 to $50 depending on your audience.
+As a newsletter starting to monetize you can test out what an appropriate **Cost Per Thousand Open (CPO)** is. We typically ask people or tell people to start around $30 to $50 CPO depending on your audience.
 
-Speak to some brands, pitch that pricing. And, if you're not getting any good reactions, it might mean that your pricing is a little bit too high. If you are getting way too many people just saying, "Yep, we're good to go", it might mean that you can raise your pricing.
+Speak to some brands, pitch that pricing and, if you're not getting any good reactions, it might mean that your pricing is a little bit too high. If you are getting way too many people just saying, "Yep, we're good to go", it might mean that you can raise your pricing.
 
-But once you've done a couple of iterations to understand what your pricing is, **try not to falter from there** because you know that that's a sweet spot and you know that that's the value that you're driving.
+But once you've done a couple of iterations to understand what your pricing is, **try not to falter from there** because you know that that's a sweet spot, and that you're driving appropriate value for brands.
+
+
 
 ## 5. Show Your Value
 
@@ -69,9 +77,7 @@ When you report to the brand, you can ask them if they drove conversions. And, *
 
 If a brand isn't open to working with you on your numbers, maybe they're not the right brand to work with. As Justin said, **you should be willing to walk away** if you're not being treated well and recognized for the value you're driving.
 
-\--
-
-**Anangsha:** That is so valuable. I mean, even I have felt the same way. Whenever I'm approaching to a brand, I always worry that what if they do all these things through me, through my audience, and then what if they don't pay anything in return? So, whatever you said really, really helps a lot. Thank you so much for that.
+**Anangsha:** That is so valuable. I mean, even I have felt the same way. Whenever I'm approaching a brand. These mindset shifts are extremely valuable - thank you for sharing!
 
 —
 
