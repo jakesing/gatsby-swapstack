@@ -5,7 +5,7 @@ date: 2021-12-09T12:34:38.118Z
 description: 5 Tips To Get Paid For What You're Due as a Creator.
 thumbnail: https://i.ibb.co/jgj79HP/Newsletter-Advertising-101-2.jpg
 ---
-In this post, we'll share 3 tips for creators to increase engagement with their audience.
+In this post we'll talk about how creators can ensure that when working brands, they build a mutually beneficial relationship.
 
 This article is transcribed from our video interview with [Justin Moore](https://www.youtube.com/c/CreatorWizard) and [Jake Schonberger](https://www.linkedin.com/in/jakeschonberger/), which can be found **[here](https://www.youtube.com/watch?v=0L9nYwercfg)**.
 
