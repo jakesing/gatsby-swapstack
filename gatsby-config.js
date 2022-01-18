@@ -10,6 +10,7 @@ module.exports = {
     image: `https://github.com/jakesing/gatsby-swapstack/blob/main/src/images/swapstacktwitter.png?raw=true`,
   },
   plugins: [
+    `gatsby-plugin-sitemap`,
     {
       resolve: "gatsby-transformer-json",
       options: {
@@ -139,6 +140,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
+            title: "Swapstack's RSS feed",
           },
         ],
       },
