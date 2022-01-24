@@ -121,6 +121,10 @@ const navButtons = [
     to: "/plug-and-play",
   },
   {
+    name: "Tip Jar",
+    to: "/tip-jar",
+  },
+  {
     name: "Pricing",
     to: "/pricing",
   },
