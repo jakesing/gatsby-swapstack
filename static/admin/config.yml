@@ -12,12 +12,12 @@ publish_mode: editorial_workflow
 collections:
   - name: "blog"
     label: "Blog"
-    folder: src/pages/blog/_authors/
+    folder: src/pages/blog/_articles/
     create: true
     slug: "{{slug}}"
     media_folder: ""
     public_folder: ""
-    preview_path: "{{title}}/index"
+    path: "blog/{{slug}}"
     editor:
       preview: false
     fields:
