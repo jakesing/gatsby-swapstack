@@ -16,7 +16,7 @@ const people = [
         Author of{" "}
         <a
           className="hover:underline"
-          href="theflywheel.substack.com"
+          href="https://theflywheel.substack.com"
           target="_blank"
         >
           The Flywheel
@@ -37,7 +37,7 @@ const people = [
         Jake writes{" "}
         <a
           className="hover:underline"
-          href="premoney.substack.com"
+          href="https://premoney.substack.com"
           target="_blank"
         >
           The Premoney List
