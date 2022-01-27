@@ -3,7 +3,7 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Singer from "../images/singer.jpeg"
 import Schonberger from "../images/schonberger.jpeg"
-import Nico from "../images/nico.jpeg"
+import Vidya from "../images/vidya.jpg"
 import { Link } from "gatsby"
 
 const people = [
@@ -14,7 +14,11 @@ const people = [
     bio: (
       <p>
         Author of{" "}
-        <a className="hover:underline" href="theflywheel.substack.com">
+        <a
+          className="hover:underline"
+          href="theflywheel.substack.com"
+          target="_blank"
+        >
           The Flywheel
         </a>
         , cold brew coffee aficionado, and major fan of Liverpool Football Club.
@@ -31,7 +35,11 @@ const people = [
     bio: (
       <p>
         Jake writes{" "}
-        <a className="hover:underline" href="premoney.substack.com">
+        <a
+          className="hover:underline"
+          href="premoney.substack.com"
+          target="_blank"
+        >
           The Premoney List
         </a>
         , loves the outdoors and is a dog-dad to a black-lab named Johnny
@@ -42,14 +50,27 @@ const people = [
     linkedinUrl: "https://www.linkedin.com/in/jakeschonberger/",
   },
   {
-    name: "Nico Ordonez",
-    role: "Developer",
-    imageUrl: Nico,
-    bio:
-      "Before falling for No Code, Nico worked in Asset Management and co-founded a lending fintech in Colombia. He is also a huge tennis fan and proud dad.",
-    twitterUrl: "https://twitter.com/NicolasOrdonez_",
-    linkedinUrl: "https://www.linkedin.com/in/nicolas-ordonez-756812a5/",
+    name: "Vidya Pottabattula",
+    role: "Growth Marketer",
+    imageUrl: Vidya,
+    bio: (
+      <p>
+        Vidya curates the newsletter{" "}
+        <a
+          className="hover:underline"
+          href="https://vidya.so/newsletter"
+          target="_blank"
+        >
+          The Curious Bunch
+        </a>
+        , loves talking about newsletters and no-code. Based in Hyderabad,
+        India.
+      </p>
+    ),
+    twitterUrl: "https://twitter.com/learnwithvidya",
+    linkedinUrl: "https://www.linkedin.com/in/vidyapb/",
   },
+
   // More people...
 ]
 
