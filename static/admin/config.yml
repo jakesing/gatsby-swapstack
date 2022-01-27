@@ -12,7 +12,7 @@ publish_mode: editorial_workflow
 collections:
   - name: "blog"
     label: "Blog"
-    folder: src/pages/blog/_articles/
+    folder: content/blog
     create: true
     slug: "{{slug}}"
     media_folder: ""
@@ -53,3 +53,17 @@ collections:
       - { label: Shortbio, name: shortbio, widget: text }
       - { label: Image, name: authorimage, widget: image }
       - { label: URL, name: url, widget: string }
+
+  - name: legal
+    label: Legal
+    folder: src/pages/legal
+    media_folder: ""
+    public_folder: ""
+    format: json
+    create: true
+    slug: "{{name}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Last Updated", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

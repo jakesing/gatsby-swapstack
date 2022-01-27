@@ -46,7 +46,7 @@ const BlogIndex = ({ data, location }) => {
                 </div>
                 <div className="flex-1 bg-white p-6 flex flex-col justify-between">
                   <div className="flex-1">
-                    <Link to={post.fields.slug} className="block mt-2">
+                    <Link to={post.fields.path} className="block mt-2">
                       <p className="text-xl font-semibold text-gray-900">
                         {post.frontmatter.title}
                       </p>
@@ -79,6 +79,7 @@ export const pageQuery = graphql`
         excerpt
         fields {
           slug
+          path
         }
         frontmatter {
           date(formatString: "MMMM DD, YYYY")
