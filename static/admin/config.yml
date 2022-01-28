@@ -3,20 +3,19 @@ backend:
   repo: jakesing/gatsby-swapstack
   branch: main # Branch to update (optional; defaults to master)
 
-site_url: https://swapstack.co
-
-media_folder: "static/images/uploads" # Media files will be stored in the repo under images/uploads
-public_folder: "/images/uploads"
+media_folder: static/img # Media files will be stored in the repo under images/uploads
+public_folder: /img
 publish_mode: editorial_workflow
 
 collections:
   - name: "blog"
     label: "Blog"
-    folder: content/blog
+    folder: "content/blog"
     create: true
     slug: "{{slug}}"
     media_folder: ""
     public_folder: ""
+    path: "{{title}}/index"
     editor:
       preview: false
     fields:
@@ -51,17 +50,3 @@ collections:
       - { label: Shortbio, name: shortbio, widget: text }
       - { label: Image, name: authorimage, widget: image }
       - { label: URL, name: url, widget: string }
-
-  - name: legal
-    label: Legal
-    folder: content/legal
-    media_folder: ""
-    public_folder: ""
-    format: json
-    create: true
-    slug: "{{title}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Last Updated", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
