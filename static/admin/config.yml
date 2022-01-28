@@ -56,7 +56,6 @@ collections:
     folder: src/pages/legal
     media_folder: ""
     public_folder: ""
-    format: json
     create: true
     slug: "{{fields.slug}}"
     fields:
