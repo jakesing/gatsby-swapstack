@@ -1,21 +1,9 @@
 import React from "react"
 import Chris from "../../images/chris.png"
-import NewsletterGallery from "../../images/newslettergallery.png"
-import Dashboard from "../../images/dashboard.png"
 import brands1 from "../../images/brands1.png"
 import pnp1 from "../../images/pnp1.png"
 
-import {
-  AnnotationIcon,
-  GlobeAltIcon,
-  LightningBoltIcon,
-  MailIcon,
-  ScaleIcon,
-  SearchIcon,
-  SparklesIcon,
-  PencilIcon,
-  CheckCircleIcon,
-} from "@heroicons/react/outline"
+import { PencilIcon, CheckCircleIcon } from "@heroicons/react/outline"
 
 export default function Features() {
   return (

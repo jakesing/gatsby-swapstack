@@ -1,63 +1,17 @@
 import * as React from "react"
 import { graphql } from "gatsby"
-import { GatsbyImage, getImage } from "gatsby-plugin-image"
-
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const BlogPostTemplate = ({ data, location }) => {
+const LegalPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
-
-  const authorImage = post.frontmatter.authorFull
-    ? getImage(post.frontmatter.authorFull.authorimage)
-    : ""
-
-  function AuthorWidget() {
-    if (post.frontmatter.authorFull) {
-      return (
-        <div className="mt-6 flex items-center justify-center">
-          <div className="flex-shrink-0">
-            <a href={post.frontmatter.authorFull.url}>
-              <span className="sr-only">
-                {post.frontmatter.authorFull.name}
-              </span>
-              <GatsbyImage
-                className="h-10 w-10 rounded-full"
-                image={authorImage}
-                alt={post.frontmatter.authorFull.name}
-              />
-            </a>
-          </div>
-          <div className="ml-3">
-            <p className="text-sm font-medium text-gray-900">
-              <a
-                href={post.frontmatter.authorFull.url}
-                className="hover:underline"
-              >
-                {post.frontmatter.authorFull.name}
-              </a>
-            </p>
-            <div className="flex space-x-1 text-sm text-gray-500">
-              {/* <span>5/2/2021</span> */}
-              <time dateTime={post.frontmatter.date}>
-                {post.frontmatter.date}
-              </time>
-            </div>
-          </div>
-        </div>
-      )
-    } else {
-      return <span></span>
-    }
-  }
 
   return (
     <Layout location={location} title={siteTitle}>
       <Seo
         title={`${post.frontmatter.title} | Swapstack Blog`}
         description={post.frontmatter.description || post.excerpt}
-        thumbnail={post.frontmatter.thumbnail}
       />
 
       <div className="relative py-16 bg-white overflow-hidden">
@@ -136,13 +90,12 @@ const BlogPostTemplate = ({ data, location }) => {
           <div className="text-lg max-w-prose mx-auto">
             <h1>
               <span className="block text-base text-center text-indigo-600 font-semibold tracking-wide uppercase">
-                Blog Post
+                Legal Post
               </span>
               <span className="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
                 {post.frontmatter.title}
               </span>
             </h1>
-            <AuthorWidget />
           </div>
           <div className="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
             <section
@@ -157,14 +110,10 @@ const BlogPostTemplate = ({ data, location }) => {
   )
 }
 
-export default BlogPostTemplate
+export default LegalPostTemplate
 
 export const pageQuery = graphql`
-  query BlogPostBySlug(
-    $id: String!
-    $previousPostId: String
-    $nextPostId: String
-  ) {
+  query LegalPostBySlug($id: String!) {
     site {
       siteMetadata {
         title
@@ -178,41 +127,6 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
-        thumbnail
-        authorFull {
-          email
-          name
-          url
-          shortbio
-          title
-          authorimage {
-            absolutePath
-            relativePath
-            childImageSharp {
-              gatsbyImageData(
-                width: 200
-                placeholder: BLURRED
-                formats: [AUTO, WEBP, AVIF]
-              )
-            }
-          }
-        }
-      }
-    }
-    previous: markdownRemark(id: { eq: $previousPostId }) {
-      fields {
-        slug
-      }
-      frontmatter {
-        title
-      }
-    }
-    next: markdownRemark(id: { eq: $nextPostId }) {
-      fields {
-        slug
-      }
-      frontmatter {
-        title
       }
     }
   }

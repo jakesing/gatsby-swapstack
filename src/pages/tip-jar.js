@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import React from "react"
 import Header from "../components/tip-jar/header"
 import Features from "../components/tip-jar/features"
-import CTA from "../components/tip-jar/cta"
+import Cta from "../components/tip-jar/cta"
 
 import Seo from "../components/seo"
 
@@ -15,7 +15,7 @@ export default function Writers() {
 
       <Header />
       <Features />
-      <CTA />
+      <Cta />
     </Layout>
   )
 }

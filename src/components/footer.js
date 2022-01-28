@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from "gatsby"
 
 /* This example requires Tailwind CSS v2.0+ */
 const navigation = {
@@ -32,6 +33,11 @@ const navigation = {
       ),
     },
   ],
+  legal: [
+    { name: "Terms & Conditions", href: "/terms" },
+    { name: "Privacy Policy", href: "/privacy" },
+    { name: "User Agreement", href: "/user-agreement" },
+  ],
 }
 
 export default function Footer() {
@@ -44,30 +50,46 @@ export default function Footer() {
         >
           {navigation.main.map(item => (
             <div key={item.name} className="px-5 py-2">
-              <a
-                href={item.href}
+              <Link
+                to={item.href}
                 className="text-base text-gray-500 hover:text-gray-900"
               >
                 {item.name}
-              </a>
+              </Link>
             </div>
           ))}
         </nav>
         <div className="mt-8 flex justify-center space-x-6">
           {navigation.social.map(item => (
-            <a
+            <Link
               key={item.name}
-              href={item.href}
+              to={item.href}
               className="text-gray-400 hover:text-gray-500"
               target="_blank"
+              rel="noreferrer"
             >
               <span className="sr-only">{item.name}</span>
               <item.icon className="h-6 w-6" aria-hidden="true" />
-            </a>
+            </Link>
           ))}
         </div>
+        <nav
+          className="-mx-5 my-4 flex flex-wrap justify-center"
+          aria-label="Footer"
+        >
+          {navigation.legal.map(item => (
+            <div key={item.name} className="px-5 py-2">
+              <Link
+                to={item.href}
+                className="text-sm text-gray-400 hover:text-gray-900"
+              >
+                {item.name}
+              </Link>
+            </div>
+          ))}
+        </nav>
         <p className="mt-8 text-center text-base text-gray-400">
-          &copy; 2021 Swapstack, Inc. All rights reserved.
+          &copy; 2022 Swapstack, Inc. All rights reserved.
         </p>
       </div>
     </footer>

@@ -2,10 +2,10 @@ import Layout from "../components/layout"
 /* This example requires Tailwind CSS v2.0+ */
 
 import React from "react"
-import FAQ from "../components/writers/faq"
+import Faq from "../components/writers/faq"
 import Header from "../components/writers/header"
 import Features from "../components/writers/features"
-import CTA from "../components/writers/cta"
+import Cta from "../components/writers/cta"
 import Seo from "../components/seo"
 
 export default function Writers() {
@@ -15,8 +15,8 @@ export default function Writers() {
 
       <Header />
       <Features />
-      <FAQ />
-      <CTA />
+      <Faq />
+      <Cta />
     </Layout>
   )
 }

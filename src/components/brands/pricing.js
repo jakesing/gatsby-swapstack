@@ -1,10 +1,4 @@
 import React from "react"
-import { CheckCircleIcon } from "@heroicons/react/solid"
-const includedFeatures = [
-  "Unlimited connections to writers",
-  "Support from our team",
-  "Easy payments",
-]
 
 export default function Pricing() {
   return (
