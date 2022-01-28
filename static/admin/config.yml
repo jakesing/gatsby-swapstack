@@ -37,12 +37,13 @@ collections:
 
   - name: authors
     label: Authors
-    folder: src/pages/blog/_authors/
+    folder: "content/authors"
     media_folder: ""
     public_folder: ""
     format: json
     create: true
     slug: "{{name}}"
+    path: "{{name}}/index"
     fields:
       - { label: Name, name: name, widget: string }
       - { label: Title, name: title, widget: string }
@@ -53,7 +54,7 @@ collections:
 
   - name: legal
     label: Legal
-    folder: src/pages/legal
+    folder: "content/legal"
     media_folder: ""
     public_folder: ""
     create: true
