@@ -1,0 +1,236 @@
+---
+title: User Agreement
+date: 2022-01-28T23:15:10.171Z
+description: Swapstack User Agreement, January 2022
+slug: user-agreement
+---
+
+        Date:	The date in which you have clicked through to accept the terms of this Agreement
+
+Between:	Swapstack, Inc. (**“Swapstack”**) 
+
+		
+
+						and
+
+		you **(“Writer,” “Advertiser”** **or “You” (as applicable)**
+
+The terms and conditions of this User Agreement (the “**Agreement**”), together with Swapstack’s Terms of Service located at [https://swapstack.co/terms](https://swapstack.co/terms) and Privacy Policy located at [https://swapstack.co/privacy](https://swapstack.co/terms) shall govern your use of Swapstack’s online platform (the “**Platform**”) and the services provided on the Platform. The Platform shall consist of its home page located at **“[https://swapstack.co](https://swapstack.co),”** as well as any URL that is linked or navigable to from the home page. 
+
+
+
+1. **Purpose of Swapstack**
+
+    Swapstack has created an online platform for matching writers with businesses that are interested in engaging with writers for purposes of advertising and promoting their products, services and/or brands on newsletters and other media developed and distributed thereby.  By using the Platform, you agree and acknowledge that Swapstack may connect such Writers with Advertisers as may be necessary to achieve each party’s respective goals.  Advertisers and Users shall collectively be referred to herein as “**Users**”.  On and through the Platform, Writers and Advertisers may engage in the following ways, which functionalities may be amended, revised and/or expanded upon from time to time, in Swapstack’s sole discretion. 
+
+
+    Swapstack’s Platform enables Users to request services based on the following types of advertising campaigns:
+
+
+**_Functionality 1: Self Service Campaigns_**
+
+
+    Swapstack’s Self Service campaign offering enables Writers and Advertisers to connect on Swapstack’s virtual newsletter advertising marketplace. Using the Self Service functionality: (1) Writers are empowered to set pricing for advertisements available for sale on each such Writer’s newsletters or other media distributions, and (2) Advertisers avail themselves of such advertising opportunities, which may include, without limitation, Advertiser logo placement in newsletters, shout outs or other mentions in newsletters, sponsored posts, and deep dives focused on the Advertiser’s business, products or offerings.  If the Writer believes that there is a match and alignment of interests with any Advertiser on the Platform, Writer may click the “Intro” option to request an introduction to such Advertiser, which may be accepted or rejected by the Advertiser, as determined in its sole discretion.  If an “Intro” match is successful, Swapstack will connect the Writer and Advertiser via email or using chat functionalities on the Swapstack Platform.  Writer and Advertiser shall then be responsible for coordinating terms for any such business arrangement contemplated hereunder.
+
+
+    For detail regarding payments due for services rendered in connection with Self Service Campaigns, see “Section 2 – Payment; Software Integration.”
+
+**_Functionality #2 – Managed Campaigns_**
+
+
+    Swapstack’s Managed Campaign service is an offering made available to Advertisers seeking customized advertising solutions.  Swapstack will work with interested Advertisers to create a Managed Campaign Advertiser account specific to these purposes, at which time each such interested Advertiser will scope its requests for Swapstack’s further processing, which may include, without limitation, sourcing newsletters with advertising availability, connecting the Advertiser with Writers, and closing advertising deals.  Swapstack will then manage all aspects of such Managed Campaign for Advertiser.  Advertiser may engage in such Managed Campaign by y agreeing to such arrangement with Swapstack directly.  
+
+
+    For detail regarding payments due for services rendered in connection with Managed Campaigns, see “Section 2 – Payment; Software Integration.”
+
+**_Functionality #3 – Plug & Play Campaigns_**
+
+
+    Swapstack’s Plug & Play campaign is an affiliate program in which Writers can select from a set of pre-vetted advertising deals with Advertisers on the Platform.  Using the Plug & Play functionality, interested Advertisers complete a clickthrough menu in which they agree to certain pricing, payment and advertising terms without separately engaging with Writers, making such opportunities available to any interested Writer that accepts its terms.  Upon accepting an Advertiser’s Plug & Play offering, the Writer and Advertiser are automatically connected by Swapstack for further coordination and processing.  
+
+
+    For detail regarding payments due for services rendered in connection with Plug & Play Campaigns, see “Section 2 – Payment; Software Integration.”
+
+**_Functionality #4 – Tip Jars_**
+
+
+    Swapstack’s Tip Jar is a service with which Writers can collect donations and “tips” from readers of their newsletters. Each Swapstack Writer is provided with a link to their externally available Tip Jar page which they can place where they like. Readers of the Writers content can choose on their own accord to tip a Writer. Writers will receive this payment directly into their Stripe accounts.
+
+
+
+2. **Payment; Software Integration**
+
+    _Software – Stripe Integration_
+
+
+    You hereby agree and acknowledge that you have created, or shall have created prior to entering into any agreement with any Advertisers on the Platform, a Stripe Account on Stripe Connect, and that you shall be subject to all terms, conditions and obligations of Stripe Connect (or such other processor) users.  You further agree and acknowledge that upon creating a Stripe Account such account shall be deemed a “Connected Account” under the Stripe Connect agreement located here: [https://stripe.com/connect-account/legal](https://stripe.com/connect-account/legal); provided, that by creating an account on the Platform, you hereby expressly authorize Swapstack to integrate Stripe Connect for purposes of facilitating the transactions set forth herein.  In support thereof, you further authorize Stripe to send any and all notices and forms, including without limitation, tax invoices, to Swapstack with respect to any payment amounts that are withheld upon transfer for purposes making applicable tax withholdings.  Notwithstanding the foregoing, to the extent that Swapstack receives such forms or notices from Stripe, Swapstack shall promptly make all such documentation available to you on your account.    
+
+
+    _Payments - Generally_
+
+
+    You hereby agree that all payments shall be paid and accepted only through a payment mechanism provided or approved by Swapstack (an “**Approved Payment Mechanism**”), which terms are set forth below unless separately agreed to by Swapstack.
+
+
+    _Self Service Payments_
+
+
+    Upon connecting with an Advertiser and agreeing to engage in an advertising campaign, Writer shall be responsible for invoicing the Advertiser by clicking “Submit Invoice” on the Platform.  Upon clicking such option, Writer will be prompted to complete the “Advertising Fee” field, and Swapstack will automatically populate fields displaying the “Swapstack Platform Fee” and “Payment Processing Fee,” which shall in each case be determined in the sole discretion of Swapstack and the applicable payment processing vendor.  After completing the fields and clicking “Submit,” Writer’s invoice will automatically be submitted to the Advertiser for payment.  When the Advertiser pays Writer’s invoice submitted for payment on the Platform, its funds are submitted and paid through Stripe and remitted as follows: Stripe will (1) retain its “Payment Processing Fee,” (2) pay to Swapstack the “Swapstack Platform Fee” from the remaining balance, and (3) after first deducting and paying amounts for the Payment Processing Fee and Swapstack Platform Fee, remit and pay to Writer the remaining balance, which amount shall constitute the entirety of the Advertising Fee due and payable to Writer hereunder and shall be final and binding in all respects.  
+
+
+    _Managed Campaign Payments_ 
+
+
+      
+
+
+    Upon engaging in a Managed Campaign, Swapstack will submit to each applicable Advertiser an invoice manually computed to reflect aggregate payment terms related to the particular campaign requested thereby.  Upon receipt of such invoice, the Advertiser shall remit payment to Swapstack for further processing, which amount is paid to Swapstack via Stripe and is reduced by an amount equal to the applicable Payment Processing Fee.  Writer shall submit an invoice to Swapstack using the same mechanics set forth above in the Self Service Payments description, which amounts Swapstack shall pay to Writer after giving effect to reductions to cover the Payment Processing Fee and the Swapstack Platform Fee retained by Swapstack; provided, that the remaining balance shall constitute the entirety of the Managed Campaign Advertising Fee due and payable to any applicable Writers participating in such campaign and shall be final and binding in all respects.
+
+
+    _Plug & Play Payments_
+
+
+    Upon engaging in a Plug & Play affiliate program, Writer agrees to pre-approved newsletter advertising deals in which an Advertiser has agreed to pay to Writer a certain cash payment per qualifying event (defined as a customer conversion or click, in each case depending on the advertised Plug & Play deal).  Once per month, the applicable Advertiser will (1) complete a Plug & Play report summarizing newsletter conversion information, which Swapstack then uses to calculate fees due to Writer and (2) pay to any such Writer amounts due based on the total number of conversions or clicks across all newsletter multiplied by the agreed-up per-conversion/click amount, in each case as may be applicable. The Advertiser is responsible for paying the amounts set forth in the invoice to Swapstack, which keeps its Swapstack Platform Fee of 25% or such other amount reasonably determined by Swapstack in its sole discretion, and remits the balance to Writer via transfer on Stripe from Swapstack’s Stripe Account to Writer’s Stripe Account.  Such transfers shall not be subject to any Payment Processing Fee, unless otherwise determined by Stripe in its sole and reasonable discretion.    
+
+
+    _Other_
+
+
+    All fees shall be determined in respect of each particular campaign and shall not be changed, modified or amended without the express written consent of Swapstack.  If User becomes responsible under this Agreement to make any payments and fails to pay such amounts when due, User shall be responsible to Swapstack for all amounts due, plus any applicable processing fees, charges or penalties, collection costs (including but not limited to attorneys’ fees), and interest on the unpaid amount at the lesser of one and one-half percent (1.5%) per month or the maximum allowed by law. 
+
+
+    Notwithstanding the foregoing, Swapstack shall in no event be responsible for (1) recovering or making any unpaid payments due to any party hereunder, or (2) making any payments under any campaign or functionality offered on its Platform to any User that has violated the terms of this Agreement or the Terms of Service or if otherwise contrary to, or in violation of, applicable law.  The User hereby agrees and acknowledges that to the extent applicable, Swapstack shall only transfer amounts to the applicable User hereunder if, as and when paid by the applicable Advertiser and/or Stripe in accordance with the terms of the particular campaign.  
+
+3. **User Obligations and Agreements**
+
+    Writer agrees that when Writer registers newsletters or other media on the Platform, and an Advertiser has accepted Writer’s offer to permit the Advertiser to advertise on Writer’s media, Writer agrees, acknowledges and understands that Writer shall be legally obligated to Swapstack and such Advertiser having agreed to advertise on Writer’s newsletter or other media using any of the foregoing Swapstack offerings to: (1) complete all project and campaign assignments using Writer’s best efforts consistent with Writer’s past practices; (2) accurately report and keep current all advertising data metrics for all newsletters and/or other media in which an Advertiser has agreed to advertise via the Swapstack Platform; (3) periodically update and report delivery results to any Advertiser that has engaged Writer on the Platform, including, without limitation, information related to number of recipients, open rate, list growth, forward rate, delivery rate, clickthrough rate and other related information reasonably requested by the Advertiser. 
+
+
+    Advertiser agrees to make payments using the Approved Payment Mechanisms, using the Swapstack “Checkout” page or as otherwise provided via Swapstack invoice, as applicable.  With respect to the Plug & Play Campaign, Advertisers shall be required to report results to Writers no less frequently than on a monthly basis and will be terminated and removed from the Platform upon failure to so report within 21 days following the end of the previous month.  All such results shall be reported manually or using such other functionalities as may be provided by Swapstack.  Advertiser covenants and agrees to use customary and industry-accepted norms when calculating and generating such monthly reports and further covenants, represents and warrants that all reports shall be complete and accurate in all respects.  To the extent Writer disputes the Advertiser’s report or any findings or results set forth therein, Writer shall notify Advertiser of any such dispute or discrepancy and such parties shall use good faith efforts to resolve such issues.
+
+4. **Communications with Users; No Disintermediation**
+
+    All written communications between User and other Users must be conducted through the Platform or communication devices designated by Swapstack in writing. All such communications may not contain any requests to circumvent the Platform or the communication devices designated by Swapstack in writing.  All payments shall be made using the Approved Payment Mechanisms set forth above.
+
+
+    During the term of this Agreement and for a period of ten (10) years after its expiration or termination (the “**Exclusivity Period**”), User shall (i) purchase all services relating to, or in any way connected with, any campaign or related matchmaking advertising service in accordance with the terms of this Agreement between any Advertisers and Writers on the Platform and (ii) not directly or indirectly solicit, contact or engage any Advertiser or Writer, as applicable, for purposes of performing services similar to those provided hereunder.  Any action during the Exclusivity Period by User that encourages, facilitates or solicits complete or partial payment outside of this Agreement or otherwise solicits for service engagement or any other similar business relationship with a User for services similar to those provided hereunder shall constitute a material violation of this Agreement (a “**Disintermediation Violation**”).  The User hereby agrees to pay to Swapstack liquidated damages for any Disintermediation Violation, in an amount equal to 10% of all fees paid by Advertiser in connection therewith.  The parties hereto further acknowledge that (a) the amount of loss or damages likely to be incurred by Swapstack for any Disintermediation Violation by User is impossible or difficult to precisely estimate, (b) the amounts specified herein bear a reasonable proportion and are not plainly or grossly disproportionate to the probable loss likely to be incurred by Swapstack, and (c) the parties are sophisticated business parties and have been represented by sophisticated legal and financial counsel and negotiated this Agreement at arm's length.  Liquidated damages shall be paid by User within ten (10) business days of User’s breach of this Section of the Agreement.   
+
+5. **Release**
+
+    User agrees that by entering into this Agreement, User, for User and User’s predecessors, successors, and assigns (together, the “**User Releasors**”), releases and forever discharges Swapstack and its predecessors, successors, assigns, agents, officers, directors, employees, subsidiaries, parents, affiliates, attorneys, contractors, and suppliers (together, the “**Swapstack Releasees**”) from and against all actions, causes of action, claims, suits, debts, damages, judgments, liabilities, rights, contracts, obligations, and demands, whether now known or unknown, liquidated or unliquidated, that any of the User Releasors has, may have, has asserted, or could have asserted, of any nature and relating to any subject, excluding the right of User to enforce this Agreement according to its terms.
+
+
+    In addition, without limiting the generality of the foregoing, User, for the User Releasors, specifically releases and forever discharges the Swapstack Releasees from and against all actions, causes of action, claims, suits, debts, damages, judgments, liabilities, rights, contracts, obligations, and demands, whether now known or unknown, liquidated or unliquidated, that any of the User Releasors has, may have, has asserted, or could have asserted, of any nature arising out of or in any way connected with any disputes User may have with any other User of the Platform.
+
+6. **User Conduct, Content and other Agreements**
+
+    You acknowledge, agree and understand that: (1) no User, including you, is an employee, agent, or representative of Swapstack; (2) Swapstack is not an employee, agent, or representative of any User, including you; (3) Swapstack does not, in any way, supervise, direct, or control any User’s work; provided, that Swapstack reserves the right to monitor progress and quality of any campaign initiated on the Swapstack Platform; (4) Swapstack shall not have any liability or obligations for any acts or omissions by any User and does not in any way guarantee results for any User hereunder, whether relating to performance, conversion or otherwise; (5) Swapstack has no control over Users; and (6) Swapstack makes no representations as to (a) the reliability, capability, honesty, qualifications, or other characteristics of any User or any User’s statements or conduct; or (b) the quality, safety, or legality of the contents of any newsletter or any other media on the Platform.
+
+
+    User agrees to be solely responsible for User’s conduct and activities on and regarding the Platform and any and all data, text, information, usernames, graphics, images, photographs, designs, renderings, fabrications, profiles, audio, video, items, and links that User submits, posts, or displays on or in connection with the Platform (together, “**Content**”). 
+
+
+    User will not infringe upon or misappropriate any person’s or entity’s copyright, patent, trademark, trade secret or other proprietary or intellectual property rights or rights of publicity or privacy.  User will not transmit any worms or viruses or any code of a destructive nature.
+
+7. **Warranty Disclaimer**
+
+    Swapstack makes no express or implied representations or warranties with regard to Swapstack’s services, work products, Swapstack resources, the Platform, any activities or items related to this Agreement, or business conducted, or services provided by or with the assistance of Swapstack, all of which are provided “as is” and made at each User’s own risk. To the maximum extent permitted by law, Swapstack disclaims all express or implied conditions, representations and warranties including, but not limited to, the warranties of merchantability, fitness for a particular purpose, and non-infringement. In addition, User agrees that no advice or information (oral or written) obtained by Users from Swapstack shall create any warranty of any kind not expressly made herein.
+
+
+    Swapstack makes no representations or warranties of any kind concerning any campaign, including but not limited to representations or warranties concerning the Users’ capabilities, honesty, reliability, trustworthiness, or abilities to pay. 
+
+
+    Without limiting the generality of the foregoing, Swapstack does not warrant or represent that your use of the Platform or interactions with other Users, will be consistent with your views or the views of your customers or business partners. Swapstack does not have any control over the content of newsletters and other media created by Writers registered on the Platform. You understand and agree that Swapstack does not assume, and expressly disclaims, any responsibility or liability for any damages to or reputational harm arising on account of your access to or use of the Platform and the services provided thereunder. You further understand and agree that Swapstack does not assume and expressly disclaims, any responsibility or liability for any damage or harm that any of the campaigns causes to any property or person.
+
+8. **Limitation of Liability**
+
+    In no event shall Swapstack, or its subsidiaries, parents, officers, directors, employees, agents, consultants, contractors, or suppliers be liable for any damages whatsoever, whether direct, indirect, general, special, compensatory, consequential, or incidental, arising out of or relating to Swapstack's services, your use of Swapstack’s services or the Platform, the conduct of any User (whether tortious or otherwise) in connection with the use of the Platform by you or any other User, or this Agreement, including without limitation, lost profits, bodily injury, or emotional distress.
+
+
+    Notwithstanding the foregoing, to the extent Swapstack is ever determined to be liable to you, you agree that Swapstack's liability, and (as applicable) the liability of Swapstack’s subsidiaries, officers, directors, employees, agents, consultants, contractors, or suppliers, shall be limited to the total fees paid to Swapstack in connection with services provided to you hereunder in the twelve (12) months prior to the action giving rise to liability.
+
+
+    These limitations shall apply to any liability arising from any cause of action whatsoever, whether in contract, tort (including negligence), strict liability, or otherwise, even if Swapstack is advised of the possibility of such costs or damages, and even if the limited remedies provided herein fail of their essential purpose. In no event shall Swapstack be liable to you, and you waive any right to seek from Swapstack, consequential, punitive, exemplary or special damages, or damages for loss of use, interruption of business, or loss of data or profits.
+
+9. **Indemnity**
+
+    User agrees to indemnify and hold Swapstack and Swapstack’s parents, subsidiaries, affiliates, officers, directors, consultants, suppliers, contractors, agents and employees harmless from any loss, expense, and damage, including but not limited to reasonable attorneys’ fees, arising out of or relating in any way to any claim or demand made, asserted, or threatened by any other person or entity and that arises out of or relates to User’s conduct or failure to act, User’s use of Swapstack’s services, User’s use of the Platform, any failure to perform services by Writer or Advertiser, as applicable, any resulting losses by any such party or breaches of representations and warranties made thereby, including but not limited to claims or demands relating to User’s breach of this Agreement, failure to provide services under any campaign, failure to make payments in accordance with the terms set forth herein, violation or alleged violation of Swapstack’s or others’ intellectual property rights, violation or alleged violation of any other rights of another, and violation or alleged violation of any law, regulation or representation, warranty or covenant hereunder.
+
+10. **No Guarantee**
+
+    Swapstack may, in its sole discretion, remove, cease operating, change the functionality of, or otherwise modify its services and the Platform at any time.
+
+
+    Swapstack does not guarantee that results of registering on the Platform and/or engaging in services offered thereunder will generate successful conversion, clicks, publicity or other metrics contemplated by the User.  It is possible for a given implementation of the services provided hereunder to outperform, perform as expected, or underperform, with no guarantee.  No Users of the Platform are responsible for “make-good” for services that performed in a way that was unexpected by such User.
+
+
+    Swapstack does not guarantee continuous, uninterrupted, ongoing access to the Platform or any of the Platform’s features, and operation of the Platform may be interfered with or eliminated entirely by numerous factors outside Swapstack’s control or at Swapstack’s sole discretion.
+
+11. **Legal Compliance; Disclaimers**
+
+    User agrees to comply with all applicable laws when using and in relation to Swapstack’s service or the Platform.  User represents that such User is not subject to trade sanctions, embargoes or any other restriction on trade in the jurisdiction in which it does business as well as under the laws of the European Union, the laws of England and Wales, or the laws and regulations of the United States, and are not owned (nor partly owned) or controlled by such sanctioned person(s) (collectively, “**Sanctioned Person(s)**”).  Where acting as agent, the principal is not a Sanctioned Person(s) nor owned (or partly owned) or controlled by Sanctioned Person(s). 
+
+
+    User understands that Swapstack may provide access to third-party tools over which Swapstack neither monitors not has any control of input.  You acknowledge and agree that we provide access to such tools “as is” and “as available” without any warranties, representations or conditions of any kind and without any endorsement. Swapstack shall have no liability whatsoever arising from or relating to your use of optional third-party tools.  Any use by you of third-party tools offered through the site is entirely at your own risk and discretion and you should ensure that you are familiar with and approve of the terms on which tools are provided by the relevant third-party provider(s).
+
+
+    Certain content, products and services available via our Platform may include materials from third-parties.  Third-party links on this site may direct you to third-party websites that are not affiliated with Swapstack.  Swapstack is not responsible for examining or evaluating the content or accuracy and does not warrant and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, products, or services of third-parties.  Swapstack is not liable for any harm or damages related to the purchase or use of goods, services, resources, content, or any other transactions made in connection with any third-party websites. Please review carefully the third-party’s policies and practices and make sure you understand them before you engage in any transaction. Complaints, claims, concerns, or questions regarding third-party products should be directed to the third-party.
+
+12. **No Agency**
+
+    User understands and agrees that User and Swapstack are independent entities, and that no agency, partnership, joint venture, employee-employer, or franchiser-franchisee relationship is intended or created by this Agreement, or by the operation of the Swapstack service or the Platform.
+
+
+    User further understands and agrees that Swapstack is independent from all other Users, and that no agency, partnership, joint venture, employee-employer, or franchiser-franchisee relationship is intended or created between Swapstack and any other User by virtue of any other User’s Agreements with Swapstack, or by the operation of the Swapstack service or the Platform.
+
+13. **Term and Termination** 
+
+    <span style="text-decoration:underline;">Termination.</span> Swapstack may terminate the Agreement at any time, in its sole discretion, by providing you notice of termination or by ceasing to operate the Platform. Furthermore, Swapstack may terminate any campaign which you have requested under this Agreement for any negligent behavior, untimely communications with Users, unprofessional behavior, or any other reason in the full discretion of Swapstack. If terminated, any fees which you have paid to Swapstack will not be returned and all such fees are nonrefundable.
+
+
+    <span style="text-decoration:underline;">Surviving Provisions.</span> In the event that this Agreement is terminated, the following Sections shall survive any such termination and remain in effect: Section 2 (“Payment”), Section 3 (“Communications with Users; No Disintermediation”), Section 5 (“Release”), Section 6 (“User Conduct and Content”), Section 7 (“Warranty Disclaimer”), Section 8 (“Limitation of Liability”); Section 9 (“Indemnity”); Section 11 (“Legal Compliance”), Section 12 (“No Agency”), Section 13 (“Term and Termination”), Section 15 (“Dispute Resolution") and Section 16 ("Other Information"). 
+
+14. **License to Use Marks**
+
+    Each User hereto grants to Swapstack, and each User hereto grants to other Users engaged thereby in any campaign contemplated hereunder, as applicable, a limited non-exclusive license to use the other party’s name, trademarks, service marks, logos and corporate names in connection with the performance of each party’s obligations under this Agreement, including the right to use such party’s name over the telephone, the internet, social media and in written materials in connection with the performance of services and business relationship described herein. 
+
+15. **Dispute** **Resolution**
+
+    This Agreement shall be governed by the laws of the State of Delaware. If any dispute relating to the performance of this Agreement arises, User agrees to negotiate in good faith with Swapstack to resolve such dispute prior to pursuit of any legal process. If the parties are unable to so resolve the dispute, such dispute shall be resolved by binding arbitration in accordance with the following terms.
+
+
+    We are not responsible for any disputes or disagreements between you and any third party you interact with using the Service. You assume all risk associated with dealing with third parties. You agree to resolve disputes directly with the other party, and Swapstack, at its option, may use commercially reasonable efforts to assist in resolving any such disputes. You release Swapstack of all claims, demands, and damages in disputes among Users of the Platform.
+
+
+    ALL DISPUTES CONCERNING OR ARISING OUT OF THIS AGREEMENT, INCLUDING WHETHER A DISPUTE IS SUBJECT TO ARBITRATION, SHALL BE RESOLVED BY BINDING ARBITRATION BEFORE A SINGLE ARBITRATOR AND ADMINISTERED BY THE AMERICAN ARBITRATION ASSOCIATION (“AAA”), USING THE THEN-CURRENT APPLICABLE AAA RULES. THE LOCATION OF THE ARBITRATION SHALL BE THE AAA OFFICE IN WASHINGTON, D.C., OR ANOTHER LOCATION IN WASHINGTON, D.C. CHOSEN BY THE AAA OR THE ARBITRATOR.
+
+
+    THE FEDERAL ARBITRATION ACT, AS IN EFFECT AT THE TIME OF ANY ARBITRATION DEMAND, SHALL APPLY TO ANY ARBITRATION PURSUANT TO THIS AGREEMENT.
+
+
+    THE PARTIES SHALL EACH BEAR THEIR OWN EXPENSES RELATED TO ANY ARBITRATION. THE COSTS OF THE ARBITRATION TRIBUNAL, INCLUDING BUT NOT LIMITED THE ARBITRATOR’S AND THE AAA’S FEES, SHALL BE SHARED EQUALLY BETWEEN THE PARTIES, REGARDLESS OF WHICH PARTY PREVAILS. EACH PARTY TO THE ARBITRATION SHALL BEAR ITS OWN LEGAL FEES, REGARDLESS OF WHICH PARTY PREVAILS. THE ARBITRATOR SHALL NOT AWARD ANY MULTIPLE OR PUNITIVE DAMAGES, REGARDLESS OF WHICH PARTY PREVAILS. NOTWITHSTANDING ANYTHING TO THE CONTRARY PERMITTED BY THE APPLICABLE RULES OF THE AAA, ANY ARBITRATION PURSUANT TO THIS AGREEMENT SHALL INVOLVE USER AND SWAPSTACK ONLY IN THEIR INDIVIDUAL CAPACITIES, SHALL NOT BE CONSOLIDATED WITH ANY OTHER ARBITRATIONS, AND SHALL NOT BE ARBITRATED AS A CLASS OR OTHER FORM OF REPRESENTATIVE ACTION. USER AGREES NOT TO PARTICIPATE IN ANY ARBITRATION RELATED TO OR ARISING FROM THIS AGREEMENT AS A CLAIMANT OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE ACTION.
+
+
+    ANY ACTION TO CONFIRM AN ARBITRATION AWARD PURSUANT TO THIS AGREEMENT SHALL BE BROUGHT ONLY IN A COURT OF COMPETENT JURISDICTION IN WASHINGTON, DC. SWAPSTACK AND USER AGREE TO SUBMIT TO THE JURISDICTION OF ANY SUCH COURT, WAIVING ANY OBJECTION BASED ON PERSONAL JURISDICTION OR VENUE.
+
+
+    AT LEAST FORTY-FIVE (45) DAYS PRIOR TO EITHER PARTY INITIATING ANY ARBITRATION PURSUANT TO THIS AGREEMENT, THAT PARTY SHALL SEND TO THE OTHER PARTY A WRITTEN DEMAND DESCRIBING THE NATURE OF THE DISPUTE AND SETTING FORTH A PROPOSED RESOLUTION. THE PARTIES SHALL THEN ATTEMPT TO NEGOTIATE IN GOOD FAITH TO RESOLVE THE DISPUTE.
+
+
+    Notwithstanding the foregoing, in the case of a project issue, Swapstack recommends that Writers work directly with Advertisers to resolve any issues.  Swapstack is under no obligation to provide dispute resolution with respect to any such claim and provides this process as a benefit to Writers and Advertisers. 
+
+16. **Other Information**
+
+    <span style="text-decoration:underline;">Assignment</span>. No party may assign this Agreement to any third party except upon the other party’s prior written consent; provided, that any such assignee shall continue to be bound by the terms of this Agreement. Furthermore, User may not contract with any other party for the completion of any services which User has agreed to purchase through the Platform, unless Swapstack consents to such contract.
+
+
+    <span style="text-decoration:underline;">Entire Agreement</span>. This Agreement, together with Swapstack’s Terms of Service, Privacy Policy and any additional purchase orders that may be submitted by User on the Platform represents the entire understanding and Agreement between User and Swapstack (and between Users engaging in campaigns hereunder) with respect to the subject matter hereof. This Agreement supersedes all prior oral and written and all contemporaneous oral negotiations, commitments and understandings between Users and Swapstack. However, this Agreement can be amended or modified by mutual agreement signed by User and Swapstack. 
+
+
+    <span style="text-decoration:underline;">Modifications</span>.  Prices for our offerings are subject to change without notice. Swapstack reserves the right at any time to modify or discontinue the services (or any part or content thereof) without notice at any time.  Swapstack shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the services offered thereby.
+
+
+    <span style="text-decoration:underline;">Notices</span>. All notices under this Agreement shall be in writing and delivered via email services to the address set forth above. 
+
+
+By signing this Agreement, User confirms that User has carefully read the terms and conditions of this Agreement.
