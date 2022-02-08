@@ -4,7 +4,7 @@ author: vidya@swapstack.co
 date: 2022-02-07T23:25:39.621Z
 description: "A roundup of some of the best, most unique, and highly engaging
   newsletters that speak to, and about the creator economy. "
-thumbnail: 21.png
+thumbnail: https://i.ibb.co/D9XMDc5/Newsletter-Advertising-101.png
 ---
 The “creator economy” and “passion economy” refer to a broad set of people who have generally subscribed to a new way of more flexible living & learning. From serial DIY-ers who turn their passions into businesses, to people generally looking to increase their productivity to open up more time for side projects, these folks are constantly looking for new tools, tips and tricks.
 
@@ -14,7 +14,7 @@ Below is a roundup of some of the best, most unique, and highly engaging newslet
 
 *Written by Jeremy Caplan*
 
-![](21.png)
+![Wonder Tools Newsletter - Swapstack](21.png "Wonder Tools Newsletter - Swapstack")
 
 **Newsletter Description:**
 
@@ -39,11 +39,11 @@ Below is a roundup of some of the best, most unique, and highly engaging newslet
 
 *Interested in advertising with Wonder Tools?* Find them on [Swapstack](https://www.swapstack.co/).
 
-
-
 ### **2. The Smarter Brain**
 
 *Written by Mayo*
+
+![The Smarter Brain: Swapstack](36.png "The Smarter Brain: Swapstack")
 
 **Newsletter Description:**
 
@@ -68,6 +68,8 @@ Below is a roundup of some of the best, most unique, and highly engaging newslet
 ### **3. LANCE**
 
 *Written by Anna Codrea-Rado*
+
+![Lance: Swapstack](37.png "Lance: Swapstack")
 
 **Newsletter Description:**
 
@@ -99,11 +101,11 @@ A one-off, 200-character classified ad out in my popular weekly newsletter
 
 *Interested in advertising with LANCE?* Find them on [Swapstack](https://www.swapstack.co/).
 
-
-
 ### **4. Means of Creation**
 
 *Written by Every*
+
+![Every - Means Of Creation: Swapstack](2.jpg "Every - Means Of Creation: Swapstack")
 
 **Newsletter Description:**
 
@@ -126,11 +128,11 @@ A one-off, 200-character classified ad out in my popular weekly newsletter
 
 *Interested in advertising with Means of Creation?* Find them on [Swapstack](https://www.swapstack.co/).
 
-
-
 ### **5. MakerMind**
 
 *Written by Anne-Laure Le Cunff*
+
+![Ness Labs: Swapstack](38.png "Ness Labs: Swapstack")
 
 **Newsletter Description:**
 
@@ -157,11 +159,11 @@ Previous partners include: Notion, Obsidian, Learnopoly, Napkin, Rize, Hera, Kos
 
 *Interested in advertising with MakerMind?* Find them on [Swapstack](https://www.swapstack.co/).
 
-
-
 ### **6. The Curious Bunch**
 
 *Written by Vidya*
+
+![The Curious Bunch: Swapstack](39.png "The Curious Bunch: Swapstack")
 
 **Newsletter Description:**
 
@@ -200,11 +202,11 @@ Go for a shout-out if you're:
 
 *Interested in advertising with The Curious Bunch?* Find them on [Swapstack](https://www.swapstack.co/).
 
-
-
 ### **7. Content Writing Jobs**
 
 *Written by Tomas Laurinavicius*
+
+![Content Writing Jobs: Swapstack](40.jpeg "Content Writing Jobs: Swapstack")
 
 **Newsletter Description:**
 
@@ -245,11 +247,11 @@ The ad will be sent to our weekly subscribers, there will be no other sponsors.
 
 *Interested in advertising with Content Writing Jobs?* Find them on [Swapstack](https://www.swapstack.co/).
 
-
-
 ### **8. The Creative Newsletter by Wishu**
 
 *Written by Hubert Trinkunas*
+
+![The Creative Newsletter by Wishu: Swapstack](41.jpg "The Creative Newsletter by Wishu: Swapstack")
 
 **Newsletter Description:**
 
@@ -293,11 +295,11 @@ Description: Maximum 180 characters
 
 *Interested in advertising with The Creative Newsletter by Wishu?* Find them on [Swapstack](https://www.swapstack.co/).
 
-
-
 ### **9. Counterflows**
 
 *Written by Lauren Razavi*
+
+![Counterflows: Swapstack](42.png "Counterflows: Swapstack")
 
 **Newsletter Description:**
 
@@ -329,11 +331,11 @@ In contrast to the classified ads, which appear at the bottom of our newsletters
 
 *Interested in advertising with Counterflows?* Find them on [Swapstack](https://www.swapstack.co/)
 
-
-
 ### **10. The Assist**
 
 *Written by Joanna Ericta*
+
+![The Assist: Swapstack](43.png "The Assist: Swapstack")
 
 **Newsletter Description:**
 
@@ -385,11 +387,11 @@ Partner Picks Listings Include:
 
 *Interested in advertising with The Assist?* Find them on [Swapstack](https://www.swapstack.co/)
 
-
-
 ### **11. The Inkwell**
 
 *Written by Nicole Bianchi*
+
+![The Inkwell by Nicole Bianchi: Swapstack](44.png "The Inkwell by Nicole Bianchi: Swapstack")
 
 **Newsletter Description:**
 
