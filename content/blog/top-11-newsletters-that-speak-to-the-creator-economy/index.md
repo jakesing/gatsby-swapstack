@@ -10,11 +10,13 @@ The “creator economy” and “passion economy” refer to a broad set of peop
 
 Below is a roundup of some of the best, most unique, and highly engaging newsletters that speak to, and about the creator economy.
 
+![Top 11 Newsletters Of Creator Economy](https://i.ibb.co/D9XMDc5/Newsletter-Advertising-101.png "Top 11 Newsletters Of Creator Economy")
+
 ### **Wonder Tools**
 
 *Written by Jeremy Caplan*
 
-![Wonder Tools Newsletter - Swapstack](21.png "Wonder Tools Newsletter - Swapstack")
+![Wonder Tools Newsletter - Swapstack](https://i.ibb.co/jZfRSTh/21.png "Wonder Tools Newsletter - Swapstack")
 
 **Newsletter Description:**
 
@@ -43,7 +45,7 @@ Below is a roundup of some of the best, most unique, and highly engaging newslet
 
 *Written by Mayo*
 
-![The Smarter Brain: Swapstack](36.png "The Smarter Brain: Swapstack")
+![The Smarter Brain: Swapstack](https://i.ibb.co/pQkLmwT/36.png "The Smarter Brain: Swapstack")
 
 **Newsletter Description:**
 
@@ -69,7 +71,7 @@ Below is a roundup of some of the best, most unique, and highly engaging newslet
 
 *Written by Anna Codrea-Rado*
 
-![Lance: Swapstack](37.png "Lance: Swapstack")
+![Lance: Swapstack](https://i.ibb.co/MBMzSSM/37.png "Lance: Swapstack")
 
 **Newsletter Description:**
 
@@ -105,7 +107,7 @@ A one-off, 200-character classified ad out in my popular weekly newsletter
 
 *Written by Every*
 
-![Every - Means Of Creation: Swapstack](2.jpg "Every - Means Of Creation: Swapstack")
+![Every - Means Of Creation: Swapstack](https://i.ibb.co/zNcqVrv/2.jpg "Every - Means Of Creation: Swapstack")
 
 **Newsletter Description:**
 
@@ -132,7 +134,7 @@ A one-off, 200-character classified ad out in my popular weekly newsletter
 
 *Written by Anne-Laure Le Cunff*
 
-![Ness Labs: Swapstack](38.png "Ness Labs: Swapstack")
+![Ness Labs: Swapstack](https://i.ibb.co/YT6qzTb/38.png "Ness Labs: Swapstack")
 
 **Newsletter Description:**
 
@@ -163,7 +165,7 @@ Previous partners include: Notion, Obsidian, Learnopoly, Napkin, Rize, Hera, Kos
 
 *Written by Vidya*
 
-![The Curious Bunch: Swapstack](39.png "The Curious Bunch: Swapstack")
+![The Curious Bunch: Swapstack](https://i.ibb.co/yB36GfS/39.png "The Curious Bunch: Swapstack")
 
 **Newsletter Description:**
 
@@ -206,7 +208,7 @@ Go for a shout-out if you're:
 
 *Written by Tomas Laurinavicius*
 
-![Content Writing Jobs: Swapstack](40.jpeg "Content Writing Jobs: Swapstack")
+![Content Writing Jobs: Swapstack](https://i.ibb.co/4fgMs95/40.jpg "Content Writing Jobs: Swapstack")
 
 **Newsletter Description:**
 
@@ -251,7 +253,7 @@ The ad will be sent to our weekly subscribers, there will be no other sponsors.
 
 *Written by Hubert Trinkunas*
 
-![The Creative Newsletter by Wishu: Swapstack](41.jpg "The Creative Newsletter by Wishu: Swapstack")
+![The Creative Newsletter by Wishu: Swapstack](https://i.ibb.co/vQQtCfv/41.jpg "The Creative Newsletter by Wishu: Swapstack")
 
 **Newsletter Description:**
 
@@ -299,7 +301,7 @@ Description: Maximum 180 characters
 
 *Written by Lauren Razavi*
 
-![Counterflows: Swapstack](42.png "Counterflows: Swapstack")
+![Counterflows: Swapstack](https://i.ibb.co/8z8VppK/42.png "Counterflows: Swapstack")
 
 **Newsletter Description:**
 
@@ -335,7 +337,7 @@ In contrast to the classified ads, which appear at the bottom of our newsletters
 
 *Written by Joanna Ericta*
 
-![The Assist: Swapstack](43.png "The Assist: Swapstack")
+![The Assist: Swapstack](https://i.ibb.co/fC7VWZK/43.png "The Assist: Swapstack")
 
 **Newsletter Description:**
 
@@ -391,7 +393,7 @@ Partner Picks Listings Include:
 
 *Written by Nicole Bianchi*
 
-![The Inkwell by Nicole Bianchi: Swapstack](44.png "The Inkwell by Nicole Bianchi: Swapstack")
+![The Inkwell by Nicole Bianchi: Swapstack](https://i.ibb.co/jHtJHwx/44.png "The Inkwell by Nicole Bianchi: Swapstack")
 
 **Newsletter Description:**
 
