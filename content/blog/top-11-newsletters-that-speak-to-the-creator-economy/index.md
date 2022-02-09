@@ -20,7 +20,7 @@ Below is a roundup of some of the best, most unique, and highly engaging newslet
 
 **Newsletter Description:**
 
-* Find out about useful new stuff. Discover what’s new with a short weekly email. Useful sites & resources to save time and to help you do what you do a little more creatively.
+* Useful sites & resources to save time and to help you do what you do a little more creatively. Discover what’s new with a short weekly email. 
 * Each post helps you find new things to make your work more enjoyable.
 * Posts are concise, with clear sections & bullets so you can scan
 * Discover new sites and apps to save yourself time
