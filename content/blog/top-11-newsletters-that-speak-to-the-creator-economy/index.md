@@ -176,7 +176,7 @@ Previous partners include: Notion, Obsidian, Learnopoly, Napkin, Rize, Hera, Kos
 
 **Topics Covered:** Business, Creators, Culture, Future of Work, Marketing, Productivity, Start-ups, Tech, Philosophy, Entrepreneurship.
 
-**[Subscribe here](https://thecuriousbunch.xyz/)**
+**[Subscribe here](https://vidya.so/newsletter)**
 
 **Sponsorships available:**
 
