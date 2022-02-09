@@ -73,7 +73,7 @@ Below is a roundup of some of the best, most unique, and highly engaging newslet
 
 **Newsletter Description:**
 
-* An award-winning newsletter that takes you behind the scenes of Anna Codrea-Rado’s creative career. \*\*\*\*
+* An award-winning newsletter that takes you behind the scenes of Anna Codrea-Rado’s creative career.
 * It’s about the highs and lows of working for yourself, by the journalist, podcaster and author Anna Codrea-Rado.
 * Read by freelancers, independent workers, digital nomads, and side hustlers.
 
@@ -81,7 +81,7 @@ Below is a roundup of some of the best, most unique, and highly engaging newslet
 
 **Cadence:** Every 2 weeks
 
-**Topics Covered:** Business, Culture, Entrepreneurship, Future of work, Productivity, Tech
+**Topics Covered:** Business, Culture, Entrepreneurship, Future of Work, Productivity, Tech
 
 **[Subscribe here](https://annacodrearado.substack.com/)**
 
@@ -145,7 +145,7 @@ A one-off, 200-character classified ad out in my popular weekly newsletter
 
 **Topics Covered:** Creators, Education, Entrepreneurship, Future of Work, Lifestyle, Productivity, Science, Start-ups
 
-**[Subscribe here](https://nesslabs.ck.page/posts/maker-mind-interview-with-the-co-founder-of-notion)**
+**[Subscribe here](https://nesslabs.com/newsletter)**
 
 **Available Sponsorships:**
 
