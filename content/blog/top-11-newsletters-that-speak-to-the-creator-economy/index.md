@@ -12,7 +12,7 @@ Below is a roundup of some of the best, most unique, and highly engaging newslet
 
 ![Top 11 Newsletters Of Creator Economy](https://i.ibb.co/D9XMDc5/Newsletter-Advertising-101.png "Top 11 Newsletters Of Creator Economy")
 
-### **Wonder Tools**
+### **1. Wonder Tools**
 
 *Written by Jeremy Caplan*
 
