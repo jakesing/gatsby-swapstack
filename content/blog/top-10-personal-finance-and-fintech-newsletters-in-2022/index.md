@@ -1,5 +1,5 @@
 ---
-title: Top 10 Personal Finance and FinTech newsletters in 2022.
+title: Top 10 Personal Finance and FinTech newsletters in 2022
 author: jake@swapstack.co
 date: 2022-02-18T22:37:03.424Z
 description: The most engaging newsletters for anyone who’s interested in
