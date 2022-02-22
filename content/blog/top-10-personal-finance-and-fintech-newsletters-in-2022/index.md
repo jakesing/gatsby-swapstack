@@ -206,7 +206,7 @@ Written by Alfonso Pecca
 
 *Interested in advertising with The Macro Compass?* Find them on [Swapstack](https://www.swapstack.co/)
 
-**2. Gold Weekly Sponsor ($300 Flat Rate. Sign-up for Swapstack to unlock the price.)**
+**2. Gold Weekly Sponsor ($$$ Flat Rate. Sign-up for Swapstack to unlock the price.)**
 
 Text-only ad. No images are needed.
 
