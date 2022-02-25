@@ -41,7 +41,7 @@ A shout-out is the most common type of ad, and can drive huge value if written i
 
 ![](https://uploads-ssl.webflow.com/604a4386ef1eac4bed71c843/6079f57ec3551a2038f44d1c_Screen%20Shot%202021-04-16%20at%204.36.44%20PM.png)
 
-## Shout Out
+## Deep Dive
 
 A deep dive can be hugely valuable to the brand in question, and if the brand is well aligned to your content & readership, your readers might love it. Typically a deep-dive is the center of a given newsletter.
 
