@@ -1,5 +1,5 @@
 ---
-title: 6 Powerful Tips to Build A High Converting Newsletter Landing Page
+title: 6 Powerful Tips to Build A High Converting Newsletter Landing Page
 author: anangsha@swapstack.co
 date: 2022-03-04T17:55:44.171Z
 description: With a high-converting newsletter landing page, convert more
