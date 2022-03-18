@@ -1,5 +1,5 @@
 ---
-title: 8 Best Newsletters Like Morning Brew - Swapstack
+title: The Top 8 Newsletters Like Morning Brew - Swapstack
 author: jake@swapstack.co
 date: 2022-03-18T16:55:02.548Z
 description: 8 newsletters like Morning Brew targeting professional millennials.
