@@ -39,10 +39,11 @@ export default function Features() {
                 </p>
                 <div className="mt-6">
                   <a
-                    href="https://app.swapstack.co/brand-gallery"
+                    href="https://airtable.com/shrwGmJbC9cQbCrrS/tbl0S4ZbetMKCgO2Y"
                     className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700"
                   >
-                    Check out our brands
+                    See <span className="italic">&nbsp;some&nbsp;</span> of our
+                    brands
                   </a>
                 </div>
               </div>

@@ -31,10 +31,11 @@ export default function Features() {
                 </p>
                 <div className="mt-6">
                   <a
-                    href="https://app.swapstack.co/newsletter-gallery"
+                    href="https://airtable.com/shrEY1tqy0JtVdNdO/tbl3DeoKZ3nUr13OV"
                     className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700"
                   >
-                    Check out our newsletters
+                    See <span className="italic">&nbsp;some&nbsp;</span> of our
+                    newsletters
                   </a>
                 </div>
               </div>
