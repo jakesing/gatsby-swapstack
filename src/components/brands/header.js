@@ -13,12 +13,19 @@ export default function Header() {
             copy. Swapstack connects you with relevant newsletters so you can
             reach their high engagement, high specificity audiences.
           </p>{" "}
-          <div className="mt-6">
+          <div className="mt-6 flex flex-col w-66 inline-flex space-y-2">
             <a
               href="https://app.swapstack.co/login?key=signup"
-              className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700"
+              className="inline-flex items-center px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700"
             >
               Sign up for Swapstack
+            </a>
+            <a
+              target="_blank"
+              href="https://calendly.com/swapstack/brand-meeting"
+              className="inline-flex items-center px-4 py-2 border border-transparent text-base font-medium rounded-md text-indigo-700 bg-indigo-100 hover:bg-indigo-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+            >
+              Schedule a Demo!
             </a>
           </div>
         </div>

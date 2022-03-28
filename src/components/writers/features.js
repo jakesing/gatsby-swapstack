@@ -39,6 +39,7 @@ export default function Features() {
                 </p>
                 <div className="mt-6">
                   <a
+                    target="_blank"
                     href="https://airtable.com/shrwGmJbC9cQbCrrS/tbl0S4ZbetMKCgO2Y"
                     className="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700"
                   >
