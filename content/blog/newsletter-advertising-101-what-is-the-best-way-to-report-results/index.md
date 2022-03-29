@@ -1,7 +1,7 @@
 ---
 title: "Newsletter Advertising 101: What is the best way to report results?"
 author: vidya@swapstack.co
-date: 2021-12-13T05:21:31.456Z
+date: 2022-03-29T14:51:12.119Z
 description: How to report results after a sponsored collaboration with a brand
   and how to ensure that it turns into a long-term relationship.
 thumbnail: https://i.ibb.co/bKdWz0Y/Newsletter-Advertising-101-3.jpg
