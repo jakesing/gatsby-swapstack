@@ -45,7 +45,9 @@ Users can set up a subscription model with their newsletter, locking a few posts
 
 Writers can leverage this to [set up a paid newsletter](https://swapstack.co/5-ways-to-convert-your-newsletter-to-a-powerful-income%C2%A0stream/) that lets them earn a monthly recurring revenue, thus providing some much-needed stability and peace of mind. Substack takes a 10 per cent commission for each transaction and all payments are made through Stripe.
 
-> “For writers, your connection to your readers gets upgraded when they choose to install the app. As ever, you retain total ownership of your content and mailing list, but now you also get instant, reliable delivery (no more Promotions folder!), multiple media formats in a single package, and another way for readers to connect with you and your work.” — [Chris Best](https://substack.com/profile/2-chris-best), [Hamish McKenzie](https://substack.com/profile/1-hamish-mckenzie), [Jairaj Sethi](https://substack.com/profile/47628-jairaj-sethi), *[Introducing the Substack app: What you read matters](https://on.substack.com/p/substackapp?s=w)*
+> For writers, your connection to your readers gets upgraded when they choose to install the app. As ever, you retain total ownership of your content and mailing list, but now you also get instant, reliable delivery (no more Promotions folder!), multiple media formats in a single package, and another way for readers to connect with you and your work.
+
+— [Chris Best](https://substack.com/profile/2-chris-best), [Hamish McKenzie](https://substack.com/profile/1-hamish-mckenzie), [Jairaj Sethi](https://substack.com/profile/47628-jairaj-sethi), *[Introducing the Substack app: What you read matters](https://on.substack.com/p/substackapp?s=w)*
 
 ### Pros of Substack
 
