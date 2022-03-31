@@ -60,7 +60,7 @@ Writers can leverage this to [set up a paid newsletter](https://swapstack.co/5-w
 
 * **Lack of the community aspect:** The comments section on Substack is usually pretty quiet, with even popular newsletter posts getting a handful of comments.
 * **Exclusivity in making money:** [Stripe is the only payment gateway available](https://substack.com/going-paid-guide), which automatically excludes writers from many countries.
-* **Difficulty in ranking on Google**: On Medium, a blog URL looks like “m*[edium.com/article-title](http://edium.com/article-title)*” while on Substack, the blog URL looks like “*[yourname.substack.com/article-title](http://yourname.substack.com/article-title).*” This type of URL has some difficulty getting ranked on search engines.
+* **Difficulty in ranking on Google**: On Medium, a blog URL looks like “*medium.com/article-title*” while on Substack, the blog URL looks like “*yourname.substack.com/article-title.*” This type of URL has some difficulty getting ranked on search engines.
 * **Lack of advanced analytics:** Substack only shows writers the number of times their newsletter has been opened and what percentage of readers clicked on the links. There is no information about audience demographics, what other topics the readers are interested in, how much time they spent reading the post, etc.
 
 - - -
@@ -114,8 +114,8 @@ Even though you can send your stories as emails to your readers using either of 
 
 And even though you can publish articles on both platforms, Medium is the better option as it has a much higher domain authority than Substack, increasing the online visibility of your content. There are also more platform-specific tools like publications and internal distribution (aka curation) tools that can help you drive even more traffic to your blog.
 
-Do you have experience publishing in either Substack or Medium? What has your experience been on the platforms? Do share your story in the comments, or share this article on Twitter and tag us @[SwapstackHQ](https://medium.com/u/6ec97abea892).
+Do you have experience publishing in either Substack or Medium? What has your experience been on the platforms? Do share your story in the comments, or share this article on Twitter and tag us @[SwapstackHQ](https://twitter.com/SwapstackHQ).
 
 - - -
 
-***Want to monetize your newsletter but don’t want to ask your readers for money? [Head over to Swapstack](https://swapstack.co/?utm_source=video&utm_medium=Youtube&utm_campaign=Anangsha) and start finding incredible sponsorships for your email newsletter.***
+***Want to monetize your newsletter but don’t want to ask your readers for money? [Head over to Swapstack](https://swapstack.co/) and start finding incredible sponsorships for your email newsletter.***
