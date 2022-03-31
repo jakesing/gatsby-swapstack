@@ -1,5 +1,5 @@
 ---
-title: Substack vs Medium
+title: "Substack vs Medium: Which Platform to Start Writing On in 2022"
 author: anangsha@swapstack.co
 date: 2022-03-31T17:39:19.749Z
 description: Confused which platform to choose to connect with your audience?
