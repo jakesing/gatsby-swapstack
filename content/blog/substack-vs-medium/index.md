@@ -45,20 +45,22 @@ Users can set up a subscription model with their newsletter, locking a few posts
 
 Writers can leverage this to [set up a paid newsletter](https://swapstack.co/5-ways-to-convert-your-newsletter-to-a-powerful-income%C2%A0stream/) that lets them earn a monthly recurring revenue, thus providing some much-needed stability and peace of mind. Substack takes a 10 per cent commission for each transaction and all payments are made through Stripe.
 
-> “For writers, your connection to your readers gets upgraded when they choose to install the app. As ever, you retain total ownership of your content and mailing list, but now you also get instant, reliable delivery (no more Promotions folder!), multiple media formats in a single package, and another way for readers to connect with you and your work.” — [Chris Best](https://substack.com/profile/2-chris-best), [Hamish McKenzie](https://substack.com/profile/1-hamish-mckenzie), [Jairaj Sethi](https://substack.com/profile/47628-jairaj-sethi), *[Introducing the Substack app: What you read matters](https://on.substack.com/p/substackapp?s=w)*
+> For writers, your connection to your readers gets upgraded when they choose to install the app. As ever, you retain total ownership of your content and mailing list, but now you also get instant, reliable delivery (no more Promotions folder!), multiple media formats in a single package, and another way for readers to connect with you and your work.
+
+— [Chris Best](https://substack.com/profile/2-chris-best), [Hamish McKenzie](https://substack.com/profile/1-hamish-mckenzie), [Jairaj Sethi](https://substack.com/profile/47628-jairaj-sethi), *[Introducing the Substack app: What you read matters](https://on.substack.com/p/substackapp?s=w)*
 
 ### Pros of Substack
 
 * **Direct connection with readers**: Your emails land directly into the reader’s inbox, providing the grounds for a more personal connection with them. This is a feature for which Substack is widely loved and respected among the writing community.
 * **Send free emails for life**: Other email service providers like [MailChimp](https://mailchimp.com/), [MailerLite](https://www.mailerlite.com/), or [ConvertKit](https://convertkit.com/) charge you money to send emails, especially if you have more than 1000–2000 subscribers. But Substack lets you send free emails for life, irrespective of your subscriber count.
 * **Discoverability on the platform**: Since Substack makes money when the writers earn from subscriptions, the platform interface is designed in such a way to increase email subscriptions for your email newsletter.
-* **Full control over content:** As a writer, you are the owner of your newsletter, and can publish any content that you’d like. This opens up the possibility to do brand sponsorships (more about them [here](https://swapstack.co/the-ultimate-newsletter-guide-how-to-set-up-paid-sponsorships-with%C2%A0brands/)) on your newsletter wherein you introduce your readers to a new tool they would benefit from. A great place to find relevant sponsors is **[Swapstack](https://swapstack.co/?utm_source=video&utm_medium=Youtube&utm_campaign=Anangsha)** - the premier newsletter advertising marketplace.
+* **Full control over content:** As a writer, you are the owner of your newsletter, and can publish any content that you’d like. This opens up the possibility to do brand sponsorships (more about them [here](https://swapstack.co/the-ultimate-newsletter-guide-how-to-set-up-paid-sponsorships-with%C2%A0brands/)) on your newsletter wherein you introduce your readers to a new tool they would benefit from. A great place to find relevant sponsors is **[Swapstack](https://swapstack.co/)** - the premier newsletter advertising marketplace.
 
 ### Cons of Substack
 
 * **Lack of the community aspect:** The comments section on Substack is usually pretty quiet, with even popular newsletter posts getting a handful of comments.
 * **Exclusivity in making money:** [Stripe is the only payment gateway available](https://substack.com/going-paid-guide), which automatically excludes writers from many countries.
-* **Difficulty in ranking on Google**: On Medium, a blog URL looks like “m*[edium.com/article-title](http://edium.com/article-title)*” while on Substack, the blog URL looks like “*[yourname.substack.com/article-title](http://yourname.substack.com/article-title).*” This type of URL has some difficulty getting ranked on search engines.
+* **Difficulty in ranking on Google**: On Medium, a blog URL looks like “*medium.com/article-title*” while on Substack, the blog URL looks like “*yourname.substack.com/article-title.*” This type of URL has some difficulty getting ranked on search engines.
 * **Lack of advanced analytics:** Substack only shows writers the number of times their newsletter has been opened and what percentage of readers clicked on the links. There is no information about audience demographics, what other topics the readers are interested in, how much time they spent reading the post, etc.
 
 - - -
@@ -112,8 +114,8 @@ Even though you can send your stories as emails to your readers using either of 
 
 And even though you can publish articles on both platforms, Medium is the better option as it has a much higher domain authority than Substack, increasing the online visibility of your content. There are also more platform-specific tools like publications and internal distribution (aka curation) tools that can help you drive even more traffic to your blog.
 
-Do you have experience publishing in either Substack or Medium? What has your experience been on the platforms? Do share your story in the comments, or share this article on Twitter and tag us @[SwapstackHQ](https://medium.com/u/6ec97abea892).
+Do you have experience publishing in either Substack or Medium? What has your experience been on the platforms? Do share your story in the comments, or share this article on Twitter and tag us @[SwapstackHQ](https://twitter.com/SwapstackHQ).
 
 - - -
 
-***Want to monetize your newsletter but don’t want to ask your readers for money? [Head over to Swapstack](https://swapstack.co/?utm_source=video&utm_medium=Youtube&utm_campaign=Anangsha) and start finding incredible sponsorships for your email newsletter.***
+***Want to monetize your newsletter but don’t want to ask your readers for money? [Head over to Swapstack](https://swapstack.co/) and start finding incredible sponsorships for your email newsletter.***
