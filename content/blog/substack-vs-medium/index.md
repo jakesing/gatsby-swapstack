@@ -10,7 +10,7 @@ thumbnail: https://i.ibb.co/CmC0hQZ/Newsletter-Advertising-101-1.png
 
 If you’re looking to start making money by writing online, this article is just for you. In it, you’ll find everything you need to know about the internet’s two biggest monetized writing platforms: Medium and Substack.
 
-Which one should you pick to start writing your blog? Read on to find more.
+Which one should you pick to start writing your newsletter? Read on to find more.
 
 I have been [writing on Medium](https://anangsha.medium.com/) since mid-2020, and have had [a successful Substack newsletter](https://anangsha.substack.com/) since around the same time. This article is based on my experiences and the stories I heard from my writer friends who are prolific on both platforms. It contains some hand-picked pieces of advice that will help you learn all that you need to know to get your online writing journey started.
 
@@ -60,7 +60,7 @@ Writers can leverage this to [set up a paid newsletter](https://swapstack.co/5-w
 
 * **Lack of the community aspect:** The comments section on Substack is usually pretty quiet, with even popular newsletter posts getting a handful of comments.
 * **Exclusivity in making money:** [Stripe is the only payment gateway available](https://substack.com/going-paid-guide), which automatically excludes writers from many countries.
-* **Difficulty in ranking on Google**: On Medium, a blog URL looks like “*medium.com/article-title*” while on Substack, the blog URL looks like “*yourname.substack.com/article-title.*” This type of URL has some difficulty getting ranked on search engines.
+* **Difficulty in ranking on Google**: On Medium, a website URL looks like “*medium.com/article-title*” while on Substack, the website URL looks like “*yourname.substack.com/article-title.*” This type of URL has some difficulty getting ranked on search engines.
 * **Lack of advanced analytics:** Substack only shows writers the number of times their newsletter has been opened and what percentage of readers clicked on the links. There is no information about audience demographics, what other topics the readers are interested in, how much time they spent reading the post, etc.
 
 - - -
