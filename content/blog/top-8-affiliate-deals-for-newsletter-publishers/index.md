@@ -1,5 +1,5 @@
 ---
-title: Top 8 Affiliate Deals For Newsletter Publishers
+title: Top 8 Affiliate Deals For Newsletter Publishers In 2022
 author: jake@swapstack.co
 date: 2022-04-06T18:58:32.535Z
 description: Want to monetize your newsletter with pre-approved affiliate deals?
