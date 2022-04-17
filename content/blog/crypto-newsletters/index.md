@@ -1,5 +1,5 @@
 ---
-title: Crypto Newsletters
+title: Top 9 Crypto and Web3 Newsletters in 2022
 author: vidya@swapstack.co
 date: 2022-04-15T18:03:09.384Z
 description: 9 must-read newsletters for crypto and web3 enthusiasts.
