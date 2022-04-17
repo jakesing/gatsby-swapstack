@@ -1,7 +1,7 @@
 ---
 title: Crypto Newsletters
 author: vidya@swapstack.co
-date: 2022-04-17T18:03:09.384Z
+date: 2022-04-15T18:03:09.384Z
 description: 9 must-read newsletters for crypto and web3 enthusiasts.
 thumbnail: https://i.ibb.co/hVgqvq3/Newsletter-Advertising-101.png
 ---
