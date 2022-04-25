@@ -1,5 +1,5 @@
 ---
-title: Improve Your Newsletter Open Rate
+title: Boost Your Newsletter Open Rate With These 12 Powerful Tips
 author: anangsha@swapstack.co
 date: 2022-04-25T17:26:47.823Z
 description: Increase your newsletter's open rate with these powerful tips!
