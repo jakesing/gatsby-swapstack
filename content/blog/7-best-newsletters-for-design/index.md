@@ -93,7 +93,6 @@ This list highlights 7 newsletters from the world of design.
   One text link+description at the top of category 3.
 
   3. **Paid Product Review ($$$$ Flat Rate. Sign-up for Swapstack to unlock the price):** I will write a review of your product in the intro of the newsletter for one week. There will be no top ad combo for that week, it will include multiple links and screenshots, and it will be approximately 500-800 words.
-
   4. **Classified Listing ($$$$ Flat Rate. Sign-up for Swapstack to unlock the price):** A single text link in a single issue included in a section called "Commercial Apps & Classifieds", near the bottom of the newsletter.
 
 *Interested in advertising with Web Tools Weekly?* Find them on [Swapstack](https://www.swapstack.co/)
@@ -167,3 +166,9 @@ This list highlights 7 newsletters from the world of design.
   1. **Newsletter Sponsorship ($$$$ Flat Rate. Sign-up for Swapstack to unlock the price):** Please feel free to reach out for examples and more information about our platform and offerings.
 
 *Interested in advertising with The Discourse?* Find them on [Swapstack](https://www.swapstack.co/)
+
+
+
+- - -
+
+***Want to monetize your newsletter but don’t want to ask your readers for money? [Head over to Swapstack](https://swapstack.co/) and start finding incredible sponsorships and affiliate deals for your email newsletter.***
