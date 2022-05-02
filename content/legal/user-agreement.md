@@ -1,7 +1,7 @@
 ---
 title: User Agreement
 date: 2022-01-28T23:15:10.171Z
-description: Swapstack User Agreement, January 2022
+description: Swapstack User Agreement, May 2022
 slug: user-agreement
 ---
 Date:	The date in which you have clicked through to accept the terms of this Agreement
