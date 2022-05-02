@@ -1,6 +1,6 @@
 ---
 title: User Agreement
-date: 2022-01-28T23:15:10.171Z
+date: 2022-05-02T21:32:12.674Z
 description: Swapstack User Agreement, May 2022
 slug: user-agreement
 ---
