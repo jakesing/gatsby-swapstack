@@ -1,5 +1,5 @@
 ---
-title: Newsletters for Product Managers
+title: Top 7 Newsletters for Product Managers
 author: vidya@swapstack.co
 date: 2022-05-03T17:21:54.209Z
 description: Are you a product person? Want to stay updated? You're in the right place!
