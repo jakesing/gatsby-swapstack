@@ -18,27 +18,27 @@ The terms and conditions of this User Agreement (the “**Agreement**”), toget
 
    Swapstack’s Platform enables Users to request services based on the following types of advertising campaigns:
 
-> **Functionality 1: Self Service Campaigns**
->
-> Swapstack’s Self Service campaign offering enables Writers and Advertisers to connect on Swapstack’s virtual newsletter advertising marketplace. Using the Self Service functionality: (1) Writers are empowered to set pricing for advertisements available for sale on each such Writer’s newsletters or other media distributions, and (2) Advertisers avail themselves of such advertising opportunities, which may include, without limitation, Advertiser logo placement in newsletters, shout outs or other mentions in newsletters, sponsored posts, and deep dives focused on the Advertiser’s business, products or offerings.  If the Writer believes that there is a match and alignment of interests with any Advertiser on the Platform, Writer may click the “Intro” option to request an introduction to such Advertiser, which may be accepted or rejected by the Advertiser, as determined in its sole discretion.  If an “Intro” match is successful, Swapstack will connect the Writer and Advertiser via email or using chat functionalities on the Swapstack Platform.  Writer and Advertiser shall then be responsible for coordinating terms for any such business arrangement contemplated hereunder.
->
-> For detail regarding payments due for services rendered in connection with Self Service Campaigns, see “Section 2 – Payment; Software Integration.”
->
-> **Functionality #2 – Managed Campaigns**
->
-> Swapstack’s Managed Campaign service is an offering made available to Advertisers seeking customized advertising solutions.  Swapstack will work with interested Advertisers to create a Managed Campaign Advertiser account specific to these purposes, at which time each such interested Advertiser will scope its requests for Swapstack’s further processing, which may include, without limitation, sourcing newsletters with advertising availability, connecting the Advertiser with Writers, and closing advertising deals.  Swapstack will then manage all aspects of such Managed Campaign for Advertiser.  Advertiser may engage in such Managed Campaign by y agreeing to such arrangement with Swapstack directly.  
->
-> For detail regarding payments due for services rendered in connection with Managed Campaigns, see “Section 2 – Payment; Software Integration.”
->
-> **Functionality #3 – Plug & Play Campaigns**
->
-> Swapstack’s Plug & Play campaign is an affiliate program in which Writers can select from a set of pre-vetted advertising deals with Advertisers on the Platform.  Using the Plug & Play functionality, interested Advertisers complete a clickthrough menu in which they agree to certain pricing, payment and advertising terms without separately engaging with Writers, making such opportunities available to any interested Writer that accepts its terms.  Upon accepting an Advertiser’s Plug & Play offering, the Writer and Advertiser are automatically connected by Swapstack for further coordination and processing.  
->
-> For detail regarding payments due for services rendered in connection with Plug & Play Campaigns, see “Section 2 – Payment; Software Integration.”
->
-> **Functionality #4 – Tip Jars**
->
-> Swapstack’s Tip Jar is a service with which Writers can collect donations and “tips” from readers of their newsletters. Each Swapstack Writer is provided with a link to their externally available Tip Jar page which they can place where they like. Readers of the Writers content can choose on their own accord to tip a Writer. Writers will receive this payment directly into their Stripe accounts.
+    **Functionality 1: Self Service Campaigns**
+
+    Swapstack’s Self Service campaign offering enables Writers and Advertisers to connect on Swapstack’s virtual newsletter advertising marketplace. Using the Self Service functionality: (1) Writers are empowered to set pricing for advertisements available for sale on each such Writer’s newsletters or other media distributions, and (2) Advertisers avail themselves of such advertising opportunities, which may include, without limitation, Advertiser logo placement in newsletters, shout outs or other mentions in newsletters, sponsored posts, and deep dives focused on the Advertiser’s business, products or offerings.  If the Writer believes that there is a match and alignment of interests with any Advertiser on the Platform, Writer may click the “Intro” option to request an introduction to such Advertiser, which may be accepted or rejected by the Advertiser, as determined in its sole discretion.  If an “Intro” match is successful, Swapstack will connect the Writer and Advertiser via email or using chat functionalities on the Swapstack Platform.  Writer and Advertiser shall then be responsible for coordinating terms for any such business arrangement contemplated hereunder.
+
+    For detail regarding payments due for services rendered in connection with Self Service Campaigns, see “Section 2 – Payment; Software Integration.”
+
+    **Functionality #2 – Managed Campaigns**
+
+    Swapstack’s Managed Campaign service is an offering made available to Advertisers seeking customized advertising solutions.  Swapstack will work with interested Advertisers to create a Managed Campaign Advertiser account specific to these purposes, at which time each such interested Advertiser will scope its requests for Swapstack’s further processing, which may include, without limitation, sourcing newsletters with advertising availability, connecting the Advertiser with Writers, and closing advertising deals.  Swapstack will then manage all aspects of such Managed Campaign for Advertiser.  Advertiser may engage in such Managed Campaign by y agreeing to such arrangement with Swapstack directly.  
+
+    For detail regarding payments due for services rendered in connection with Managed Campaigns, see “Section 2 – Payment; Software Integration.”
+
+    **Functionality #3 – Plug & Play Campaigns**
+
+    Swapstack’s Plug & Play campaign is an affiliate program in which Writers can select from a set of pre-vetted advertising deals with Advertisers on the Platform.  Using the Plug & Play functionality, interested Advertisers complete a clickthrough menu in which they agree to certain pricing, payment and advertising terms without separately engaging with Writers, making such opportunities available to any interested Writer that accepts its terms.  Upon accepting an Advertiser’s Plug & Play offering, the Writer and Advertiser are automatically connected by Swapstack for further coordination and processing.  
+
+    For detail regarding payments due for services rendered in connection with Plug & Play Campaigns, see “Section 2 – Payment; Software Integration.”
+
+    **Functionality #4 – Tip Jars**
+
+    Swapstack’s Tip Jar is a service with which Writers can collect donations and “tips” from readers of their newsletters. Each Swapstack Writer is provided with a link to their externally available Tip Jar page which they can place where they like. Readers of the Writers content can choose on their own accord to tip a Writer. Writers will receive this payment directly into their Stripe accounts.
 
 2. **Payment; Software Integration**
 
