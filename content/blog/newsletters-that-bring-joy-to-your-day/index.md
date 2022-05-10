@@ -1,5 +1,5 @@
 ---
-title: Newsletters That Bring Joy To Your Day
+title: 10 Amazing Newsletters That Bring Joy To Your Day
 author: vidya@swapstack.co
 date: 2022-05-10T16:12:24.906Z
 description: Want to start your day with one good thing? Or a newsletter that
