@@ -1,5 +1,5 @@
 ---
-title: 10 Newsletters For Writers
+title: 10 Newsletters You Should Subscribe To If You're A Writer!
 author: vidya@swapstack.co
 date: 2022-05-17T23:42:25.722Z
 description: 10 must-read newsletters for writers!
