@@ -17,23 +17,23 @@ thumbnail: https://i.ibb.co/5h6tpZj/Swapstack-Designs-7.png
 
 ## How Newsletter Advertising Worked Wonders for Alts
 
-So far, Alts has run **31 successful newsletter campaigns**! Their goal was not just about driving new subscribers but about acquiring highly engaged subscribers with high retention rates. Since joining Swapstack a few months ago, Alts has driven **3,750 high-value conversions** through newsletter advertising.
+So far, Alts has run **31 successful newsletter campaigns**! Their goal was not just about driving new subscribers but also about acquiring highly engaged subscribers with high retention rates. Since joining Swapstack a few months ago, Alts has driven **3,750 high-value conversions** through newsletter advertising.
 
 ## An honest look at the CPA compared to other marketing channels
 
 According to the Founder of Alts, [Stefan von Imhof](https://twitter.com/stefanvonimhof):
 
-> “We spent $43,000 to get about 3,750 conversions, for a CPA of about $12. This is **less expensive than advertising on YouTube. The quality of subscribers is MUCH higher through Swapstack compared to traditionally more efficient media like Facebook or Google**.
-
-We consistently drove high-intent, reliable, and predictable conversions through newsletter advertising.”
+> We spent $43,000 to get about 3,750 conversions, for a CPA of about $12. This is **less expensive than advertising on YouTube. The quality of subscribers is MUCH higher through Swapstack compared to traditionally more efficient media like Facebook or Google**.\
+> \
+> We consistently drove high-intent, reliable, and predictable conversions through newsletter advertising.”
 
 ## What worked for Alts?
 
 #### **1. Social Proof:**
 
-One of the most important things that worked for Alts when approaching newsletter advertising, was highlighting their social proof through their Ad Copy and on their landing page. Giving the reader a little bit of FOMO always works wonders to drive a conversion.
+One of the most important things that worked for Alts, when approaching newsletter advertising, was highlighting their social proof through their Ad Copy and on their landing page. Giving the reader a little bit of FOMO always works wonders to drive a conversion.
 
-“Join 48,000+ investors and see what you’ve been missing.”
+![](https://i.ibb.co/Wts6Wt7/Classic-Nerd.png)
 
 #### **2. Frequency Matters:**
 
@@ -47,9 +47,7 @@ Alts worked with newsletters like ‘**[Android Intelligence](https://www.androi
 
 **[Plug and Play](https://swapstack.co/plug-and-play/)** is Swapstack's in-house affiliate deal program that’s tailored for newsletter publishers and advertisers. When an advertiser enables a Plug and Play deal, they ONLY pay for the conversions newsletter publishers drive. This leads to extremely efficient, hands-off growth that can complement larger, more direct campaigns.
 
-Using Plug & Play, Alts drove 594 efficient conversions. This helped them drive down their acquisition cost and complement their larger direct buys.
-
-
+Using Plug & Play, Alts drove **594 efficient conversions**. This helped them **drive down their acquisition cost** and complement their larger direct buys.
 
 - - -
 
@@ -57,4 +55,6 @@ If you have a product or service that needs marketing, try newsletter advertisin
 
 **[Head over to Swapstack today](https://app.swapstack.co/login)**, choose a newsletter that best aligns with your brand’s vision, and start sponsoring to reach your ideal audience!
 
-**P.S**: We also recently launched [Swapstack Campaigns](https://swapstack.co/sponsor-bundles-of-newsletters-in-one-go-with-swapstack-campaigns/) where you can sponsor bundles of newsletters in one go, without any back and forth! Ready to scale your newsletter sponsorships program with us? **[Set up a time with the Swapstack team.](https://calendly.com/swapstack/swapstack-initial-meeting/?utm_medium=article&utm_source=swapstackblog)**
+**P.S**: We also recently launched [Swapstack Campaigns](https://swapstack.co/sponsor-bundles-of-newsletters-in-one-go-with-swapstack-campaigns/) where you can sponsor bundles of newsletters in one go, without any back and forth! 
+
+Ready to scale your newsletter sponsorships program with us? **[Set up a time with the Swapstack team.](https://calendly.com/swapstack/swapstack-initial-meeting/?utm_medium=article&utm_source=swapstackblog)**
