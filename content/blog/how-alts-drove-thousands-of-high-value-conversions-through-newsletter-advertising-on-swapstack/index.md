@@ -11,7 +11,7 @@ thumbnail: https://i.ibb.co/G3nNLjG/Swapstack-Designs-9.png
 
 ## Introduction
 
-[Alts](https://alts.co/) is a community & publication that helps you discover and invest in the best alternative assets. Around 48,000+ investors receive Alts daily in their inboxes to explore unique investment ideas. Alts utilized Swapstack to increase their community members & newsletter subscribers through highly efficient newsletter marketing.
+[Alts](https://alts.co/) is a community & publication that helps you discover and invest in the best alternative assets. As of May 2022, around 50,000+ investors receive Alts daily in their inboxes to explore unique investment ideas. Alts utilized Swapstack to increase their community members & newsletter subscribers through highly efficient newsletter marketing.
 
 **[Sign-up today as an advertiser](https://app.swapstack.co/login)** and set up a campaign on Swapstack in less than 5 minutes, with dozens of newsletters. Or, **[set up a time with the Swapstack team](https://calendly.com/swapstack/swapstack-initial-meeting/?utm_medium=article&utm_source=swapstackblog)** so we can guide you through the process.
 
