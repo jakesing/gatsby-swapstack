@@ -5,9 +5,9 @@ author: vidya@swapstack.co
 date: 2022-05-13T12:17:14.614Z
 description: Learn how Alts.co ran 31 successful newsletter campaigns with
   Swapstack and drove 3,750 conversions!
-thumbnail: https://i.ibb.co/5h6tpZj/Swapstack-Designs-7.png
+thumbnail: https://i.ibb.co/G3nNLjG/Swapstack-Designs-9.png
 ---
-![How Alts Drove Thousands Of High-value Conversions Through Newsletter Advertising On Swapstack](https://i.ibb.co/5h6tpZj/Swapstack-Designs-7.png "How Alts Drove Thousands Of High-value Conversions Through Newsletter Advertising On Swapstack")
+![How Alts Drove Thousands Of High-value Conversions Through Newsletter Advertising On Swapstack](https://i.ibb.co/G3nNLjG/Swapstack-Designs-9.png "How Alts Drove Thousands Of High-value Conversions Through Newsletter Advertising On Swapstack")
 
 ## Introduction
 
