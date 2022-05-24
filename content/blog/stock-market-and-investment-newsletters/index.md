@@ -1,8 +1,9 @@
 ---
-title: Stock Market and Investment Newsletters
+title: 9 Stock Market and Investment Newsletters You Should Read Today!
 author: vidya@swapstack.co
 date: 2022-05-24T09:28:20.513Z
-description: Top 9 Stock Market and Investment Newsletters You Should Read Today!
+description: Top 9 Stock Market and Investment Newsletters to make smart
+  investment decisions!
 thumbnail: https://i.ibb.co/k82Cnx8/Swapstack-Designs.png
 ---
 ![Stock Market and Investment Newsletters](https://i.ibb.co/k82Cnx8/Swapstack-Designs.png "Stock Market and Investment Newsletters")
