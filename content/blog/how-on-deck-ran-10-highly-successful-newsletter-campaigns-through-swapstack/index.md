@@ -34,7 +34,7 @@ According to On Deck:
 
 > **It’s definitely more efficient than other paid marketing channels like LinkedIn or Google.** \
 > \
-> **Cost per application from a successful Swapstack sponsorshi is about half of our average CPA.**\
+> **Cost per application from a successful Swapstack sponsorship is about half of our average CPA.**\
 > \
 > **When we run a newsletter campaign that fits the right kind of audience, it brings in really high number of quality applicants which in turn helps On Deck’s community and vision.**
 
