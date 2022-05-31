@@ -1,5 +1,5 @@
 ---
-title: Top Technology Newsletters
+title: 12 Must-Read Newsletters To Stay Up-to-date on Technology
 author: vidya@swapstack.co
 date: 2022-05-31T18:04:30.527Z
 description: Must-read newsletters if you're into tech.
