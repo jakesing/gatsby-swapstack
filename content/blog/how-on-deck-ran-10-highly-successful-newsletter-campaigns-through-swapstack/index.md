@@ -1,16 +1,16 @@
 ---
-title: How On Deck Ran 10+ Highly Successful Newsletter Campaigns Through Swapstack
+title: How On Deck Cut Their Cost-Per-Acquisition By 50% Through Newsletter Marketing
 author: vidya@swapstack.co
 date: 2022-05-27T22:13:07.606Z
 description: A brand case study to understand how they're driving 1000's of
-  high-quality conversions through newsletter advertising.
+  high-quality applicants through newsletter advertising.
 thumbnail: https://i.ibb.co/xhMgrcq/Swapstack-Designs-1.png
 ---
 ![How On Deck Ran 10+ Highly Successful Newsletter Campaigns Through Swapstack](https://i.ibb.co/xhMgrcq/Swapstack-Designs-1.png "How On Deck Ran 10+ Highly Successful Newsletter Campaigns Through Swapstack")
 
 > **Where Swapstack really wins out is the convenience of sponsoring several newsletters without having to individually hunt them down and build relationships with each one.**\
 > \
-> — On Deck
+> — Udit, Growth Marketer at On Deck
 
 ## Introduction
 
@@ -32,9 +32,15 @@ So far, On Deck ran over 10+ highly successful newsletter campaigns (for example
 
 According to On Deck:
 
-> **It’s definitely more efficient than other paid marketing channels like LinkedIn or Google.**
+> **It’s definitely more efficient than other paid marketing channels like LinkedIn or Google.** \
+> \
+> **Cost per application from a successful Swapstack sponsorshi is about half of our average CPA.**\
+> \
+> **When we run a newsletter campaign that fits the right kind of audience, it brings in really high number of quality applicants which in turn helps On Deck’s community and vision.**
 
-When we run a newsletter campaign that fits the right kind of audience, it brings in really high number of quality applicants which in turn helps On Deck’s community and vision.
+Like all marketing, newsletter sponsorships are a channel that takes time to optimize. 
+
+On Deck runs sponsorships with multiple newsletters, and doubles down on the ones that work well. Rinse and repeat this process, and On Deck has found publishers that cut their CPA (acquiring new, highly qualified applicants) by 50%.
 
 ## 3 Tips From On Deck To Increase Conversion Rate Through Newsletter Advertising
 
