@@ -95,7 +95,7 @@ Few tips to run a successful campaign with a Plug and Play deal:
 
 ![](https://i.ibb.co/tZyFzKt/screenshot-13.png)
 
-1. **[The Assist](https://theassist.com/)** and **[The Daily Coach](https://www.thedaily.coach/)** **newsletters have earned $2,000+ running Morning Brew’s deal alone**. See the examples below on how they personalize the ad copy for their readers.
+2. **[The Assist](https://theassist.com/)** and **[The Daily Coach](https://www.thedaily.coach/)** **newsletters have earned $2,000+ running Morning Brew’s deal alone**. See the examples below on how they personalize the ad copy for their readers.
 
 ![](https://i.ibb.co/SR0zzQz/screenshot-18.png)
 
@@ -107,7 +107,7 @@ Few tips to run a successful campaign with a Plug and Play deal:
 
 Getting paid for a Plug and Play deal is pretty straightforward:
 
-* For every **conversion** you bring for a brand or a publisher’s deal, you’ll get paid.
+* For every conversion you bring for a brand or a publisher’s deal, you’ll get paid.
 * At the beginning of every month, advertisers report the results from the previous month. We'll notify you by email when this happens, and you can always see the latest information in your Swapstack dashboard.
 * We'll transfer the funds directly to your Stripe account as soon as the advertiser's payment is received.
 
