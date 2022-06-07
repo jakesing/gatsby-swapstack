@@ -1,5 +1,5 @@
 ---
-title: Marketing Newsletters
+title: Top 15 Marketing Newsletters You Need In Your Inbox!
 author: vidya@swapstack.co
 date: 2022-06-07T08:39:58.523Z
 description: Busy marketer? This one is for you!
