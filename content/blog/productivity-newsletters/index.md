@@ -1,5 +1,5 @@
 ---
-title: Productivity Newsletters
+title: Top 15 Productivity Newsletters You Should Read!
 author: vidya@swapstack.co
 date: 2022-06-15T17:16:51.748Z
 description: Must-read productivity newsletters if you want to stay on top of
