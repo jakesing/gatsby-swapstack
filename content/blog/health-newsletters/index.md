@@ -1,5 +1,5 @@
 ---
-title: Health Newsletters
+title: Top 10 Health Newsletters You Should Read
 author: vidya@swapstack.co
 date: 2022-06-21T20:07:28.115Z
 description: If you want to be up-to-date with the health industry or learn a
