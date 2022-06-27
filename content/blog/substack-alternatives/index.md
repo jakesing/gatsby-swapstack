@@ -9,7 +9,7 @@ thumbnail: https://i.ibb.co/zFQn7bp/Swapstack-Designs-7.png
 
 Sometimes we confuse “popularity” with the “best”.
 
-Substack is undoubtedly popular when it comes to newsletter creation platforms. But, you’re mistaken if you thought that’s the only creator-friendly platform out there to send your next email newsletter.
+[Substack](https://substack.com/) is undoubtedly popular when it comes to newsletter creation platforms. But, you’re mistaken if you thought that’s the only creator-friendly platform out there to send your next email newsletter.
 
 Substack was founded in 2017 as a means to send digital newsletters in an email format directly to subscribers. Substack allowed its users to easily set up paid newsletters and cut the middle man out while accepting payments from a subscriber.
 
@@ -45,7 +45,7 @@ So, I did some research and came up with the 6 best alternatives for Substack so
 
 ## Substack Alternatives
 
-### 1. Revue
+### 1. [Revue](https://www.getrevue.co/)
 
 If there’s any platform that’s very similar to what Substack does, then that’s got to be Revue.
 
@@ -59,7 +59,7 @@ If there’s any platform that’s very similar to what Substack does, then that
 * Cross-publish your Revue posts on Medium, WordPress, and more.
 * It’s completely free!
 
-### 2. ConvertKit
+### 2. [ConvertKit](https://convertkit.com/)
 
 If you’re a creator, then you must have come across ConvertKit already. It’s one of the best marketing platforms for a creator to grow an audience base and monetize your creations through a newsletter, podcast, a book, a community, and more!
 
@@ -72,7 +72,7 @@ If you’re a creator, then you must have come across ConvertKit already. It’s
 * One of my favourite features of ConvertKit is how they support selling digital products like e-books, paid newsletters, coaching sessions, and many other formats to fully take advantage of being a creator.
 * It also comes with advanced automation and segmentation features to accelerate your career as a full-time creator.
 
-### 3. Medium
+### 3. [Medium](https://medium.com/)
 
 Publishing on Medium and sending your posts as a newsletter is free. The stories you publish are not just for the people who follow you but Medium’s strength lies in distributing your posts to the right people.
 
@@ -87,7 +87,7 @@ Publishing on Medium and sending your posts as a newsletter is free. The stories
 
 Read more on this: **[Substack vs Medium: Which Platform to Start Writing On in 2022](https://swapstack.co/substack-vs-medium/)**
 
-### 4. Curated
+### 4. [Curated](https://curated.co/)
 
 If you’re more of a curator than a writer, then this platform is for you!
 
@@ -102,7 +102,7 @@ Win inbox attention with Curated’s incredible features to curate content for y
 * You can also set up paid subscriptions for which they take **0% commission**!
 * However, the Curated platform is free only for up to 1,500 subscribers. Once you grow beyond this number, you’ll have to pay a monthly fee to continue using their platform and features. Here’s the **[pricing page](https://www.curated.co/pricing)**.
 
-### 5. Ghost
+### 5. [Ghost](https://ghost.org/)
 
 As far as I’m aware, Ghost started off as a Substack alternative and became much more than that. It is still one of the best alternatives to Substack and a popular suggestion among newsletter writers.
 
@@ -116,7 +116,7 @@ For only $9/mo, you can set-up a blog, a paid newsletter, and build a community 
 * If you’re a blogger and a newsletter writer, you can leverage SEO by opting for Ghost.
 * You can use a Ghost website to send newsletters, as a blog, and as a membership platform for no extra cost other than the monthly fee.
 
-### 6. Beehiiv
+### 6. [Beehiiv](https://beehiiv.com/)
 
 If you’re looking for a newsletter platform that has a little bit more features like built-in advanced segmentation, referral program, and advanced customization to suit your editing needs, then try Beehiiv.
 
@@ -131,13 +131,15 @@ If you’re looking for a newsletter platform that has a little bit more feature
 
 ## Conclusion: Which Substack alternative is better?
 
-Personally, I’d suggest you go with Revue because it literally takes you 5 minutes to set up. Since it’s also integrated with Twitter, it’s a lot easier to gain your first 1,000 subscribers by leveraging the platform instead of worrying about deliverability and other technicalities.
+Personally, I’d suggest you go with [Revue](https://www.getrevue.co/) because it literally takes you 5 minutes to set up. Since it’s also integrated with Twitter, it’s a lot easier to gain your first 1,000 subscribers by leveraging the platform instead of worrying about deliverability and other technicalities.
 
 Once you understand how newsletter platforms work, you’ll gain an understanding of which features matter to you the most.
 
-If you’re into Analytics, go for Ghost or Beehiiv.
+If you’re into Analytics, go for [Ghost](https://ghost.org/) or [Beehiiv](https://beehiiv.com/).
 
-If you’re into curation and don’t mind other features, go for Curated or stick with Revue.
+If you're into advanced segmentation of your audience, go for [ConvertKit](https://convertkit.com/).
+
+If you’re into curation and don’t mind other features, go for [Curated](https://curated.co/) or stick with [Revue](https://www.getrevue.co/).
 
 What’s your choice of weapon when it comes to sending newsletters? Do you have a personal favourite on this list?
 
