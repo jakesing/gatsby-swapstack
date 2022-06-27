@@ -1,5 +1,5 @@
 ---
-title: Substack Alternatives
+title: 6 Best Substack Alternatives To Send Your Email Newsletter
 author: vidya@swapstack.co
 date: 2022-06-27T21:36:45.027Z
 description: Looking for a substack alternative? You're in the right place! Read on.
