@@ -97,7 +97,7 @@ Win inbox attention with Curated’s incredible features to curate content for y
 
 **Highlights of Curated:**
 
-* As you discover interesting content, capture it in seconds using your one-click ‘Save to Curated’ link.
+* As you discover interesting content, capture it in seconds using their one-click ‘Save to Curated’ link.
 * One of their best features is their editor which makes editing effortless. You can just glance over the links you collected and click on that “+” icon to add them to your newsletter.
 * You can also set up paid subscriptions for which they take **0% commission**!
 * However, the Curated platform is free only for up to 1,500 subscribers. Once you grow beyond this number, you’ll have to pay a monthly fee to continue using their platform and features. Here’s the **[pricing page](https://www.curated.co/pricing)**.
@@ -131,7 +131,7 @@ If you’re looking for a newsletter platform that has a little bit more feature
 
 ## Conclusion: Which Substack alternative is better?
 
-Personally, I’d suggest you go with [Revue](https://www.getrevue.co/) because it literally takes you 5 minutes to set up. Since it’s also integrated with Twitter, it’s a lot easier to gain your first 1,000 subscribers by leveraging the platform instead of worrying about deliverability and other technicalities.
+Personally, I’d suggest you go with [Revue](https://www.getrevue.co/) because it literally takes 5 minutes to set up. Since it’s also integrated with Twitter, it’s a lot easier to gain your first 1,000 subscribers by leveraging the platform instead of worrying about deliverability and other technicalities.
 
 Once you understand how newsletter platforms work, you’ll gain an understanding of which features matter to you the most.
 
