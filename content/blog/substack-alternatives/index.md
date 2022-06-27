@@ -131,7 +131,7 @@ If you’re looking for a newsletter platform that has a little bit more feature
 
 ## Conclusion: Which Substack alternative is better?
 
-Personally, I’d suggest you go with [Revue](https://www.getrevue.co/) because it literally takes you 5 minutes to set up. Since it’s also integrated with Twitter, it’s a lot easier to gain your first 1,000 subscribers by leveraging the platform instead of worrying about deliverability and other technicalities.
+Personally, I’d suggest you go with [Revue](https://www.getrevue.co/) because it literally takes 5 minutes to set up. Since it’s also integrated with Twitter, it’s a lot easier to gain your first 1,000 subscribers by leveraging the platform instead of worrying about deliverability and other technicalities.
 
 Once you understand how newsletter platforms work, you’ll gain an understanding of which features matter to you the most.
 
