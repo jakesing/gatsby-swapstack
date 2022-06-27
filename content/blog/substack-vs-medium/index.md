@@ -116,6 +116,12 @@ And even though you can publish articles on both platforms, Medium is the better
 
 Do you have experience publishing in either Substack or Medium? What has your experience been on the platforms? Do share your story in the comments, or share this article on Twitter and tag us @[SwapstackHQ](https://twitter.com/SwapstackHQ).
 
+
+
+## **Suggested articles for further reading:**
+
+* [6 Best Substack Alternatives To Send Your Email Newsletter](https://swapstack.co/substack-alternatives/)
+
 - - -
 
 ***Want to monetize your newsletter but don’t want to ask your readers for money? [Head over to Swapstack](https://swapstack.co/) and start finding incredible sponsorships for your email newsletter.***
