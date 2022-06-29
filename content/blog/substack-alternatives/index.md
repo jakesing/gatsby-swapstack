@@ -39,7 +39,7 @@ Ernie Smith, the author of **[Tedium](https://tedium.co/)** and one of our Swaps
 
 **Note:** After a continuous backlash from the community of writers, Substack has now turned off the feature that defaults to disabling emails when someone downloads their reader app.
 
-However, it is very clear that Substack is trying to get its readers to use its app and is deviating itself from actually receiving emails in readers’ inboxes.
+Although Substack allows its users to collect email addresses, it is very clear that it is encouraging its readers to use its app as opposed to getting newsletters delivered *only* to their inboxes.
 
 So, I did some research and came up with the 6 best alternatives for Substack so you can continue doing the good work you’re already doing as a newsletter writer and actually own your subscriber base without getting “*platformed*”.
 
