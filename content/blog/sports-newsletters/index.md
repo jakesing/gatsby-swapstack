@@ -1,5 +1,5 @@
 ---
-title: Sports Newsletters
+title: Top 13 Sports Newsletters For The Athlete In You!
 author: vidya@swapstack.co
 date: 2022-06-29T10:33:13.609Z
 description: 13 sports newsletters you should subscribe for the athlete in you!
