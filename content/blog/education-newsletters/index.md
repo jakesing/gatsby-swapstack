@@ -1,5 +1,5 @@
 ---
-title: Education Newsletters
+title: Top 5 Education Newsletters You Should Check Out
 author: vidya@swapstack.co
 date: 2022-07-05T23:44:06.976Z
 description: Top 5 Education Newsletters you should subscribe to if you want to
