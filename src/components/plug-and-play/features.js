@@ -1,8 +1,5 @@
 import { SearchIcon, SparklesIcon } from "@heroicons/react/outline"
 import React from "react"
-import BrandGallery from "../../images/brandgallery.png"
-import Arielle from "../../images/arielle.png"
-import Dashboard from "../../images/dashboard.png"
 import Pnp1 from "../../images/pnp1.png"
 import Pnp2 from "../../images/pnp2.png"
 
@@ -82,16 +79,15 @@ export default function Features() {
               </div>
               <div className="mt-6">
                 <h2 className="text-3xl font-extrabold tracking-tight text-gray-900">
-                  Run your first Plug & Play ad immediately
+                  Run your first Plug & Play sponsorship in less than a minute!
                 </h2>
                 <p className="mt-4 text-lg text-gray-500">
-                  All deals are pre-approved, meaning you can run an ad as soon
-                  as you want.
+                Pre-approval means you can run any deal whenever you want. Find a deal that will resonante with your readers, get paid for conversions you drive.
                 </p>
                 <ul className="mt-4 text-lg text-gray-500 list-disc ml-8">
-                  <li display="list-item">Copy your personalized link. </li>
+                  <li display="list-item">1-click copy the suggested creative.</li>
                   <li display="list-item">
-                    Use some of the suggested creative.
+                  Adjust to your newsletters look and feel.
                   </li>
                   <li display="list-item">Publish the newsletter.</li>
                   <li display="list-item">

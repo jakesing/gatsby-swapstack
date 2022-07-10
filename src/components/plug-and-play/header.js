@@ -5,11 +5,12 @@ export default function Header() {
     <div className="bg-white">
       <div className="max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8">
         <a
-          href="https://www.producthunt.com/posts/plug-play-by-swapstack?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-plug-play-by-swapstack"
+          href="https://www.producthunt.com/posts/plug-play-by-swapstack-2?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-plug&#0045;play&#0045;by&#0045;swapstack&#0045;2"
           target="_blank"
+          rel="noreferrer"
         >
           <img
-            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=310465&theme=light"
+            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=351966&theme=light"
             alt="Plug & Play by Swapstack - Pre-approved affiliate deals for all newsletter creators. | Product Hunt"
             style={{ width: "250px", height: "54px" }}
             className="mt-4 mb-8 mx-auto"
