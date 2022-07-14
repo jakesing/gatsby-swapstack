@@ -1,5 +1,5 @@
 ---
-title: Political Newsletters
+title: 13 Best Political Newsletters
 author: vidya@swapstack.co
 date: 2022-07-14T11:39:26.243Z
 description: 13 best political newsletters you should subscribe to.
