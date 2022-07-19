@@ -1,5 +1,5 @@
 ---
-title: Climate Newsletters
+title: Top 9 Climate Change Newsletters
 author: vidya@swapstack.co
 date: 2022-07-19T19:14:56.213Z
 description: Top 9 Climate Change Newsletters You Should Subscribe To!
