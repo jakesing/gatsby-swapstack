@@ -75,10 +75,7 @@ Assuming at least 1% of your list converts (i.e, 50 subscribers), then you’d p
 
 Plug and Play deals allow you to monetize your newsletter in more than one way. They’re pre-approved so you don’t have to “pitch” any advertiser. You can run them anytime on your newsletter.
 
-Sign-up or log in to Swapstack to access these deals today.
-
-![](https://i.ibb.co/ryMMbMF/Untitled.png
-https://i.ibb.co/y5YjJ36/Untitled-1.png)
+Sign-up or log in to [Swapstack](https://swapstack.co/) to access these deals today.
 
 ![](https://i.ibb.co/y5YjJ36/Untitled-1.png)
 
