@@ -110,7 +110,7 @@ If you want to be up-to-date with the health industry or learn a trick or two to
 
 ### 6. **Healthcare Huddle**
 
-*Written by Brett Dashevsky*
+*Written by Jared Dashevsky*
 
 ![](https://i.ibb.co/qdksqsp/https-s3-amazonaws-com-appforest-uf-f1644273765693x253921590001253250-Huddle-Logo-Icon-1.png)
 
@@ -119,7 +119,7 @@ If you want to be up-to-date with the health industry or learn a trick or two to
 * **Cadence:** Weekly
 * **Topics Covered:** Government, Tech, Health & Wellness, Science
 
-**[Subscribe here](https://airtable.com/appoi5mxlo3xzDlCb/tbl3DeoKZ3nUr13OV/healthcarehuddle.com)**
+**[Subscribe here](https://workweek.com/brand/healthcare-huddle/)**
 
 * **Available Sponsorships:**
 
