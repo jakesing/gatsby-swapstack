@@ -1,5 +1,5 @@
 ---
-title: Social Impact Newsletters
+title: 10 Best Social Impact Newsletters You Should Read!
 author: vidya@swapstack.co
 date: 2022-07-25T12:55:09.180Z
 description: 10 Best Social Impact and Social Good Newsletters for you!
