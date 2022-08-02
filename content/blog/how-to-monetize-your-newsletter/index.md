@@ -58,7 +58,7 @@ Once you feature a Plug & Play sponsor on your newsletter, you get paid for any 
 
 If you’re a newsletter writer, you can run these ads *anytime* you’d like, meaning you never have to send a newsletter issue without a sponsor.
 
-![](https://i.ibb.co/HrcBHXw/screenshot-49.png)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/81225efc534e49c9a6cf3ef323de1706" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Read **[How To Monetize Your Newsletter Through Swapstack Plug and Play Deals](https://swapstack.co/how-to-monetize-your-newsletter-through-swapstack-plug-and-play-deals/)** for a complete guide.
 
@@ -108,8 +108,6 @@ I made a free **[Newsletter Checklist](https://www.buymeacoffee.com/learnwithvid
 * A list of successful LinkedIn post templates.
 
 Let your imagination run wild!
-
-
 
 ## 5. Subscriptions For Your Newsletter Audience
 
