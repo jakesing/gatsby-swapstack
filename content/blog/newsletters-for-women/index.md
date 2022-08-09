@@ -1,5 +1,5 @@
 ---
-title: Newsletters For Women
+title: Top 12 Newsletters For Women
 author: vidya@swapstack.co
 date: 2022-08-09T10:02:31.147Z
 description: Every woman needs these newsletters in their inbox!
