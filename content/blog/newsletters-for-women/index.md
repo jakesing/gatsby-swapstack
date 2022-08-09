@@ -56,7 +56,7 @@ thumbnail: https://i.ibb.co/0fHg5PN/Swapstack-Designs-18.png
 * **Cadence:** Weekly
 * **Topics Covered:** Beauty, Education, Food & Beverage, Hobbies, Lifestyle, Social Good, Health & Wellness
 
-**[Subscribe here](https://theliterarylifestyle.substack.com/)**
+**[Subscribe here](https://www.julesbuono.com/)**
 
 * **Available Sponsorships:**
 
@@ -94,7 +94,7 @@ thumbnail: https://i.ibb.co/0fHg5PN/Swapstack-Designs-18.png
 * **Cadence:** Weekly
 * **Topics Covered:** Branding, Business, Entrepreneurship, Future of work, Opinion, Productivity, Start-ups, Tech, Social Good, Personal, Marketing, Culture, Parenting, Health & Wellness, Lifestyle, Nutrition, Other
 
-**[Subscribe here](https://madmimi.com/s/766bc11)**
+**[Subscribe here](https://foundingmoms.com/)**
 
 * **Available Sponsorships:**
 
