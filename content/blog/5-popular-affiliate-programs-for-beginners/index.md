@@ -1,7 +1,7 @@
 ---
 title: 5 Popular Affiliate Programs For Beginners!
 author: vidya@swapstack.co
-date: 2022-08-16T10:48:21.642Z
+date: 2022-08-04T10:48:21.642Z
 description: Weekly recommendations to run affiliate deals on your newsletter.
 thumbnail: https://i.ibb.co/NYsjjqK/Swapstack-Designs-19.png
 ---
