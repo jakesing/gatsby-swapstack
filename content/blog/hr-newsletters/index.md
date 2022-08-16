@@ -1,5 +1,5 @@
 ---
-title: HR Newsletters
+title: 10 Amazing HR Newsletters For Busy Professionals!
 author: vidya@swapstack.co
 date: 2022-08-16T12:19:46.449Z
 description: Looking for jobs or want to advertise in job related newsletter
