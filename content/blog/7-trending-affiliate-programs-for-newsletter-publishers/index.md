@@ -1,7 +1,7 @@
 ---
 title: 7 Trending Affiliate Programs For Newsletter Publishers!
 author: vidya@swapstack.co
-date: 2022-08-16T11:01:52.308Z
+date: 2022-08-11T11:01:52.308Z
 description: Weekly recommendations to run affiliate deals on your newsletter.
 thumbnail: https://i.ibb.co/wrkzX2S/Swapstack-Designs-20.png
 ---
