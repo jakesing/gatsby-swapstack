@@ -1,5 +1,5 @@
 ---
-title: Newsletters For Pets
+title: 5 Newsletters For Animals and Pet Care
 author: vidya@swapstack.co
 date: 2022-08-23T08:38:03.386Z
 description: If you're looking for some dose of cuteness or educating yourself
