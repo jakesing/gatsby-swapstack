@@ -1,7 +1,7 @@
 ---
 title: 7 Affiliate Programs You Should Check Out on Swapstack!
 author: vidya@swapstack.co
-date: 2022-08-24T10:55:56.951Z
+date: 2022-08-26T15:30:24.537Z
 description: Weekly recommendations to run affiliate deals on your newsletter.
 thumbnail: https://i.ibb.co/Rbzq9Mb/Swapstack-Designs-24.png
 ---
