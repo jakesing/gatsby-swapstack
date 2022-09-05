@@ -1,5 +1,5 @@
 ---
-title: Travel Newsletters
+title: 11 Best Travel Newsletters For The Traveler In You!
 author: vidya@swapstack.co
 date: 2022-08-30T13:36:22.146Z
 description: Top 11 Travel Newsletters For The Traveler In You!
