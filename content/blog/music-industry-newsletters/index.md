@@ -1,5 +1,5 @@
 ---
-title: Music Industry Newsletters
+title: Top 7 Newsletters In Music Industry
 author: vidya@swapstack.co
 date: 2022-09-06T17:42:29.468Z
 description: Top 7 Newsletters For The Music Lover In You!
