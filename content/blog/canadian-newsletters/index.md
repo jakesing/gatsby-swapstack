@@ -1,5 +1,5 @@
 ---
-title: Canadian Newsletters
+title: 5 Best Canadian Newsletters You Should Read!
 author: vidya@swapstack.co
 date: 2022-09-13T11:45:43.474Z
 description: Top Canadian newsletters to stay up-to-date with the latest news and alerts!
