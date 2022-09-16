@@ -1,7 +1,7 @@
 ---
 title: "Swapstack Weekly Affiliate Deal Digest #1"
 author: vidya@swapstack.co
-date: 2022-09-16T06:51:43.823Z
+date: 2022-09-08T06:51:43.823Z
 description: Weekly deals to make that extra dough!
 thumbnail: https://i.ibb.co/GR5WDPZ/Swapstack-Designs-30.png
 ---
