@@ -1,5 +1,5 @@
 ---
-title: Real Estate Newsletters
+title: 6 Real Estate Newsletters You Should Check Out!
 author: vidya@swapstack.co
 date: 2022-09-20T13:00:52.813Z
 description: Top real estate newsletters you should check out today!
