@@ -1,7 +1,7 @@
 ---
-title: Parenting Newsletters
+title: 5 Parenting Newsletters You Should Subscribe To!
 author: vidya@swapstack.co
-date: 2022-09-07T14:04:17.190Z
+date: 2022-09-27T14:05:38.934Z
 description: 5 Newsletters You Should Check Out If You're A Parent!
 thumbnail: https://i.ibb.co/syCk7hs/Swapstack-Designs-29.png
 ---
