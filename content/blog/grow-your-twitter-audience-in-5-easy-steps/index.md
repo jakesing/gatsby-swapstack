@@ -6,7 +6,7 @@ description: At Swapstack, we’ve partnered with our users, and other platforms
   in the newsletter space to share content that would be helpful to all creators
   in our network. Shout out to Salley for co-writing this piece about growing an
   audience on Twitter!
-thumbnail: salley-x-swapstack-grow-your-twitter-audience-in-5-easy-steps.jpeg
+thumbnail: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa477faac-138b-49f6-a990-b2ba676dbf99_3200x2400.jpeg
 ---
 ### The framework that helped Salley gain 1,000+ followers since January
 
@@ -14,7 +14,7 @@ Hey friends!
 
 Question for you: how many times have you heard people talk about how getting on Twitter has helped them build businesses, make friends and start new careers? And how many times have you tried to grow your Twitter audience, only to get discouraged when you don’t see results?
 
-![twitter logo on dark background](https://lh6.googleusercontent.com/UVjBbGnphcX5QiUmWpnr0sv60bS4XJclxVvc8S-IJP3wpuRR2PTUyN3_NfRSM9MKZpFI30i7U384DMgbzyonv1oVoDUXDgkBETdDarBxtuRx-bN8cdXwT-zi0esJz1gGuzhw2zwRJKfo0DXSBwoUkJ_vJrVBB6XGvDny2T_J6xG8nCx0fnJxa6FtpQ "Grow your Twitter audience in 5 easy steps")
+![twitter logo on dark background](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa477faac-138b-49f6-a990-b2ba676dbf99_3200x2400.jpeg "Grow your Twitter audience in 5 easy steps")
 
 Twitter is a long game. Growth is sometimes slow and difficult to jump start, but we’re here to tell you that once you unlock it, you’ll wonder how you ever lived without this platform. We know because we were once in your shoes.
 
