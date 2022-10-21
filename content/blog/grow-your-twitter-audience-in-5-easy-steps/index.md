@@ -14,7 +14,7 @@ Hey friends!
 
 Question for you: how many times have you heard people talk about how getting on Twitter has helped them build businesses, make friends and start new careers? And how many times have you tried to grow your Twitter audience, only to get discouraged when you don’t see results?
 
-![](https://lh6.googleusercontent.com/UVjBbGnphcX5QiUmWpnr0sv60bS4XJclxVvc8S-IJP3wpuRR2PTUyN3_NfRSM9MKZpFI30i7U384DMgbzyonv1oVoDUXDgkBETdDarBxtuRx-bN8cdXwT-zi0esJz1gGuzhw2zwRJKfo0DXSBwoUkJ_vJrVBB6XGvDny2T_J6xG8nCx0fnJxa6FtpQ)
+![twitter logo on dark background](https://lh6.googleusercontent.com/UVjBbGnphcX5QiUmWpnr0sv60bS4XJclxVvc8S-IJP3wpuRR2PTUyN3_NfRSM9MKZpFI30i7U384DMgbzyonv1oVoDUXDgkBETdDarBxtuRx-bN8cdXwT-zi0esJz1gGuzhw2zwRJKfo0DXSBwoUkJ_vJrVBB6XGvDny2T_J6xG8nCx0fnJxa6FtpQ "Grow your Twitter audience in 5 easy steps")
 
 Twitter is a long game. Growth is sometimes slow and difficult to jump start, but we’re here to tell you that once you unlock it, you’ll wonder how you ever lived without this platform. We know because we were once in your shoes.
 
