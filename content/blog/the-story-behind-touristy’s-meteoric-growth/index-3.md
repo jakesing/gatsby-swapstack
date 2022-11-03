@@ -4,7 +4,7 @@ author: jake@swapstack.co
 date: 2022-11-03T17:06:57.734Z
 description: An interview with Noor Gupta, Founder of 'Touristy' - a Business
   newsletter for millennials by Luke Versweyveld.
-thumbnail: touristy.png
+thumbnail: https://substackcdn.com/image/fetch/w_264,c_limit,f_webp,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c302de6-38b3-402c-9afd-ca9cde648257_742x742.png
 ---
 ## Meet Noor Gupta, creator of ‘Touristy’- a Business newsletter for millennials
 
