@@ -46,7 +46,7 @@ This feature was published in collaboration with Startup Founder Daily, a media 
 
 **Please support our Founder by sharing her story.**
 
-Follow Noor on her socials: [instagram](https://www.instagram.com/noorgupta/?hl=en) | [Linkedin](http://www.linkedin.com/in/noor-gupta)
+Follow Noor on her socials: [Instagram](https://www.instagram.com/noorgupta/?hl=en) | [Linkedin](http://www.linkedin.com/in/noor-gupta)
 
 Or Sponsor Touristy on [Swapstack](https://swapstack.co/brands/?utm_source=blog&utm_medium=article&utm_campaign=startup-founder-daily).
 
