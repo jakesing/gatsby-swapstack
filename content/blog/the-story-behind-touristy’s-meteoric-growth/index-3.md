@@ -40,7 +40,7 @@ For a weekly dose of “brief” briefing, subscribe to the [Touristy newsletter
 >
 > In short, I have built credibility within my community via consistency." — Noor Gupta, Founder of Touristy
 
-This feature was published in collaboration with Startup Founder Daily, a media company sharing the stories of early-stage companies for free. Head over to their [website](https://startupfounderdaily.com/) to learn more. To read more about their featured founders, check out the [Founder Roundup Newsletter](https://www.thefounderroundup.com/).
+This feature was published in collaboration with [Startup Founder Daily](https://startupfounderdaily.com), a media company sharing the stories of early-stage companies for free. Head over to their [website](https://startupfounderdaily.com/) to learn more. To read more about their featured founders, check out the [Founder Roundup Newsletter](https://www.thefounderroundup.com/).
 
 ### Congrats to Noor, our Founder of the Day!
 
