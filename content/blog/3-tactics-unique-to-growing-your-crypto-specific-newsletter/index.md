@@ -4,7 +4,7 @@ author: jake@swapstack.co
 date: 2022-11-08T11:21:57.964Z
 description: Our Friends Over At Web3 Daily Share Their Tips On How to Grow Your
   Crypto-Specific Newsletter.
-thumbnail: https://images.squarespace-cdn.com/content/v1/620b03b0f355c971d499868e/85ea887c-0aa7-4672-8e93-d9ab4f932a24/Web3-Daily-Newsletter-Header-WTP.png?format=1500w
+thumbnail: web3-daily-logo_small.jpg
 ---
 *Welcome to a new issue of Swapstack newsletter Founder Stories, where we connect with and share the origin stories of hot, up and coming newsletters in all different industries. Each issue of this series will consist of a deep dive into a different newsletter, and give you insight into how they launched, grew, and sustained their growth. Of course, we’ll also touch upon sponsorships and monetization strategies as well 💰. Let’s get to it!*
 
@@ -18,11 +18,11 @@ thumbnail: https://images.squarespace-cdn.com/content/v1/620b03b0f355c971d499868
 
 **Current Sub count & open rate:** 15k subs / 61% avg open rate
 
-**Topics covered:** Web3 and crypto news
+**Topics covered:** Web3, Crypto, Blockchain, NFTs & DeFi.
 
 **1-line description:** Web3 and crypto news, translated into plain English.
 
-![Web3 Daily Newsletter's Logo](https://images.squarespace-cdn.com/content/v1/620b03b0f355c971d499868e/85ea887c-0aa7-4672-8e93-d9ab4f932a24/Web3-Daily-Newsletter-Header-WTP.png?format=1500w "Web3 Daily Newsletter's Logo")
+![Web3 Daily Newsletter's Logo](web3-daily-logo_small.jpg "Web3 Daily Newsletter's Logo")
 
 **Some background on Web3 Daily:**
 
@@ -55,8 +55,6 @@ Crypto newsletters are a unique beast because their audience is more correlated 
 While this article might give our ‘competitors’ some ideas on how to grow bigger, faster; we have a strong belief that this is not a zero-sum game. There can be multiple winners in the crypto newsletter space. In fact, it’s more beneficial for our readers to be subscribed to Web3 Daily, in addition to other newsletters, to get a wider range of news and perspectives.
 
 If you want to stay up to date with Web3 and crypto news, without your eyes glazing, come join the mailing list at [Web3 Daily](https://www.web3daily.co/?utm_source=swapstack&utm_medium=blog&utm_campaign=swapstack&utm_id=SwapStack). It’s free and you can unsubscribe any time (no hard feelings).
-
-
 
 **Want to Work with Web3 Daily? Find them on [Swapstack](https://swapstack.co/brands/).**
 
