@@ -4,7 +4,7 @@ author: jake@swapstack.co
 date: 2022-11-08T11:21:57.964Z
 description: Our Friends Over At Web3 Daily Share Their Tips On How to Grow Your
   Crypto-Specific Newsletter.
-thumbnail: web3-daily-logo_small.jpg
+thumbnail: https://images.squarespace-cdn.com/content/v1/620b03b0f355c971d499868e/85ea887c-0aa7-4672-8e93-d9ab4f932a24/Web3-Daily-Newsletter-Header-WTP.png?format=1500w
 ---
 *Welcome to a new issue of Swapstack newsletter Founder Stories, where we connect with and share the origin stories of hot, up and coming newsletters in all different industries. Each issue of this series will consist of a deep dive into a different newsletter, and give you insight into how they launched, grew, and sustained their growth. Of course, we’ll also touch upon sponsorships and monetization strategies as well 💰. Let’s get to it!*
 
@@ -22,7 +22,7 @@ thumbnail: web3-daily-logo_small.jpg
 
 **1-line description:** Web3 and crypto news, translated into plain English.
 
-![Web3 Daily Newsletter's Logo](web3-daily-logo_small.jpg "Web3 Daily Newsletter's Logo")
+![Web3 Daily Newsletter's Logo](https://images.squarespace-cdn.com/content/v1/620b03b0f355c971d499868e/85ea887c-0aa7-4672-8e93-d9ab4f932a24/Web3-Daily-Newsletter-Header-WTP.png?format=1500w "Web3 Daily Newsletter's Logo")
 
 **Some background on Web3 Daily:**
 
